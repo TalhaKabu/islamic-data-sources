@@ -1,5 +1,5 @@
 {
-  "version": "0.3.7",
+  "version": "0.3.8",
   "categories": [
     {
       "id": 1,
@@ -11,37 +11,37 @@
       "id": 2,
       "title": "Hadis ve Hadis İlimleri",
       "parentId": null,
-      "hadithCount": 9
+      "hadithCount": 10
     },
     {
       "id": 3,
       "title": "Akide",
       "parentId": null,
-      "hadithCount": 421
+      "hadithCount": 436
     },
     {
       "id": 4,
       "title": "Fıkıh ve Fıkıh Usûlü",
       "parentId": null,
-      "hadithCount": 1042
+      "hadithCount": 1054
     },
     {
       "id": 5,
       "title": "Faziletler ve Adaplar",
       "parentId": null,
-      "hadithCount": 710
+      "hadithCount": 728
     },
     {
       "id": 6,
       "title": "Davet ve Hisbe",
       "parentId": null,
-      "hadithCount": 89
+      "hadithCount": 92
     },
     {
       "id": 7,
       "title": "Biyografi ve Tarih",
       "parentId": null,
-      "hadithCount": 171
+      "hadithCount": 173
     },
     {
       "id": 8,
@@ -155,13 +155,13 @@
       "id": 44,
       "title": "Sünnet Hakkında Genel Konular",
       "parentId": 2,
-      "hadithCount": 9
+      "hadithCount": 10
     },
     {
       "id": 56,
       "title": "Sünnetin Önemi ve Değeri",
       "parentId": 44,
-      "hadithCount": 8
+      "hadithCount": 9
     },
     {
       "id": 57,
@@ -173,13 +173,13 @@
       "id": 59,
       "title": "Allah (c.c.)'ye İman",
       "parentId": 3,
-      "hadithCount": 130
+      "hadithCount": 137
     },
     {
       "id": 60,
       "title": "Meleklere İman",
       "parentId": 3,
-      "hadithCount": 29
+      "hadithCount": 30
     },
     {
       "id": 61,
@@ -191,31 +191,31 @@
       "id": 62,
       "title": "Rasûllere İman",
       "parentId": 3,
-      "hadithCount": 35
+      "hadithCount": 37
     },
     {
       "id": 63,
       "title": "Ahiret Gününe İman",
       "parentId": 3,
-      "hadithCount": 107
+      "hadithCount": 108
     },
     {
       "id": 64,
       "title": "Kaza ve Kadere İman",
       "parentId": 3,
-      "hadithCount": 24
+      "hadithCount": 26
     },
     {
       "id": 65,
       "title": "Allah'ın İsimleri ve Hükümleri",
       "parentId": 3,
-      "hadithCount": 74
+      "hadithCount": 80
     },
     {
       "id": 66,
       "title": "Sahabe",
       "parentId": 3,
-      "hadithCount": 30
+      "hadithCount": 31
     },
     {
       "id": 67,
@@ -245,19 +245,19 @@
       "id": 72,
       "title": "Rububiyet Tevhidi",
       "parentId": 59,
-      "hadithCount": 7
+      "hadithCount": 8
     },
     {
       "id": 73,
       "title": "Uluhiyet Tevhidi",
       "parentId": 59,
-      "hadithCount": 42
+      "hadithCount": 43
     },
     {
       "id": 74,
       "title": "İsim ve Sıfat Tevhidi",
       "parentId": 59,
-      "hadithCount": 72
+      "hadithCount": 75
     },
     {
       "id": 75,
@@ -287,13 +287,13 @@
       "id": 79,
       "title": "Peygamberlik",
       "parentId": 62,
-      "hadithCount": 4
+      "hadithCount": 5
     },
     {
       "id": 80,
       "title": "Geçmiş Peygamberler ve Rasûller -aleyhimusselam-",
       "parentId": 62,
-      "hadithCount": 13
+      "hadithCount": 14
     },
     {
       "id": 81,
@@ -341,7 +341,7 @@
       "id": 88,
       "title": "İslam",
       "parentId": 65,
-      "hadithCount": 20
+      "hadithCount": 23
     },
     {
       "id": 89,
@@ -383,7 +383,7 @@
       "id": 98,
       "title": "Nifak",
       "parentId": 65,
-      "hadithCount": 8
+      "hadithCount": 9
     },
     {
       "id": 99,
@@ -395,13 +395,13 @@
       "id": 100,
       "title": "Bidat",
       "parentId": 65,
-      "hadithCount": 4
+      "hadithCount": 6
     },
     {
       "id": 101,
       "title": "Sahabenin Fazileti (r.a.)hum-",
       "parentId": 66,
-      "hadithCount": 24
+      "hadithCount": 25
     },
     {
       "id": 102,
@@ -473,13 +473,13 @@
       "id": 121,
       "title": "İbadet Fıkhı",
       "parentId": 4,
-      "hadithCount": 721
+      "hadithCount": 724
     },
     {
       "id": 122,
       "title": "Muamelat Fıkhı",
       "parentId": 4,
-      "hadithCount": 93
+      "hadithCount": 94
     },
     {
       "id": 123,
@@ -491,7 +491,7 @@
       "id": 124,
       "title": "Aile Fıkhı",
       "parentId": 4,
-      "hadithCount": 153
+      "hadithCount": 154
     },
     {
       "id": 125,
@@ -503,7 +503,7 @@
       "id": 126,
       "title": "Yiyecekler ve İçecekler",
       "parentId": 4,
-      "hadithCount": 30
+      "hadithCount": 32
     },
     {
       "id": 127,
@@ -515,31 +515,31 @@
       "id": 128,
       "title": "Had Cezaları",
       "parentId": 4,
-      "hadithCount": 23
+      "hadithCount": 25
     },
     {
       "id": 129,
       "title": "Yargı",
       "parentId": 4,
-      "hadithCount": 7
+      "hadithCount": 8
     },
     {
       "id": 132,
       "title": "Fıkıh Usûlü",
       "parentId": 4,
-      "hadithCount": 15
+      "hadithCount": 17
     },
     {
       "id": 133,
       "title": "Taharet",
       "parentId": 121,
-      "hadithCount": 131
+      "hadithCount": 132
     },
     {
       "id": 134,
       "title": "Namaz",
       "parentId": 121,
-      "hadithCount": 355
+      "hadithCount": 357
     },
     {
       "id": 135,
@@ -551,19 +551,19 @@
       "id": 136,
       "title": "Zekât",
       "parentId": 121,
-      "hadithCount": 40
+      "hadithCount": 41
     },
     {
       "id": 137,
       "title": "Oruç",
       "parentId": 121,
-      "hadithCount": 57
+      "hadithCount": 59
     },
     {
       "id": 138,
       "title": "Hac ve Umre",
       "parentId": 121,
-      "hadithCount": 55
+      "hadithCount": 56
     },
     {
       "id": 139,
@@ -779,7 +779,7 @@
       "id": 204,
       "title": "İslam Toplumu",
       "parentId": 124,
-      "hadithCount": 6
+      "hadithCount": 7
     },
     {
       "id": 205,
@@ -827,7 +827,7 @@
       "id": 215,
       "title": "Boğazlama",
       "parentId": 126,
-      "hadithCount": 6
+      "hadithCount": 7
     },
     {
       "id": 216,
@@ -845,7 +845,7 @@
       "id": 218,
       "title": "Haram Kılınmış İçecekler",
       "parentId": 126,
-      "hadithCount": 5
+      "hadithCount": 6
     },
     {
       "id": 219,
@@ -881,7 +881,7 @@
       "id": 226,
       "title": "İçki İçmenin Had Cezası",
       "parentId": 128,
-      "hadithCount": 4
+      "hadithCount": 5
     },
     {
       "id": 227,
@@ -917,7 +917,7 @@
       "id": 235,
       "title": "Davalar ve Kanıtlar",
       "parentId": 129,
-      "hadithCount": 4
+      "hadithCount": 5
     },
     {
       "id": 249,
@@ -929,7 +929,7 @@
       "id": 250,
       "title": "Fıkıh ve Usûl Kaideleri",
       "parentId": 132,
-      "hadithCount": 2
+      "hadithCount": 3
     },
     {
       "id": 251,
@@ -971,7 +971,7 @@
       "id": 261,
       "title": "Çelişki ve Tercih",
       "parentId": 132,
-      "hadithCount": 1
+      "hadithCount": 2
     },
     {
       "id": 262,
@@ -983,31 +983,31 @@
       "id": 265,
       "title": "Faziletler",
       "parentId": 5,
-      "hadithCount": 163
+      "hadithCount": 167
     },
     {
       "id": 266,
       "title": "Ahlak Fıkhı",
       "parentId": 5,
-      "hadithCount": 121
+      "hadithCount": 128
     },
     {
       "id": 267,
       "title": "Dinî Adaplar",
       "parentId": 5,
-      "hadithCount": 184
+      "hadithCount": 185
     },
     {
       "id": 268,
       "title": "Dua ve Zikirler Fıkhı",
       "parentId": 5,
-      "hadithCount": 113
+      "hadithCount": 115
     },
     {
       "id": 269,
       "title": "Rekaik ve Öğütler",
       "parentId": 5,
-      "hadithCount": 180
+      "hadithCount": 188
     },
     {
       "id": 270,
@@ -1019,7 +1019,7 @@
       "id": 271,
       "title": "Tevhidin Faziletleri",
       "parentId": 265,
-      "hadithCount": 10
+      "hadithCount": 11
     },
     {
       "id": 272,
@@ -1061,7 +1061,7 @@
       "id": 278,
       "title": "Zikrin Faziletleri",
       "parentId": 265,
-      "hadithCount": 24
+      "hadithCount": 25
     },
     {
       "id": 279,
@@ -1073,7 +1073,7 @@
       "id": 280,
       "title": "Kalp Amellerinin Faziletleri",
       "parentId": 265,
-      "hadithCount": 11
+      "hadithCount": 13
     },
     {
       "id": 281,
@@ -1085,13 +1085,13 @@
       "id": 282,
       "title": "Övülen Ahlak",
       "parentId": 266,
-      "hadithCount": 75
+      "hadithCount": 81
     },
     {
       "id": 283,
       "title": "Yerilen Ahlak",
       "parentId": 266,
-      "hadithCount": 45
+      "hadithCount": 46
     },
     {
       "id": 284,
@@ -1115,7 +1115,7 @@
       "id": 287,
       "title": "Konuşma ve Susma Adabı",
       "parentId": 267,
-      "hadithCount": 31
+      "hadithCount": 32
     },
     {
       "id": 288,
@@ -1187,7 +1187,7 @@
       "id": 300,
       "title": "Allah (c.c.)'yi Zikretmenin Faydaları",
       "parentId": 268,
-      "hadithCount": 14
+      "hadithCount": 15
     },
     {
       "id": 301,
@@ -1253,7 +1253,7 @@
       "id": 312,
       "title": "Duaya İcabet Edilme ve Geri Çevrilme Sebepleri",
       "parentId": 268,
-      "hadithCount": 9
+      "hadithCount": 10
     },
     {
       "id": 313,
@@ -1265,7 +1265,7 @@
       "id": 314,
       "title": "Kalp Amelleri",
       "parentId": 269,
-      "hadithCount": 24
+      "hadithCount": 27
     },
     {
       "id": 315,
@@ -1289,7 +1289,7 @@
       "id": 318,
       "title": "Günahların Ayıplanması",
       "parentId": 269,
-      "hadithCount": 18
+      "hadithCount": 19
     },
     {
       "id": 319,
@@ -1301,7 +1301,7 @@
       "id": 320,
       "title": "Heva ve Şehvetin Ayıplanması",
       "parentId": 269,
-      "hadithCount": 7
+      "hadithCount": 8
     },
     {
       "id": 321,
@@ -1313,7 +1313,7 @@
       "id": 322,
       "title": "Nefislerin Tezkiyesi",
       "parentId": 269,
-      "hadithCount": 18
+      "hadithCount": 21
     },
     {
       "id": 323,
@@ -1331,7 +1331,7 @@
       "id": 325,
       "title": "Allah'a Davet Etmek",
       "parentId": 6,
-      "hadithCount": 33
+      "hadithCount": 34
     },
     {
       "id": 326,
@@ -1343,7 +1343,7 @@
       "id": 327,
       "title": "Şerî Siyaset",
       "parentId": 6,
-      "hadithCount": 45
+      "hadithCount": 47
     },
     {
       "id": 328,
@@ -1373,7 +1373,7 @@
       "id": 338,
       "title": "İslam'ın Fazileti ve Güzellikleri",
       "parentId": 325,
-      "hadithCount": 13
+      "hadithCount": 14
     },
     {
       "id": 339,
@@ -1445,13 +1445,13 @@
       "id": 352,
       "title": "Yöneticinin Görevleri",
       "parentId": 327,
-      "hadithCount": 13
+      "hadithCount": 14
     },
     {
       "id": 353,
       "title": "Halkına Karşı Yöneticinin Hakkı",
       "parentId": 327,
-      "hadithCount": 17
+      "hadithCount": 18
     },
     {
       "id": 354,
@@ -1481,7 +1481,7 @@
       "id": 367,
       "title": "Peygamber'in Hayatı",
       "parentId": 7,
-      "hadithCount": 154
+      "hadithCount": 156
     },
     {
       "id": 368,
@@ -1493,7 +1493,7 @@
       "id": 389,
       "title": "Prophet's Lineage",
       "parentId": 367,
-      "hadithCount": 1
+      "hadithCount": 2
     },
     {
       "id": 392,
@@ -1553,7 +1553,7 @@
       "id": 406,
       "title": "Peygamber'in Şemaili (Dış Görünüşü)",
       "parentId": 367,
-      "hadithCount": 92
+      "hadithCount": 93
     },
     {
       "id": 407,
@@ -1589,7 +1589,7 @@
       "id": 418,
       "title": "Ahl-us-Sunnah's (Sunni) Stance on Religious Innovators",
       "parentId": 100,
-      "hadithCount": 1
+      "hadithCount": 2
     },
     {
       "id": 431,
@@ -1625,7 +1625,7 @@
       "id": 437,
       "title": "Abdest",
       "parentId": 133,
-      "hadithCount": 41
+      "hadithCount": 42
     },
     {
       "id": 438,
@@ -1649,7 +1649,7 @@
       "id": 441,
       "title": "Abdestin Fazileti",
       "parentId": 437,
-      "hadithCount": 6
+      "hadithCount": 7
     },
     {
       "id": 442,
@@ -1697,7 +1697,7 @@
       "id": 456,
       "title": "Namazın Farz Olması ve Namaz Kılmayan Kişinin Hükmü",
       "parentId": 134,
-      "hadithCount": 10
+      "hadithCount": 11
     },
     {
       "id": 457,
@@ -1925,7 +1925,7 @@
       "id": 500,
       "title": "Zekâtın Farz Olması ve Zekât Vermeyen Kişinin Hükmü",
       "parentId": 136,
-      "hadithCount": 3
+      "hadithCount": 4
     },
     {
       "id": 503,
@@ -1973,7 +1973,7 @@
       "id": 512,
       "title": "Obligation of Fasting and Ruling of Its Abandoning",
       "parentId": 137,
-      "hadithCount": 2
+      "hadithCount": 3
     },
     {
       "id": 513,
@@ -2063,7 +2063,7 @@
       "id": 531,
       "title": "Obligation of Hajj and ‘Umrah and Ruling of Its Abandoner",
       "parentId": 138,
-      "hadithCount": 1
+      "hadithCount": 2
     },
     {
       "id": 532,
@@ -2429,7 +2429,7 @@
       "id": 647,
       "title": "Peygamber'in Sünneti",
       "parentId": 406,
-      "hadithCount": 27
+      "hadithCount": 28
     },
     {
       "id": 648,
@@ -2592,6 +2592,12 @@
       "title": "Ayet Tefsirleri",
       "parentId": 10,
       "hadithCount": 11
+    },
+    {
+      "id": 155,
+      "title": "Leasing",
+      "parentId": 122,
+      "hadithCount": 1
     }
   ],
   "hadiths": [
@@ -52280,6 +52286,1054 @@
         "Peygamber (s.a.v.)'in ağırbaşlılık, sabır ve Allah Teala'nın kurallarını hakkıyla yerine getirmesi anlatılmıştır.\r",
         "İbn Hacer şöyle demiştir: 'Hadiste, zor olanı bırakmak, kolay olana razı olmak ve mecbur kalınmayan şeylerde ısrar etmeyi terk etmek vardır.\"\r",
         "Allah Teala'nın hakları dışında, affedici olmaya teşvik edilmiştir."
+      ]
+    },
+    {
+      "id": 66529,
+      "hadithIntro": "Ebû Necîh İrbâd b. Sâriye (r.a.)'dan rivayet edildiğine göre o şöyle demiştir: Rasûlullah (s.a.v.) bize etkileyici bir hutbe verdi, kalpler ürperdi, gözlerimiz yaşla doldu. Biz de; \"Ey Allah'ın Rasûlü! Bu veda eden birisinin hutbesine benziyor dedik. Bize nasihat et.\" O da şöyle buyurdu:",
+      "title": "Size; Allah’a karşı takvalı olmanızı, başınıza bir köle bile yönetici olsa, onu dinleyip itaat etmenizi tavsiye ederim. Benden sonra pek çok ihtilaf göreceksiniz. O zaman sizin üzerinize gerekli olan, benim sünnetime ve doğru yolda olan Hulefâ-i Râşidîn'in sünnetine sarılmanızdır",
+      "hadith": "Ebû Necîh İrbâd b. Sâriye (r.a.)'dan rivayet edildiğine göre o şöyle demiştir: Rasûlullah (s.a.v.) bize etkileyici bir hutbe verdi, kalpler ürperdi, gözlerimiz yaşla doldu. Biz de; \"Ey Allah'ın Rasûlü! Bu veda eden birisinin hutbesine benziyor dedik. Bize nasihat et.\" O da şöyle buyurdu: «Size; Allah’a karşı takvalı olmanızı, başınıza bir köle bile yönetici olsa, onu dinleyip itaat etmenizi tavsiye ederim. Benden sonra pek çok ihtilaf göreceksiniz. O zaman sizin üzerinize gerekli olan, benim sünnetime ve doğru yolda olan Hulefâ-i Râşidîn'in sünnetine sarılmanızdır. Bu sünnetlere azı dişlerinizle sımsıkı sarılın. Sonradan ortaya çıkarılmış şeylerden (bidatlerden) şiddetle kaçının. Sonradan çıkarılmış (din adına) her şey bidattir. Her bidat de sapıklıktır.»",
+      "hadithAr": "عَنْ أَبِي نَجِيحٍ العِرْبَاضِ بْنِ سَارِيَةَ رضي الله عنه قَالَ: وَعَظَنَا رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ مَوْعِظَةً وَجِلَتْ مِنْهَا القُلُوبُ، وَذَرَفَتْ مِنْهَا العُيُونُ، فَقُلْنَا: يَا رَسُولَ اللهِ! كَأَنَّهَا مَوْعِظَةُ مُوَدِّعٍ؛ فَأَوْصِنَا، قَالَ: «أُوصِيكُمْ بِتَقْوَى اللَّهِ، وَالسَّمْعِ وَالطَّاعَةِ، وَإِنْ تَأَمَّرَ عَلَيْكُمْ عَبْدٌ، فَإِنَّهُ مَنْ يَعِشْ مِنْكُمْ بَعْدِي فَسَيَرَى اخْتِلَافًا كَثِيرًا، فَعَلَيْكُمْ بِسُنَّتِي وَسُنَّةِ الخُلَفَاءِ الرَّاشِدِينَ المَهْدِيينَ، عَضُّوا عَلَيْهَا بِالنَّوَاجِذِ، وَإِيَّاكُمْ وَمُحْدَثَاتِ الأُمُورِ؛ فَإِنَّ كُلَّ بِدْعَةٍ ضَلَالَةٌ».",
+      "hadithIntroAr": "عَنْ أَبِي نَجِيحٍ العِرْبَاضِ بْنِ سَارِيَةَ رضي الله عنه قَالَ: وَعَظَنَا رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ مَوْعِظَةً وَجِلَتْ مِنْهَا القُلُوبُ، وَذَرَفَتْ مِنْهَا العُيُونُ، فَقُلْنَا: يَا رَسُولَ اللهِ! كَأَنَّهَا مَوْعِظَةُ مُوَدِّعٍ؛ فَأَوْصِنَا، قَالَ:",
+      "attribution": "Ebû Dâvûd ve Tirmizî rivayet etmiştir",
+      "attributions": [
+        "Ebû Dâvûd ve Tirmizî rivayet etmiştir"
+      ],
+      "grade": "Sahih Hadis",
+      "explanation": "Peygamber Efendimiz (s.a.v.) ashabına gözleri yaşartan, kalpleri ürperten çok tesirli bir vaaz verdi. Sahabeler: Çok tesirli bir vaaz vermesini gördükten sonra Ey Allah’ın Rasûlü! Bu öğüt, sanki ayrılmak üzere olan birinin öğüdüne benziyor diyerek ondan sonra sımsıkı sarılacakları bir öğüt vermesini istediler. Rasûlullah (s.a.v.): Allah (c.c.)'ye karşı takvalı olmanızı tavsiye ediyorum dedi. Bu da farzları yerine getirip haramları terk ederek olur. Dinleyip itaat edin; yani yöneticiler kastedilmiştir. Şayet bir köle başınıza emir tayin edilse ya da yönetimi ele geçirse; yani en alt sınıftan birisi başınıza yönetici olursa fitneyi harekete geçirmeme adına onu küçümseyip reddetmeyin ve ona itaat edin. Şüphesiz aranızdan yaşayanlar çok ihtilaflar görecektir. Sonra onlara bu ihtilaftan kurtulmanın yolunu açıklamıştır. O da   Rasûlullah (s.a.v.)'in sünnetine ve kendisinden sonra gelen hidayet üzere olan Hulefâi Râşidinin Ebû Bekir Sıddık, Ömer b. Hattâb, Osman b. Affân ve Ali b. Ebî Talip (r.a.)hum- sünnetine sarılmak ve sünnete azı dişleriyle -arka azı dişleriyle- sarılmakla kastedilen sünnete bağlı kalmak ve tutunmaktır: Onları dinde sonradan çıkartılıp uydurulan bidatlere karşı uyarmıştır. Çünkü her bidat sapıklıktır.",
+      "categories": [
+        56,
+        44,
+        2,
+        101,
+        66,
+        3,
+        353,
+        327,
+        6
+      ],
+      "hints": [
+        "Sünnete sımsıkı sarılıp tabi olmanın önemi ifade edilmiştir.\r",
+        "Vaaz vermeye ve kalpleri yumuşatmaya özen gösterilmelidir.\r",
+        "Rasûlullah (s.a.v.)'den sonra gelen hidayet üzere olan dört Raşid Halife'nin sünnetine tabi olmak emredilmiştir. Onlar Ebû Bekir, Ömer, Osman ve Ali (r.a.)hum-'dur.\r",
+        "Dinde bidat çıkarmak yasaklanmıştır. Çünkü her bidat sapıklıktır.\r",
+        "Günah olmayan hususlarda Müminlerin yönetimini üstlenen yöneticileri dinleyip itaat etmek gerekir.\r",
+        "Her durum ve zamanda Allah (c.c.)'ye karşı takvalı olmanın önemi ifade edilmiştir.\r",
+        "Bu ümmette ihtilaf gerçekleşecektir. Bu gerçekleştiğinde Rasûlullah (s.a.v.)'in ve Raşit Halifelerin sünnetine dönmek gerekir."
+      ]
+    },
+    {
+      "id": 66512,
+      "hadithIntro": "Ebû Abdurrahman Abdullah b. Ömer İbnu'l-Hattâb (r.a.)'dan rivayet edildiğine göre, o şöyle demiştir: Rasûlullah (s.a.v.)'i şöyle buyururken işittim:",
+      "title": "İslam dini beş esas üzerine bina edilmiştir",
+      "hadith": "Ebû Abdurrahman Abdullah b. Ömer İbnu'l-Hattâb (r.a.)'dan rivayet edildiğine göre, o şöyle demiştir: Rasûlullah (s.a.v.)'i şöyle buyururken işittim: «İslam dini beş esas üzerine bina edilmiştir: Allah'tan başka hak ilah olmadığına ve Muhammed'in Allah'ın kulu ve rasûlü olduğuna şehadet etmek, namaz kılmak, zekât vermek, hacca gitmek ve Ramazan orucunu tutmak.»",
+      "hadithAr": "عَنْ أَبِي عَبْدِ الرَّحْمَنِ عَبْدِ اللَّهِ بْنِ عُمَرَ بْنِ الخَطَّابِ رَضِيَ اللَّهُ عَنْهُ قَالَ: سَمِعْتُ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ يَقُولُ: «بُنِيَ الإِسْلَامُ عَلَى خَمْسٍ: شَهَادَةِ أَنْ لَا إلَهَ إلَّا اللَّهُ وَأَنَّ مُحَمَّدًا ‌عَبْدُهُ ‌وَرَسُولُهُ، وَإِقَامِ الصَّلَاةِ، وَإِيتَاءِ الزَّكَاةِ، وَحَجِّ الْبَيْتِ، وَصَوْمِ رَمَضَانَ».",
+      "hadithIntroAr": "عَنْ أَبِي عَبْدِ الرَّحْمَنِ عَبْدِ اللَّهِ بْنِ عُمَرَ بْنِ الخَطَّابِ رَضِيَ اللَّهُ عَنْهُ قَالَ: سَمِعْتُ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ يَقُولُ:",
+      "attribution": "Buhârî ve Müslim rivayet etmiştir",
+      "attributions": [
+        "Buhârî ve Müslim rivayet etmiştir"
+      ],
+      "grade": "Sahih Hadis",
+      "explanation": "Peygamber Efendimiz (s.a.v.) İslam'ı sağlam bir yapıya ve bu yapıyı destekleyen beş sütuna benzetmiştir. İslam'ın diğer hususları bu binanın tamamlayıcı özellikleridir. İslam'ın şartlarından birincisi: Kelime-i şehadet; Allah'tan başka hak ilah olmadığına, Muhammed'in Allah'ın rasûlü olduğuna şahitlik etmektir. Bu iki husus biri diğerinden ayrılmayan tek bir rükündür. Kul, Allah'ın birliğini ve Allah'tan başka hiç kimsenin ibadete layık olmadığını kabul ederek ve bu sözün gereklerini yerine getirerek hareket eder, Muhammed (s.a.v.)'in risaletine iman eder ve ona tabi olarak bunu söyler. İkinci şart: Namaz kılmaktır. Bir günde farz kılınan beş vakit; sabah, öğlen, ikindi, akşam ve yatsı namazlarını şartları, rükünleri ve vaciplerini gözeterek kılmaktır. Üçüncü şart: Farz olan zekâtı vermektir. Dinin belirlediği miktara ulaşan malın hak edenlere verildiği mali bir ibadettir. Dördüncü şart: Haccetmektir. Allah (c.c.)'ye ibadet etmek kastıyla hac amellerini yerine getirmek için Mekke'ye gitmektir. Beşinci şart: Ramazan orucunu tutmaktır. İbadet kastıyla imsak vaktinden Güneşin batışına kadar yeme içme ve bunun dışındaki orucu bozan hususlardan uzak durmaktır.",
+      "categories": [
+        59,
+        3,
+        79,
+        62,
+        88,
+        65,
+        456,
+        134,
+        121,
+        4,
+        500,
+        136,
+        512,
+        137,
+        531,
+        138
+      ],
+      "hints": [
+        "İslam'ın ilk şartındaki kelime-i tevhide şahitlik etmenin iki kısmı birbirinden ayrılmaz. Dolayısıyla biri olmadan diğeri geçerli değildir. Bundan dolayı bir şart olarak belirlenmiştir.\r",
+        "Kelime-i tevhide şahitlik etmek dinin temelidir ve bunlar olmadan hiçbir söz ve amel kabul edilmez."
+      ]
+    },
+    {
+      "id": 66513,
+      "hadithIntro": "Ebû Abdurrahman Abdullah b. Mes'ûd (r.a.)'dan rivayet edildiğine göre, o şöyle demiştir:",
+      "title": "Sizden birinizin yaratılışı annesinin karnında kırk gün boyunca nutfe (sperm) olarak toplanır",
+      "hadith": "Ebû Abdurrahman Abdullah b. Mes'ûd (r.a.)'dan rivayet edildiğine göre, o şöyle demiştir: Bize, doğru söyleyen, doğruluğu tasdik edilmiş ve kabul görmüş olan Rasûlullah (s.a.v.) şöyle buyurdu: «Sizden birinizin yaratılışı annesinin karnında kırk gün boyunca nutfe (sperm) olarak toplanır. Sonra aynı süreyle alaka (kan pıhtısı) olur. Sonra yine aynı süreyle mudğa (bir çiğnem et parçası) olur. Sonra Allah bir meleği gönderir, ona ruh üfler. Bu melek dört şeyle; anne rahmindeki canlının rızkını, ecelini, amelini, iyi biri mi, yoksa kötü biri mi olacağını yazmakla emrolunur. Kendisinden başka hak ilah olmayana yemin ederim ki, sizden biriniz Cennet ehlinin ameliyle amel eder; Cennetle arasında bir arşın mesafe kalır, fakat yazısı (kaderi) öne geçer, Cehennem ehlinin ameliyle amel eder ve oraya girer. Sizden biriniz Cehennem ehlinin ameliyle amel eder; Cehennemle arasında bir arşın mesafe kalır, fakat yazısı (kaderi) öne geçer, Cennet ehlinin ameliyle amel eder ve oraya girer.",
+      "hadithAr": "عَنْ أَبِي عَبْدِ الرَّحْمَنِ عَبْدِ اللَّهِ بْنِ مَسْعُودٍ رَضِيَ اللَّهُ عَنْهُ قَالَ: حَدَّثَنَا رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ وَهُوَ الصَّادِقُ المَصْدُوقُ: «إِنَّ أَحَدَكُمْ يُجْمَعُ خَلْقُهُ فِي بَطْنِ أُمِّهِ أَرْبَعِينَ يَوْمًا، ثُمَّ يَكُونُ عَلَقَةً مِثْلَ ذَلِكَ، ثُمَّ يَكُونُ مُضْغَةً مِثْلَ ذَلِكَ، ثُمَّ يُرْسَلُ إلَيْهِ المَلَكُ فَيَنْفُخُ فِيهِ الرُّوحَ، وَيُؤْمَرُ بِأَرْبَعِ كَلِمَاتٍ: بِكَتْبِ رِزْقِهِ، وَأَجَلِهِ، وَعَمَلِهِ، وَشَقِيٍّ أَوْ سَعِيدٍ؛ فَوَالَّذِي لَا إلَهَ غَيْرُهُ إنَّ أَحَدَكُمْ لَيَعْمَلُ بِعَمَلِ أَهْلِ الجَنَّةِ حَتَّى مَا يَكُونُ بَيْنَهُ وَبَيْنَهَا إلَّا ذِرَاعٌ فَيَسْبِقُ عَلَيْهِ الكِتَابُ فَيَعْمَلُ بِعَمَلِ أَهْلِ النَّارِ فَيَدْخُلُهَا، وَإِنَّ أَحَدَكُمْ لَيَعْمَلُ بِعَمَلِ أَهْلِ النَّارِ حَتَّى مَا يَكُونُ بَيْنَهُ وَبَيْنَهَا إلَّا ذِرَاعٌ، فَيَسْبِقُ عَلَيْهِ الكِتَابُ فَيَعْمَلُ بِعَمَلِ أَهْلِ الجَنَّةِ فَيَدْخُلُهَا».",
+      "hadithIntroAr": "عَنْ أَبِي عَبْدِ الرَّحْمَنِ عَبْدِ اللَّهِ بْنِ مَسْعُودٍ رَضِيَ اللَّهُ عَنْهُ قَالَ:",
+      "attribution": "Buhârî ve Müslim rivayet etmiştir",
+      "attributions": [
+        "Buhârî ve Müslim rivayet etmiştir"
+      ],
+      "grade": "Sahih Hadis",
+      "explanation": "İbn Mes'ûd (r.a.): Doğru sözlü, Yüce Allah'ın doğruluğunu tasdik ettiği Rasûlullah (s.a.v.)'in şöyle buyurduğunu  söylemiştir: Sizden birinizin yaratılışının başlangıcı şu şekildedir: Kişi hanımıyla ilişkiye girdiğinde erkekten gelen meni kadının rahminde kırk gün nutfe/embriyo olarak kalır. Sonra alaka, kan pıhtısı halini alır ve bu da ikinci kırk gündedir. Sonra da mudga, bir çiğnemlik et parçası halini alır ve üçüncü kırk gündedir. Daha sonra Allah bir melek gönderir ve bu melek,  üçüncü kırk günden sonra ona ruh üfler. Bu melek dört şeyi yazmakla emrolunmuştur. Bunlar; yaşadığı süre içinde hangi nimetler ile rızıklandırılacak, eceli, dünyada ne kadar kalacak, ameli ve mutlulardan mı yoksa bedbahtlardan mı olacak? Sonra Nebi (s.a.v.) bir kimsenin Cennet ehlinin amelini yapacağına ve bu kimsenin amelinin insanlar nazarında salih amel olarak görüneceğine ve nasıl bir kimse ile ulaşmak istediği bir yer arasında bir arşın yer kalıyor ise bu kimse ile Cennet arasında da bir arşın yer kalacağına sonra da anne karnında yazılan kaderi bunun önüne geçip, Cehennem ehlinin amellerini işleyeceğine ve bununla amelleri son bulup Cehennem'e gireceğine dair yemin etmiştir. Çünkü yaptığı salih amellerin kabul şartı; bu amellerde sebat etmesi ve değiştirmemesidir. Bir diğer kişi ise; Cehennem ehlinin amellerini işler, Cehennem ile arasında bir arşın kadar bir mesafe kalır oraya girmeye yaklaşır, sonra da anne karnında yazılan kaderi bunun önüne geçer, Cennet ehlinin amellerini işler ve Cennet'e girer.",
+      "categories": [
+        63,
+        3,
+        64,
+        60
+      ],
+      "hints": [
+        "İnsanın yaratılış aşamaları anlatılmaktadır.\r",
+        "Kaza ve kadere iman edilmesinin gerekliliği ifade edilmiştir.\r",
+        "Sonuç olarak işler kaza ve kaderde yazıldığı gibi olur ve takdir edilen gerçekleşir.\r",
+        "Amellerin zahirine aldanmak sakındırılmıştır. Çünkü ameller sonlarına göre değerlendirilir."
+      ]
+    },
+    {
+      "id": 66514,
+      "hadithIntro": "Müminlerin annesi Ümmü Abdullah Âişe (r.a.)'dan rivayet edildiğine göre o şöyle demiştir: Rasûlullah (s.a.v.) şöyle buyurmuştur:",
+      "title": "Kim bizim bu işimizde (dinimizde) ondan olmayan bir şeyi ihdas ederse o merduttur",
+      "hadith": "Müminlerin annesi Ümmü Abdullah Âişe (r.a.)'dan rivayet edildiğine göre o şöyle demiştir: Rasûlullah (s.a.v.) şöyle buyurmuştur: «Kim bizim bu işimizde (dinimizde) ondan olmayan bir şeyi ihdas ederse o merduttur.» Müslim'in rivayetinde: «Kim bizim dinimizde olmayan bir şey yaparsa o merduttur, makbul değildir.»",
+      "hadithAr": "عَنْ أُمِّ المُؤْمِنِينَ أُمِّ عَبْدِ اللَّهِ عَائِشَةَ رَضِيَ اللَّهُ عَنْهَا، قَالَتْ: قَالَ: رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّم: «مَنْ أَحْدَثَ فِي أَمْرِنَا هَذَا مَا لَيْسَ مِنْهُ فَهُوَ رَدٌّ».\nوَفِي رِوَايَةٍ لِمُسْلِمٍ: «مَنْ عَمِلَ عَمَلًا لَيْسَ عَلَيْهِ أَمْرُنَا فَهُوَ رَدٌّ».",
+      "hadithIntroAr": "عَنْ أُمِّ المُؤْمِنِينَ أُمِّ عَبْدِ اللَّهِ عَائِشَةَ رَضِيَ اللَّهُ عَنْهَا، قَالَتْ: قَالَ: رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّم:",
+      "attribution": "Buhârî ve Müslim rivayet etmiştir",
+      "attributions": [
+        "Buhârî ve Müslim rivayet etmiştir"
+      ],
+      "grade": "Sahih Hadis",
+      "explanation": "Peygamber Efendimiz (s.a.v.) kim dinde bir bidat uydurursa ya da Kur'an ve sünnette delili olmayan bir amel işlerse, bu amel Allah katında makbul olmayan sahibine geri döndürülen bir amel olduğunu haber vermiştir.",
+      "categories": [
+        100,
+        65,
+        3
+      ],
+      "hints": [
+        "İbadetler Kur'an ve sünnette belirtilenlere göre yapılır. Biz, Allah Teâlâ'ya bidat ve uydurulan şeyler ile değil, O'nun din olarak belirlediği şeyler ile ibadet ederiz.\r",
+        "Din; görüş ve güzel görülen şeyler ile değil, Rasûlullah (s.a.v.)'e tabi olmak ile yaşanır.\r",
+        "Bu hadis dinin mükemmelliğine delildir.\r",
+        "Bidat, Peygamber Efendimiz (s.a.v.) ve ashabının yaşadığı zamanda akide, söz ve amellerden olmayan din adına uydurulan her şeydir.\r",
+        "Bu hadis İslam'ın asıllarından birisidir. Amellerin terazisi hükmündedir. Nasıl ki Allah Teâlâ'nın rızası gözetilmeyen ameli işleyen kimse bir ecir alamıyorsa, aynı şekilde Rasûlullah (s.a.v.)'in sünnetine uygun olmayan amel de sahibinden kabul edilmez.\r",
+        "Hadis, ortaya çıkan yeni bidatleri ve toplumda meydana gelen yanlışlıkları düzeltmek ve reddetmek için konulan bir kural hükmündedir.\r",
+        "Yasaklanan bidatler dünyevi olan meseleler ile alakalı değil, din ile alakalı olanlardır."
+      ]
+    },
+    {
+      "id": 66517,
+      "hadithIntro": "Ebû Hureyre Abdurrahman b. Sahr (r.a.)'dan rivayet edildiğine göre o şöyle demiştir: Ben, Rasûlullah (s.a.v.)'i şöyle buyururken işittim:",
+      "title": "Size herhangi bir şeyi yasakladığım zaman ondan kesinlikle sakının, bir şeyi emrettiğimde de onu, gücünüz yettiği ölçüde yerine getirin",
+      "hadith": "Ebû Hureyre Abdurrahman b. Sahr (r.a.)'dan rivayet edildiğine göre o şöyle demiştir: Ben, Rasûlullah (s.a.v.)'i şöyle buyururken işittim: «Size herhangi bir şeyi yasakladığım zaman ondan kesinlikle sakının, bir şeyi emrettiğimde de onu, gücünüz yettiği ölçüde yerine getirin Sizden önceki ümmetleri çok soru sormaları ve peygamberlerine muhalefet etmeleri helak etti.»",
+      "hadithAr": "عَنْ أَبِي هُرَيْرَةَ عَبْدِ الرَّحْمَنِ بْنِ صَخْرٍ رَضِيَ اللَّهُ عَنْهُ قَالَ: سَمِعْت رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّم يَقُولُ: «مَا نَهَيْتُكُمْ عَنْهُ فَاجْتَنِبُوهُ، وَمَا أَمَرْتُكُمْ بِهِ فَافْعَلُوا مِنْهُ مَا اسْتَطَعْتُمْ، فَإِنَّمَا أَهْلَكَ الَّذِينَ مِنْ قَبْلِكُمْ كَثْرَةُ مَسَائِلِهِمْ، وَاخْتِلَافُهُمْ عَلَى أَنْبِيَائِهِمْ».",
+      "hadithIntroAr": "عَنْ أَبِي هُرَيْرَةَ عَبْدِ الرَّحْمَنِ بْنِ صَخْرٍ رَضِيَ اللَّهُ عَنْهُ قَالَ: سَمِعْت رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّم يَقُولُ:",
+      "attribution": "Buhârî ve Müslim rivayet etmiştir",
+      "attributions": [
+        "Buhârî ve Müslim rivayet etmiştir"
+      ],
+      "grade": "Sahih Hadis",
+      "explanation": "Allah Rasûlü (s.a.v.), herhangi bir şeyden sakındırdığında istisnasız o şeyden kaçınmamız gerektiğini, bir şeyi de emrettiğinde onu da güç yetirebildiğimiz ölçüde yerine getirmemiz gerektiğini beyan etmiştir. Sonra da geçmiş bazı ümmetler gibi olmayalım diye bizleri uyarmıştır. Onlar, peygamberlerine çok soru sorar, bununla birlikte onlara muhalefet ederlerdi. Allah (c.c.) de değişik şekillerde onları helak edip yok etmiştir. Bizler de onlara benzemeyelim ki onların helak olduğu gibi helak olmayalım.",
+      "categories": [
+        80,
+        62,
+        3
+      ],
+      "hints": [
+        "Hadis, emredilenleri yapmanın, yasaklananlardan da kaçınmanın farz olduğunu açıklayan bir esastır.\r",
+        "Yasak konusunda, ondan herhangi bir şeyin işlenmesine ruhsat verilmemiştir. Emir ise, güç yetirebilme şartına bağlanmıştır; çünkü terk etmek insanın elindedir, fakat emredilen fiili yapmak, o fiili gerçekleştirecek bir kudrete sahip olmayı gerektirir.\r",
+        "Çok soru sormak yasaklanmıştır. Âlimler soru sormayı iki kısma ayırmışlardır: Biri; bir kimsenin emrolunduğu üzere din konusunda ihtiyaç duyulan şeyin öğrenme yönüyle olması. Bu amaçla soru sormak yapılması emredilen işlerdendir. Sahabelerin sorduğu da bu türden sorulardır. İkincisi ise; inat ve yapması gerekli olmayan bir şeyi kendi kendine gerekli kılma niyetiyle sorulan sorular olup, bu tür sorular yasaklanmıştır.\r",
+        "Bu ümmet, kendisinden önceki ümmetlerde olduğu gibi, peygamberine itaatsizlikten sakındırılmıştır.\r",
+        "Yasaklanan şey, azını da çoğunu da kapsar; çünkü ondan sakınmak, ancak azından da çoğundan da sakınmakla mümkün olur. Örneğin; Yüce Allah, bize faizi haram kılmıştır. Bu yasak faizin azını da çoğunu da kapsamaktadır.\r",
+        "Harama götüren sebepleri terk etmek gerekir; çünkü bu da kaçınmak anlamına gelmektedir.\r",
+        "Bir kimse, Rasûlullah (s.a.v.)'in bir emrini duyduğunda, farz mıdır, müstehap mıdır diye sormamalıdır. Aksine Rasûlullah (s.a.v.)'in «O halde gücünüz yettiği kadarını yapın.» sözüne binaen hemen o işi yapmalıdır.\r",
+        "Özellikle de bilgisine ulaşılması kolay olmayan —gaybî meseleler, kıyamet gününün halleri gibi— konularda çok fazla soru sormak helak olma sebebidir. Bu konularda çok soru sormayın ki helak olmayasınız ve kendinizi gereksiz derinliklere kaptırmayasınız."
+      ]
+    },
+    {
+      "id": 66518,
+      "hadithIntro": "Ebû Hureyre (r.a.)'dan rivayet edildiğine göre o şöyle demiştir: Rasûlullah (s.a.v.) şöyle buyurmuştur:",
+      "title": "Allah Teâlâ temizdir ve ancak temiz olanı kabul eder. Allah Teâlâ peygamberlere emrettiğini Müminlere de emretti",
+      "hadith": "Ebû Hureyre (r.a.)'dan rivayet edildiğine göre o şöyle demiştir: Rasûlullah (s.a.v.) şöyle buyurmuştur: «Şüphesiz Allah Teâlâ temizdir, ancak temiz olanı kabul eder. Allah Teâlâ  Rasûllere emrettiğini Müminlere de emretti. Nitekim  Allah Teâlâ şöyle buyurdu: (Ey Rasûller! Helâl ve güzel olan şeylerden yiyin ve salih amel işleyin.\" (Müminûn Suresi: 51)» Yine buyurdu ki: (Ey iman edenler! Size verdiğimiz rızıkların temiz olanlarından yiyin.) (Bakara Suresi: 172) Sonra Rasûlullah (s.a.v.): Uzun bir yolculuğa çıkmış, saçı başı dağınık, toza toprağa bulanmış bir adamdan bahsetti. Bu kimse ellerini semaya kaldırarak: ‘Ey Rabbim! Ey Rabbim!’ diye dua eder. Halbuki yediği haram, içtiği haram, giydiği haram ve haramla beslenmiş; o halde bunun duası nasıl kabul edilsin?»",
+      "hadithAr": "عَنْ أَبِي هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ قَالَ: قَالَ رَسُولُ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ: «إنَّ اللَّهَ طَيِّبٌ لَا يَقْبَلُ إلَّا طَيِّبًا، وَإِنَّ اللَّهَ أَمَرَ المُؤْمِنِينَ بِمَا أَمَرَ بِهِ المُرْسَلِينَ، فَقَالَ تَعَالَى: {يَا أَيُّهَا الرُّسُلُ كُلُوا مِنْ الطَّيِّبَاتِ وَاعْمَلُوا صَالِحًا}، وَقَالَ تَعَالَى: {يَا أَيُّهَا الَّذِينَ آمَنُوا كُلُوا مِنْ طَيِّبَاتِ مَا رَزَقْنَاكُمْ} ثُمَّ ذَكَرَ الرَّجُلَ، يُطِيلُ السَّفَرَ، أَشْعَثَ، أَغْبَرَ، يَمُدُّ يَدَيْهِ إلَى السَّمَاءِ: يَا رَبِّ! يَا رَبِّ! وَمَطْعَمُهُ حَرَامٌ، وَمَشْرَبُهُ حَرَامٌ، وَمَلْبَسُهُ حَرَامٌ، وَغُذِيَ بِالحَرَامِ، فَأَنَّى يُسْتَجَابُ لَذلك».",
+      "hadithIntroAr": "عَنْ أَبِي هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ قَالَ: قَالَ رَسُولُ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ:",
+      "attribution": "Müslim rivayet etmiştir",
+      "attributions": [
+        "Müslim rivayet etmiştir"
+      ],
+      "grade": "Sahih Hadis",
+      "explanation": "Peygamber (s.a.v.) Allah'ın iyi ve güzel, mukaddes, her türlü eksiklik ve kusurdan münezzeh ve kemal sıfatlar sahibi olduğunu, güzel olanların dışındaki amelleri, sözleri ve inançları kabul etmediğini bize bildirmiştir. Sadece kendisi için ve Peygamber (s.a.v.)'in yoluna uygun olanları kabul eder. O yüzden Allah'a ancak bu şekilde yakınlaşılmalıdır. Müminin amellerinin temiz olmasını sağlayan en büyük sebeplerden biri, yediğinin helâl olmasıdır. Bu şekilde ameli temiz ve bereketli olur. Bu sebeple Allah Teâlâ, peygamberlere emrettiğini Müminlere de emrederek helâl yemelerini ve salih ameller işlemelerini istemiştir. Nitekim şöyle buyurmuştur: {Ey peygamberler! Tertemiz nimetlerden yiyip için, salih amel işleyin. Kuşkusuz ben yaptıklarınızı eksiksiz bilmekteyim.} [Muminun: 51. Ayet] Allah Teâlâ şöyle buyurmuştur: {Ey iman edenler, size verdiğimiz rızıkların temiz olanlarından yiyin.}  [Bakara: 172. Ayet]\r\n\r\nDaha sonra Peygamber (s.a.v.), bir kulun amelinin kabul edilmesine açıkça vesile olan sebeplere ne kadar sarılsa da, haram şeyler yemesinin amelini boşa çıkaracağı ve kabul edilmesine engel olacağı hususunda uyarıda bulunmuştur. Bu vesilelerden bazıları şunlardır:\r\n\r\nBirincisi: Hac, cihat, aile bağlarını korumak gibi itaat amaçlı uzun yolculuklar yapmaktır.\r\n\r\nİkincisi: Saçları taranmamış ve dağınık, saçının ve elbiselerinin rengi toprak sebebiyle değişmiş; yani zaruret hâlinde bulunan bir kimse olmasıdır.\r\n\r\nÜçüncüsü: Dua ederken ellerini semaya kaldırmasıdır.\r\n\r\nDördüncüsü: Allah’a O’nun isimleriyle tevessül ediyor ve ısrarla: Ya Rabbi! Ya Rabbi! demesidir.\r\n\r\nDuaya icabet edilmesi için bütün bu sebepler yerine getirilmiş olmasına rağmen, onun bu duası işitilmez; çünkü yediği, içtiği ve giydiği haramdır ve haramla beslenmiştir. Böyle bir kimsenin duasının kabul edilmesi ne kadar uzak bir ihtimaldir! Ona nasıl icabet edilsin?!",
+      "categories": [
+        74,
+        59,
+        3,
+        312,
+        268,
+        5
+      ],
+      "hints": [
+        "Allah (c.c.) zatında, sıfatlarında, fiillerinde ve hükümlerinde kamildir.\r",
+        "Amelin samimi bir şekilde Allah (c.c.)'nin rızasını kazanmak ve Peygamber (s.a.v.)'e uymak için yapılması emredilmiştir.\r",
+        "İbadet ve salih amelleri teşvik eden şeylerin kullanılması: Peygamber (s.a.v.) şöyle buyurmuştur: Yüce Allah, peygamberlerine emrettiği şeyleri Müminlere de emretmiştir. Eğer bir Mümin bunun peygamberlere emredilen şeylerden olduğunu bilirse, emirleri yerine getirip, onlara uyma hususunda kendinde güç bulur ve cesaretlenir.\r",
+        "Duanın kabulüne engel olan şeylerden biri de haram yemektir.\r",
+        "Duanın kabul edilmesinin beş sebebi vardır: Birincisi: Uzun yolculuk yapılması; çünkü bu, kulda tevazu ve kırılganlık hâli meydana getirir ve duanın kabulü için en büyük vesilelerden biridir. İkincisi: Zaruret hâli (muhtaç ve çaresiz durumda olmak). Üçüncüsü: Ellerinin semaya kaldırılması. Dördüncüsü: Allah’a ısrarla dua etmek ve O’nun rububiyetini sürekli zikredilmesi; bu, duanın kabulü için en önemli yollardan biridir. Beşincisi: Yiyeceğin ve içeceğin helal olması.\r",
+        "Helal ve temiz yemek, salih amel işlemeye yardımcı olan vesilelerden biridir.\r",
+        "Kâdî şöyle demiştir: ‘Et-Tayyib’ (temiz, iyi) kelimesi, kötü ve pis olanın zıddıdır. Allah Teâlâ için bu kullanılırsa; O’nun eksikliklerden münezzeh ve kendisine herhangi bir şeyin zarar vermesinden uzak olduğu kastedilir. Eğer bir kul bu sıfatla nitelendirilirse, bununla kastedilen, ahlaki kusurlardan ve kötü işlerden arınmış, bunların zıddı olan güzelliklerle donanmış olmasıdır. Eğer mal ve mülk bu sıfatla nitelendirilirse, bununla kastedilen helâl ve en iyi mallardan olmasıdır."
+      ]
+    },
+    {
+      "id": 66522,
+      "hadithIntro": "Ebu'l-Abbas Abdullah b. Abbas (r.a.)'dan rivayet edildiğine göre o şöyle demiştir: Ben, bir gün Rasûlullah (s.a.v.)'in (bineğinin) arkasındaydım ve o, şöyle buyurdu:",
+      "title": "Ey çocuk! Sana birkaç kelime öğreteceğim. Sen Allah’ı (dinini) koru ki, Allah da seni korusun; sen Allah’ı (dinini) koru ki, Allah’ı yanında bulursun. İstediğin zaman Allah’tan iste, yardım dilediğin zaman Allah’tan yardım dile",
+      "hadith": "Ebu'l-Abbas Abdullah b. Abbas (r.a.)'dan rivayet edildiğine göre o şöyle demiştir: Ben, bir gün Rasûlullah (s.a.v.)'in (bineğinin) arkasındaydım ve o, şöyle buyurdu: «Ey çocuk! Sana birkaç kelime öğreteceğim. Sen Allah’ı (dinini) koru ki, Allah da seni korusun; sen Allah’ı (dinini) koru ki, Allah’ı yanında bulursun. İstediğin zaman Allah’tan iste, yardım dilediğin zaman Allah’tan yardım dile. Bil ki, bütün insanlar eğer sana bir şeyle fayda vermek üzere toplansa, sana ancak Allah’ın senin lehine yazdığı şey ile fayda verebilirler ve eğer sana bir şey ile zarar vermek üzere toplansa ancak Allah’ın senin aleyhine yazdığı şeyle sana zarar verebilirler. Kalemler kaldırıldı ve sahifeler kurudu.» Tirmizî'deki rivayetin dışında başka bir rivayette: «Allah’ın emir ve yasaklarını gözet ki; O’nun yardım ve desteğini daima önünde bulasın. Bolluk zamanlarında Allah’ın emirlerine bağlı kalmakla O’nu tanı ki; O da darlığa düşünce seni kurtarmak suretiyle seni tanısın. Bil ki, (senin için takdir edilmemiş) musibet sana isabet edecek değildir. Başına gelecek musibet ise (muhakkak sana dokunarak sıkıntı verecektir) hata yapmaz. Şunu da iyi bil ki; yardım sabırla birlikte gelir, sıkıntıyla beraber ferahlık vardır; her bir zorlukla beraber kolaylık vardır.»",
+      "hadithAr": "عَنْ أَبِي العَبَّاسِ، عَبْدِ الله بْنِ عَبَّاسٍ رَضِيَ اللَّهُ عَنْهُمَا قَالَ: كُنْت خَلْفَ رَسُولِ اللَّهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ يَوْمًا، فَقَالَ: «يَا غُلَامِ! إنِّي أُعَلِّمُك كَلِمَاتٍ: احْفَظِ اللَّهَ يَحْفَظْكَ، احْفَظِ الله تَجِدْهُ تُجَاهَكَ، إذَا سَأَلْتَ فَاسْأَلِ اللهَ، وَإِذَا اسْتَعَنْتَ فَاسْتَعِنْ بِاَللهِ، وَاعْلَمْ أَنَّ الأُمَّةَ لَوْ اجْتَمَعَتْ عَلَى أَنْ يَنْفَعُوكَ بِشَيْءٍ لَمْ يَنْفَعُوكَ إلَّا بِشَيْءٍ قَدْ كَتَبَهُ اللَّهُ لَكَ، وَإِنِ اجْتَمَعُوا عَلَى أَنْ يَضُرُّوكَ بِشَيْءٍ لَمْ يَضُرُّوكَ إلَّا بِشَيْءٍ قَدْ كَتَبَهُ اللَّهُ عَلَيْكَ؛ رُفِعَتِ الأَقْلَامُ، وَجَفَّتِ الصُّحُفُ».\nوَفِي رِوَايَةِ غَيْرِ التِّرْمِذِيِّ: «احْفَظِ اللهَ تَجِدْهُ أَمَامَكَ، تَعَرَّفْ إلَى اللهِ فِي الرَّخَاءِ يَعْرِفْكَ فِي الشِّدَّةِ، وَاعْلَمْ أَنَّ مَا أَخْطَأَكَ لَمْ يَكُنْ لِيُصِيبَكَ، وَمَا أَصَابَك لَمْ يَكُنْ لِيُخْطِئَكَ، وَاعْلَمْ أَنَّ النَّصْرَ مَعَ الصَّبْرِ، وَأَنْ الفَرَجَ مَعَ الكَرْبِ، وَأَنَّ مَعَ العُسْرِ يُسْرًا».",
+      "hadithIntroAr": "عَنْ أَبِي العَبَّاسِ، عَبْدِ الله بْنِ عَبَّاسٍ رَضِيَ اللَّهُ عَنْهُمَا قَالَ: كُنْت خَلْفَ رَسُولِ اللَّهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ يَوْمًا، فَقَالَ:",
+      "attribution": "Tirmizî ve diğerleri rivayet etmiştir",
+      "attributions": [
+        "Tirmizî ve diğerleri rivayet etmiştir"
+      ],
+      "grade": "Sahih Hadis",
+      "explanation": "İbn Abbas (r.a.) küçük bir çocukken Nebî (s.a.v.) ile birlikte bineğe bindiğini haber vermiştir. Nebî (s.a.v.) ona: «Muhakkak ki ben sana Allah katında fayda sağlayacak şeyleri öğreteceğim.» diye buyurmuştur: Allah'ın emirlerini yerine getirip yasakladıklarından sakın ki, seni itaat ve yakınlaştıran ibadetlerde bulsun, isyan ederken ve günahlarda bulmasın. Böyle yaparsan senin mükâfatın, Allah'ın seni dünya ve ahiret musibetlerinden koruması ve nereye gidersen git yaptığın işlerde sana yardım etmesi olacaktır. Bir şey istersen sadece Allah'tan iste; çünkü dua edenlerin duasına ancak O icabet eder. Yardım dilediğinde sadece Allah'tan yardım dile. Şunu kesin olarak bil ki;  yeryüzündeki bütün insanlar sana fayda sağlamak için bir araya toplansalar bile Allah'ın senin için yazdığının dışında bir fayda sağlayamayacaklardır. Yeryüzündeki bütün insanlar sana zarar vermek için bir araya toplansalar bile Allah'ın senin için takdir ettiğinin dışında bir zarar veremeyeceklerdir. Bu durumu Allah (c.c.) hikmeti ve ilminin gerektirdiği şekilde takdir edip yazmıştır. Allah'ın yazdığında bir değişiklik yoktur. Kim emirlerini yerine getirerek ve yasaklarından kaçınarak Allah'ın hakkını gözetirse şüphesiz Allah -Subhânehû ve Teâlâ- kulunun yanındadır, onun durumunu bilir ve kulunu destekler. Kim bolluk zamanında Allah'a itaat ederse, Allah da ona dara düştüğünde bir çıkış yolu verir. Her kul, Allah'ın kendisi için takdir ettiği hayır ve şerre razı olmalıdır. Zorluk ve sıkıntı zamanlarında kul sabırlı olmalıdır. Zira sabır, kurtuluşun anahtarıdır. Sıkıntı, şiddetli olduğunda Allah'ın yardımı gelecektir. Bir zorlukla karşı karşıya kalındığında ise Allah zorluğun hemen ardından kolaylık verir.",
+      "categories": [
+        64,
+        3,
+        72,
+        59
+      ],
+      "hints": [
+        "Küçük çocuklara tevhit ve edep kuralları gibi dini meseleleri öğretmenin önemi ifade edilmiştir.\r",
+        "Karşılık, yapılan amelin türündendir.\r",
+        "Yalnızca Allah'a itimat edip tevekkül etmek emredilmiştir. O ne güzel vekildir.\r",
+        "Kaza ve kadere iman edip bundan razı olmak ifade edilmiştir. Şüphesiz Allah Teâlâ her şeyi takdir etmiştir.\r",
+        "Kim Allah'ın emrini ihmal ederse, Allah Teâlâ da o kulunu koruyup muhafaza etmez.",
+        "Müjdeli haber şudur ki, bir kimse sıkıntıya düştüğünde kolaylığı beklemelidir.\r",
+        "Kulun başına bir musibet geldiğinde ve sevdiğini bir şeyi kaybettiğinde duyduğu teselli, O'nun şu sözündedir: «Bil ki, (senin için takdir edilmemiş) musibet sana isabet edecek değildir. Başına gelecek musibet ise (muhakkak sana dokunarak sıkıntı verecektir) hata yapmaz.» Birinci cümle hoşlanılmayan şeyin gelmesinden dolayı bir teselli, ikinci cümle ise sevilen bir şeyin kaybedilmesinden dolayı bir tesellidir."
+      ]
+    },
+    {
+      "id": 66524,
+      "hadithIntro": "Ebû Amr -Ebû Amra- da denilmiştir, Süfyân b. Abdullah (r.a.)'dan rivayet edildiğine göre o şöyle demiştir:",
+      "title": "Bana İslam hakkında öyle bir söz söyle ki, bu hususta senden başkasına bir şey sormaya gerek duymayayım. Rasûlullah şöyle buyurdu: «Allah’a iman ettim, de. Sonra dosdoğru ol",
+      "hadith": "Ebû Amr -Ebû Amra- da denilmiştir, Süfyân b. Abdullah (r.a.)'dan rivayet edildiğine göre o şöyle demiştir: Ey Allah'ın Rasûlü! Bana İslam hakkında öyle bir söz söyle ki, bu hususta senden başkasına bir şey sormaya gerek duymayayım. Rasûlullah şöyle buyurdu: «Allah’a iman ettim, de. Sonra dosdoğru ol.»",
+      "hadithAr": "عَنْ أَبِي عَمْرٍو- وَقِيلَ: أَبِي عَمْرَةَ-، سُفْيَانَ بْنِ عَبْدِ اللَّهِ رَضِيَ اللَّهُ عَنْهُ قَالَ: قُلْتُ: يَا رَسُولَ اللهِ، قُلْ لِي فِي الْإِسْلَامِ قَوْلًا لَا أَسْأَلُ عَنْهُ أَحَدًا غَيْرَكَ، قَالَ: «قُلْ: آمَنْتُ بِاللهِ، ثُمَّ اسْتَقِمْ».",
+      "hadithIntroAr": "عَنْ أَبِي عَمْرٍو- وَقِيلَ: أَبِي عَمْرَةَ-، سُفْيَانَ بْنِ عَبْدِ اللَّهِ رَضِيَ اللَّهُ عَنْهُ قَالَ:",
+      "attribution": "Müslim rivayet etmiştir",
+      "attributions": [
+        "Müslim rivayet etmiştir"
+      ],
+      "grade": "Sahih Hadis",
+      "explanation": "Süfyân b. Abdullah es-Sekafî (r.a.) Peygamber Efendimiz (s.a.v.)'den kendisine İslam hakkında kapsamlı bir söz öğretmesini istemiştir ki, buna sımsıkı sarılsın ve başkasına sormaya gerek duymasın. Rasûlullah (s.a.v.) ona: Ben Allah'ı tevhit edip birledim, O benim Rabbim, ilahım, yaratıcım ve hiçbir ortağı olmayan gerçek mabudum olduğuna iman ettim demelisin diye buyurdu. Daha sonra Allah'ın farzlarını yerine getirerek, yasaklarını terk ederek Allah'a itaat etmeye yönelir ve bunlara devam eder.",
+      "categories": [
+        59,
+        3,
+        322,
+        269,
+        5
+      ],
+      "hints": [
+        "Dinin aslı Yüce Allah'ın rububiyetine, uluhiyetine, isim ve sıfatlarına iman etmektir.\r",
+        "İman ettikten sonra istikamet üzere olmanın, ibadete devam etmenin ve bunda sebat etmenin önemi ifade edilmiştir.\r",
+        "İman, amellerin kabul şartıdır.\r",
+        "Allah'a iman; inanılması gereken iman esas ve itikatlarını, buna tabi olan kalp amellerini, gizli ve açık olarak Yüce Allah'a teslim olup boyun eğmeyi içerir.\r",
+        "İstikamet üzere olmak, emirleri yerine getirip yasaklardan kaçınarak doğru yolda ilerlemektir."
+      ]
+    },
+    {
+      "id": 66525,
+      "hadithIntro": "Ebû Abdullah Câbir b. Abdullah el-Ensârî (r.a.)'dan rivayet edildiğine göre:",
+      "title": "Farz namazları kılsam, Ramazan orucunu tutsam, helalleri helal, haramları haram kabul etsem",
+      "hadith": "Ebû Abdullah Câbir b. Abdullah el-Ensârî (r.a.)'dan rivayet edildiğine göre: Bir adam, Rasûlullah (s.a.v.)’e şöyle sordu:  Farz namazları kılsam, Ramazan orucunu tutsam, helalleri helal, haramları haram kabul etsem ve bundan fazla bir şey yapmasam Cennet'e girer miyim? Rasûlullah (s.a.v.) şöyle buyurdu: «Evet!»",
+      "hadithAr": "عَنْ أَبِي عَبْدِ اللَّهِ جَابِرِ بْنِ عَبْدِ اللَّهِ الْأَنْصَارِيِّ رَضِيَ اللَّهُ عَنْهُمَا: أَنَّ رَجُلًا سَأَلَ رَسُولَ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ، فَقَالَ: أَرَأَيْتَ إِذَا صَلَّيْتُ المَكْتُوبَاتِ، وَصُمْتُ رَمَضَانَ، وَأَحْلَلْتُ الحَلَالَ، وَحَرَّمْتُ الحَرَامَ، وَلَمْ أَزِدْ عَلَى ذَلِكَ شَيْئًا، أَأَدْخُلُ الجَنَّةَ؟ قَالَ: «نَعَمْ».",
+      "hadithIntroAr": "عَنْ أَبِي عَبْدِ اللَّهِ جَابِرِ بْنِ عَبْدِ اللَّهِ الْأَنْصَارِيِّ رَضِيَ اللَّهُ عَنْهُمَا:",
+      "attribution": "Müslim rivayet etmiştir",
+      "attributions": [
+        "Müslim rivayet etmiştir"
+      ],
+      "grade": "Sahih Hadis",
+      "explanation": "Nebi (s.a.v.) beş vakit farz namazı kılıp nafile olarak başka namaz kılmayan, Ramazan orucunu tutup başka nafile oruç tutmayan, helallerin helal olduğuna iman edip onları yapan ve haramların haram olduğuna iman edip onlardan kaçınan kimsenin Cennet'e gireceğini  haber vermiştir.",
+      "categories": [
+        88,
+        65,
+        3,
+        134,
+        121,
+        4,
+        137
+      ],
+      "hints": [
+        "Müslüman, farzları yapmada ve haramları terk etmede hırslıdır ve amacı Cennet'e girmektir.\r",
+        "Helal olan şeylerin yapılması ve bunların helal olduğuna iman edilmesinin, haram olan şeylerden uzak durulması ve bunların haram olduğuna iman edilmesinin önemi vurgulanmıştır.\r",
+        "Farzları yerine getirmek ve haramlardan kaçınmak Cennet'e girmek için bir vesiledir."
+      ]
+    },
+    {
+      "id": 66530,
+      "hadithIntro": "Muâz b. Cebel (r.a.)'dan rivayet edildiğine göre o şöyle demiştir: Ya Rasûlullah! Beni Cennet'e sokacak, Cehennem'den uzaklaştıracak bir ameli haber verir misin?\" dedim. O da şöyle buyurdu:",
+      "title": "Bana gerçekten büyük bir şey hakkında sordun. Ancak Allah’ın kolaylaştırdığı kimse için bu elbette kolaydır",
+      "hadith": "Muâz b. Cebel (r.a.)'dan rivayet edildiğine göre o şöyle demiştir: Ya Rasûlullah! Beni Cennet'e sokacak, Cehennem'den uzaklaştıracak bir ameli haber verir misin?\" dedim. O da şöyle buyurdu: «Bana gerçekten büyük bir şey hakkında sordun. Ancak Allah’ın kolaylaştırdığı kimse için bu elbette kolaydır: Allah'a ibadet edersin. O'na hiçbir şeyi ortak koşmazsın, namazı dosdoğru kılarsın, zekâtı verirsin, Ramazan orucunu tutarsın, Beyti (Kâbe'yi) haccedersin.» Sonra şöyle buyurdu: «Sana hayır kapılarını göstereyim mi? Oruç kalkandır, sadaka suyun ateşi söndürdüğü gibi günahı söndürür, bir de insanın gecenin ortasında kıldığı namaz vardır.» Sonra {Onların yanları yataklardan uzaklaşır...} (Secde, 16) ayetini {...yaparlardı} kısmına kadar okudu. Sonra şöyle dedi: «Sana işin başını, direğini ve zirvesini haber vereyim mi?» Ben: “Evet, Ya Rasûlullah!” dedim. O da şöyle dedi: «İşin başı İslam, direği namaz, zirvesi cihattır.» Sonra şöyle buyurdu: «Bütün bunların da özünü sana haber vereyim mi?» Ben, evet Ya Rasûlullah! dedim. Dilini (eliyle) tuttu ve «İşte bunu koru» buyurdu. Ben de: Ey Allah'ın Peygamberi! Biz söylediğimiz sözlerden dolayı hesaba mı çekileceğiz? dedim. O da şöyle buyurdu: «Annen seni kaybetsin ey Muâz! İnsanları yüzükoyun Cehennem'e sürükleyen şey, dillerinin ekip biçtiğidir.»!",
+      "hadithAr": "عَنْ مُعَاذِ بْنِ جَبَلٍ رَضِيَ اللهُ عَنْهُ قَالَ: قُلْت يَا رَسُولَ اللَّهِ! أَخْبِرْنِي بِعَمَلٍ يُدْخِلُنِي الجَنَّةَ وَيُبَاعِدْنِي مِنْ النَّارِ، قَالَ: «لَقَدْ سَأَلْتَ عَنْ عَظِيمٍ، وَإِنَّهُ لَيَسِيرٌ عَلَى مَنْ يَسَّرَهُ اللَّهُ عَلَيْهِ: تَعْبُدُ اللَّهَ لَا تُشْرِكُ بِهِ شَيْئًا، وَتُقِيمُ الصَّلَاةَ، وَتُؤْتِي الزَّكَاةَ، وَتَصُومُ رَمَضَانَ، وَتَحُجُّ البَيْتَ، ثُمَّ قَالَ: أَلَا أَدُلُّكَ عَلَى أَبْوَابِ الخَيْرِ، الصَّوْمُ جُنَّةٌ، وَالصَّدَقَةُ تُطْفِئُ الْخَطِيئَةَ كَمَا يُطْفِئُ المَاءُ النَّارَ، وَصَلَاةُ الرَّجُلِ مِنْ جَوْفِ اللَّيْلِ، ثُمَّ تَلَا: {تَتَجَافَى جُنُوبُهُمْ عَنِ الْمَضَاجِعِ} حَتَّى {بَلَغَ يَعْمَلُونَ}، ثُمَّ قَالَ: أَلَا أُخْبِرُك بِرَأْسِ الأَمْرِ وَعَمُودِهِ وَذِرْوَةِ سَنَامِهِ، فَقُلْتُ: بَلَى يَا رَسُولَ اللَّهِ، قَالَ: رَأْسُ الأَمْرِ الإِسْلَامُ، وَعَمُودُهُ الصَّلَاةُ، وَذِرْوَةُ سَنَامِهِ الجِهَادُ، ثُمَّ قَالَ: أَلَا أُخْبِرُك بِمِلَاكِ ذَلِكَ كُلِّهِ، فقُلْت: بَلَى يَا رَسُولَ اللَّه! فَأَخَذَ بِلِسَانِهِ وَقَالَ: كُفَّ عَلَيْك هَذَا، قُلْت: يَا نَبِيَّ اللَّهِ! وَإِنَّا لَمُؤَاخَذُونَ بِمَا نَتَكَلَّمُ بِهِ، فَقَالَ: ثَكِلَتْكَ أُمُّكَ وَهَلْ يَكُبُّ النَّاسَ عَلَى وُجُوهِهِمْ أَوْ قَالَ عَلَى مَنَاخِرِهِمْ إلَّا حَصَائِدُ أَلسِنَتِهِمْ»!",
+      "hadithIntroAr": "عَنْ مُعَاذِ بْنِ جَبَلٍ رَضِيَ اللهُ عَنْهُ قَالَ: قُلْت يَا رَسُولَ اللَّهِ! أَخْبِرْنِي بِعَمَلٍ يُدْخِلُنِي الجَنَّةَ وَيُبَاعِدْنِي مِنْ النَّارِ، قَالَ:",
+      "attribution": "Tirmizî rivayet etmiştir",
+      "attributions": [
+        "Tirmizî rivayet etmiştir"
+      ],
+      "grade": "Sahih Hadis",
+      "explanation": "Muâz (r.a.) şöyle demiştir: Bir yolculukta Peygamber (s.a.v.) ile beraberdim ve bir gün yürürken ona yaklaştım. \"Ya Rasûlullah! Beni Cennet'e sokacak, Cehennem'den uzaklaştıracak bir ameli haber verir misin?\" dedim. Şöyle dedi: “Bana nefisler üzerine ağır gelen, büyük bir amel sordun. Şüphesiz bu, Allah’ın kolaylaştırdığı kimse için kolay ve basittir. İslam'ın farzlarını yerine getir:\r\n\r\nBirincisi: Yalnızca Allah'a ibadet eder ve O'na hiçbir şeyi ortak koşmazsın.\r\n\r\nİkincisi: Gerekli şartları, rükünleri ve farzlarına riayet ederek bir gün ve gecede farz kılınan beş vakit namazı (sabah, öğle, ikindi, akşam ve yatsı) kılarsın.\r\n\r\nÜçüncüsü: Farz olan zekâtı verirsin. Zekât; şer‘an belirlenmiş bir miktara ulaşan maldan, hak sahiplerine verilen malî bir ibadettir.\r\n\r\nDördüncüsü: Ramazan orucunu tutarsın. Oruç şafak vaktinden gün batımına kadar ibadet niyetiyle yeme, içme ve orucu bozan diğer şeylerden uzak durmaktır.\r\n\r\nBeşincisi: Allah Teâlâ’ya ibadet maksadıyla menâsiki yerine getirmek için Mekke’ye giderek Beytullah’ı haccedersin.\r\n\r\nSonra Peygamber (s.a.v.) şöyle buyurdu: Sana hayır kapılarına ulaştıran yolu göstereyim mi? Bu, farzların peşinden nafile ibadetleri yapmakla olur:\r\n\r\nBirincisi: Nafile oruç tutmaktır. Bu, nefsin arzularını kırarak ve kuvveti azaltarak günahlardan sakınmayı sağlar.\r\n\r\nİkincisi: Nafile sadaka vermektir. Bu, işlenmiş günahı söndürür, ortadan kaldırır ve izlerini siler.\r\n\r\nÜçüncüsü: Gece yarısının son üçte birlik kısmında Teheccüd namazı kılmaktır. Sonra Rasûlullah (s.a.v.) şu âyeti okudu: {Yanları uzaklaşır} yani kalkarlar {yataklardan} yani yattıkları yerlerden, namaz, zikir, Kur'an tilaveti ve dua ile {Rablerine anarlar} {korku ve umut ile, verdiğimiz rızıktan infak ederler. Hiç kimse, onlar için saklanan göz aydınlıklarını bilemez.} yani öyle nimetler ki, gözlerini o gün (kıyamet gününde) ve Cennet'te hoşnut edecek, gönüllerini ferahlatacaktır ve {yapmakta olduklarına karşılık olarak} verilecektir.\r\n\r\nDaha sonra Peygamber (s.a.v.) şöyle buyurmuştur: “Sana dinin aslını, dayandığı direğini ve onun zirvesini haber vereyim mi?\"\r\n\r\nMuâz (r.a.) şöyle dedi: Evet, Ey Allah'ın Rasûlü!\r\n\r\nPeygamber (s.a.v.) şöyle buyurdu: “İşin başı İslâm’dır; bu da iki şehâdettir. Bu iki şehâdetle kişi dinin aslını elde eder.” Dinin direği namazdır; namazsız İslâm olmaz. Nasıl ki bir ev direksiz olmaz, o zaman namazsız din ayakta durmaz. Kim namaz kılarsa dini güçlü ve yüce olur. İslam'ın zirvesi ise cihaddır; yani Allah’ın kelimesini yüceltmek için din düşmanlarıyla savaşta gayret göstermektir.\r\n\r\nSonra Peygamber (s.a.v.) şöyle dedi: \n“Sana bütün bunların sağlamlaştırıcısını ve tamamlayıcısını haber vereyim mi?” Bunun üzerine dilini tutarak şöyle dedi:\n“İşte bunu koru! Seni ilgilendirmeyen şeyleri konuşma.” Muâz (r.a.) şöyle dedi: “Rabbimiz söylediğimiz her sözden dolayı bizi hesaba çeker ve bununla bizi cezalandırır mı?!”\r\n\r\nPeygamber (s.a.v.) şöyle buyurmuştur: \"Annen seni kaybetsin.\" Bu sözle kastı ona beddua etmek değildir; bu, Arapların dikkat çekmek ve bir konunun önemini vurgulamak için kullandığı bir ifadedir. Sonra sözlerine şöyle devam etmiştir: “İnsanları yüzüstü ateşe sürükleyip oraya atan şey, dilleri ile ekip biçtikleridir. Bunlar; küfür, iftira, hakaret, gıybet, koğuculuk, yalan isnat ve bunlara benzer sözlerdir.",
+      "categories": [
+        88,
+        65,
+        3
+      ],
+      "hints": [
+        "Sahabeler (r.a.)hum- ilme son derece önem verirdi. Bu sebeple, Rasûlullah (s.a.v.)'e bu konuda çokça soru sorarlardı.\r",
+        "Sahabenin (r.a.)hum- derin anlayışlarının sebebi, amellerin Cennet'e girmeye vesile olduğunu bilmeleriydi.\r",
+        "Muâz (r.a.)'tan gelen soru çok büyük bir sorudur. Çünkü gerçekte hayatın ve varoluşun sırrı budur. Bu dünyada var olan her şey, ister insanlardan olsun ister cinlerden, varacağı yer ya Cennet ya da Cehennem'dir. Bu sebeple, bu soru büyük bir öneme sahiptir.\r",
+        "Cennet'e girmek İslâm’ın beş şartını yerine getirmeye bağlıdır: İki şehadet, namaz, zekât, oruç ve hac.\r",
+        "Dinin başı, en değerli görevi ve farzların en yücesi, hiçbir ortağı olmaksızın yalnızca Yüce Allah'a kulluk ederek O'nu birlemektir.\r",
+        "Allah'ın kullarına olan merhameti, onlara iyilik kapılarını açması, böylece sevap ve günahların bağışlanmasına vesile olmasıdır.\r",
+        "Farzları eda ettikten sonra nafile ibadetlerle Allah’a yaklaşmanın fazileti.\r",
+        "Namaz, İslâm’da, bir çadırı ayakta tutan direk gibidir; direk yıkılırsa çadır yıkılır. Aynı şekilde namaz insanın hayatında olmazsa İslâm da ortadan kalkar.\r",
+        "İnsanın dinine zarar verecek sözlerden dilini koruması gerekir.\r",
+        "Dile hakim olmak, kontrol etmek ve dizginlemek her türlü iyiliğin temelidir."
+      ]
+    },
+    {
+      "id": 66533,
+      "hadithIntro": "İbni Abbas (r.a.)’dan rivayet edildiğine göre, Rasûlullah (s.a.v.) Rabbi -Tebâreke ve Teâlâ-'dan rivayet ettiği bir hadiste şöyle buyurmuştur:",
+      "title": "Allah Teâlâ, iyilik ve kötülükleri takdir edip yazdıktan sonra bunların iyi ve kötü oluşunu şöyle açıkladı",
+      "hadith": "İbni Abbas (r.a.)’dan rivayet edildiğine göre, Rasûlullah (s.a.v.) Rabbi -Tebâreke ve Teâlâ-'dan rivayet ettiği bir hadiste şöyle buyurmuştur: «Allah Teâlâ, iyilik ve kötülükleri takdir edip yazdıktan sonra bunların iyi ve kötü oluşunu şöyle açıkladı: Kim bir iyilik yapmak ister de yapamazsa, Allah bunu yapılmış tam bir iyilik olarak yazar. Şayet bir kimse iyilik yapmak ister sonra da onu yaparsa, Allah o iyiliği on mislinden başlayıp yedi yüz misliyle, hatta kat kat fazlasıyla yazar. Şayet insan bir kötülük yapmak ister de onu yapmadan vazgeçerse, Allah bunu ona tam bir sevap olarak yazar. Eğer bu kötülüğü yapmak ister ve bu kötülüğü yaparsa, Allah; o kötülüğe sadece bir günah olarak yazar.»",
+      "hadithAr": "عَنْ ابْنِ عَبَّاسٍ رَضِيَ اللَّهُ عَنْهُمَا عَنْ رَسُولِ اللَّهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ فِيمَا يَرْوِي عَنْ رَبِّهِ تَبَارَكَ وَتَعَالَى، قَالَ: «إنَّ اللهَ كَتَبَ الحَسَنَاتِ وَالسَّيِّئَاتِ، ثُمَّ بَيَّنَ ذَلِكَ، فَمَنْ هَمَّ بِحَسَنَةٍ فَلَمْ يَعْمَلْهَا؛ كَتَبَهَا اللهُ عِنْدَهُ حَسَنَةً كَامِلَةً، وَإِنْ هَمَّ بِهَا فَعَمِلَهَا؛ كَتَبَهَا اللهُ عِنْدَهُ عَشْرَ حَسَنَاتٍ إلَى سَبْعِمِائَةِ ضِعْفٍ إلَى أَضْعَافٍ كَثِيرَةٍ، وَإِنْ هَمَّ بِسَيِّئَةٍ فَلَمْ يَعْمَلْهَا؛ كَتَبَهَا اللهُ عِنْدَهُ حَسَنَةً كَامِلَةً، وَإِنْ هَمَّ بِهَا فَعَمِلَهَا؛ كَتَبَهَا اللهُ سَيِّئَةً وَاحِدَةً».",
+      "hadithIntroAr": "عَنْ ابْنِ عَبَّاسٍ رَضِيَ اللَّهُ عَنْهُمَا عَنْ رَسُولِ اللَّهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ فِيمَا يَرْوِي عَنْ رَبِّهِ تَبَارَكَ وَتَعَالَى، قَالَ:",
+      "attribution": "Buhârî ve Müslim Sahih'lerinde bu lafızlarla rivayet etmiştir",
+      "attributions": [
+        "Buhârî ve Müslim Sahih'lerinde bu lafızlarla rivayet etmiştir"
+      ],
+      "grade": "Sahih Hadis",
+      "explanation": "Rasûlullah (s.a.v.) Allah Teâlâ'nın iyilik ve kötülükleri  takdir ettiğini sonra da iki meleğe bunu nasıl yazacağını öğrettiğini haber vermiştir.\r\n\r\nKim bir iyilik yapmak ister, bunun için çaba sarf eder de yapamazsa ona bir sevap yazılır. Şayet bu iyiliği yaparsa on mislinden başlayıp yedi yüz misliyle, hatta kat kat fazlasıyla sevap olarak kendisine yazılır. Buradaki artış kişinin kalbindeki ihlası ve sağladığı faydaya göre farklılık gösterir.\r\n\r\nKim bir kötülük yapmak ister bunun için çaba sarf eder sonra bunu yapmaktan Allah için vazgeçerse ona bir sevap yazılır. Ancak sebeplerini yerine getirmediği için meşgul olduğundan dolayı bu kötülüğü yapamadıysa ona bir şey yazılmaz. Acizliğinden dolayı terk ederse niyetine göre yazılır. Şayet bu günahı işlerse bir günah yazılır.",
+      "categories": [
+        74,
+        59,
+        3
+      ],
+      "hints": [
+        "İşlenen hayırların karşılığının kat kat verilmesi ve Yüce Allah'ın katında bunların yazılması, işlenen günahın sadece karşılığının verilmesi ile Allah'ın bu ümmet üzerindeki büyük lütfu beyan edilmiştir.\r",
+        "Amellerde niyetin önemi ve tesiri ifade edilmiştir.\r",
+        "İyiliği yapmak isteyip yapamayan kimseye tam bir sevap verilmesi Allah (c.c.)'nin lütfu, ihsanı ve cömertliğidir."
+      ]
+    },
+    {
+      "id": 66534,
+      "hadithIntro": "Ebû Hureyre (r.a.)'dan rivayet edildiğine göre o şöyle demiştir: Rasûlullah (s.a.v.) şöyle buyurmuştur:",
+      "title": "Allah Teâlâ şöyle buyurmuştur: Her kim beni tanıyan ve ihlâs ile bana ibadet eden bir kuluma düşmanlık ederse, ben de ona savaş ilan ederim. Kulum bana, kendisine farz kıldığım şeylerden daha sevgili olan bir şeyle yaklaşamaz",
+      "hadith": "Ebû Hureyre (r.a.)'dan rivayet edildiğine göre o şöyle demiştir: Rasûlullah (s.a.v.) şöyle buyurmuştur: «Allah Teâlâ şöyle buyurmuştur: Her kim beni tanıyan ve ihlâs ile bana ibadet eden bir kuluma düşmanlık ederse, ben de ona savaş ilan ederim. Kulum bana, kendisine farz kıldığım şeylerden daha sevgili olan bir şeyle yaklaşamaz. Kulum bana nafile ibadetlerle yaklaşmaya devam eder; nihayet ben onu severim. Onu sevdiğim zaman, artık onun işiten kulağı, gören gözü, tutan eli ve yürüyen ayağı olurum. Benden bir şey isterse mutlaka ona veririm. Benden sığınma dilerse, mutlaka onu korurum.»",
+      "hadithAr": "عَنْ أَبِي هُرَيْرَة رَضِيَ اللَّهُ عَنْهُ قَالَ: قَالَ رَسُول اللَّهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ: «إنَّ اللَّهَ تَعَالَى قَالَ: مَنْ عَادَى لِي وَلِيًّا فَقْد آذَنْتُهُ بِالحَرْبِ، وَمَا تَقَرَّبَ إلَيَّ عَبْدِي بِشَيْءٍ أَحَبَّ إلَيَّ مِمَّا افْتَرَضْتُ عَلَيْهِ، وما يَزَالُ عَبْدِي يَتَقَرَّبُ إلَيَّ بِالنَّوَافِلِ حَتَّى أُحِبَّهُ، فَإِذَا أَحْبَبْتُهُ كُنْتُ سَمْعَهُ الَّذِي يَسْمَعُ بِهِ، وَبَصَرَهُ الَّذِي يُبْصِرُ بِهِ، وَيَدَهُ الَّتِي يَبْطِشُ بِهَا، وَرِجْلَهُ الَّتِي يَمْشِي بِهَا، وَإِنْ سَأَلَنِي لَأُعْطِيَنَّهُ، وَلَئِنْ اسْتَعَاذَنِي لَأُعِيذَنَّهُ».",
+      "hadithIntroAr": "عَنْ أَبِي هُرَيْرَة رَضِيَ اللَّهُ عَنْهُ قَالَ: قَالَ رَسُول اللَّهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ:",
+      "attribution": "Buhârî rivayet etmiştir",
+      "attributions": [
+        "Buhârî rivayet etmiştir"
+      ],
+      "grade": "Sahih Hadis",
+      "explanation": "Nebî (s.a.v.) kutsi bir hadiste Allah (c.c.)'nin şöyle buyurduğunu haber vermiştir: «Kim benim dostlarımdan birine eziyet eder, onu kızdırır veya ona buğz ederse, ben ona bunu haber verir ve ona düşmanlığımı ilan ederim.» Veli, takva sahibi Mümindir. Kulun Allah'ın velayetindeki payı, sahip olduğu iman ve takva derecesine göredir. Hiçbir şey, bir Müslümanı Rabbine, farz ibadetler ve haramlardan kaçınmaktan daha sevimli kılamaz. Bir Müslüman, farzların yanı sıra nafile ibadetlerle de Rabbine yakınlaşmaya devam eder ve sonunda Allah'ın sevgisine erişir. Allah bir kulunu sevdiğinde, Allah o kula şu dört azasında yardım eder ve isabet ettirir: Allah Teâlâ, kulunun işitmesinde ona yol gösterir, böylece yalnızca Allah'ın hoşuna giden şeyleri duyar. Bakışlarında ona yol gösterir, böylece yalnızca Allah’ın bakılmasını sevdiği ve razı olduğu şeylere bakar. Eliyle yapacağı şeylerde ona yol gösterir, dolayısıyla Allah'ın razı olacağı işler dışında eliyle hiçbir şey yapmaz. Ayağıyla gideceği yerler hususunda kuluna yol gösterir, böylece ancak Allah'ın razı olacağı şeye doğru yürür ve yalnızca hayırlı işlere gider. Bununla birlikte, eğer Allah’tan bir şey dilerse, Allah ona istediğini verir; böylece duası kabul olunur. Eğer Allah'a sığınır ve O'ndan korunma dilerse Allah -Subhânehû ve Teâlâ- onu korktuğu şeyden korur, muhafaza eder.",
+      "categories": [
+        74,
+        59,
+        3
+      ],
+      "hints": [
+        "Bu hadis Peygamber Efendimiz (s.a.v.)'in Rabbinden rivayet ettiği bir hadistir. Kutsi hadis veya ilahî hadis olarak isimlendirilir, lafzı ve manası Allah'tandır. Fakat Kur'an'ı diğer şeylerden ayıran, tilavetiyle ibadet yapılıyor olması, Kur'an okumak için abdest alma, mucize oluşu ve diğer özellikleri kutsi hadiste bulunmaz.\r",
+        "Allah veli kullarına zarar vermek yasaklanmış ve onları sevmek ve faziletlerini kabul etmek teşvik edilmiştir.\r",
+        "Allah'ın düşmanlarına karşı düşmanlık yapmak emredilmiş, Allah'ın düşmanlarına dost olmak haram kılınmıştır.\r",
+        "Her kim Allah'ın dinine uymadan O'nun dostluğunu iddia ederse, iddiasında yalan söylüyordur.\r",
+        "Allah'ın dostluğu, farzları yerine getirmek ve haramları terk etmekle olur.\r",
+        "Allah'ın kulunu sevmesinin ve duasına icabet etmesinin sebeplerinden biri de, farzları eda ettikten ve haramları terk ettikten sonra nafile ibadetleri yapmasıdır.\r",
+        "Bu hadis veli kulların saygınlık ve yüksek makamlara sahip olduklarını gösterir."
+      ]
+    },
+    {
+      "id": 66535,
+      "hadithIntro": "Ebû Muhammed Abdullah b. Amr b. el-Âs (r.a.)'dan rivayet edildiğine göre o şöyle demiştir: Rasûlullah (s.a.v.) şöyle buyurmuştur:",
+      "title": "Sizden hiçbiriniz, arzusu benim getirdiğime tâbi olmadıkça gerçek iman etmiş olamaz",
+      "hadith": "Ebû Muhammed Abdullah b. Amr b. el-Âs (r.a.)'dan rivayet edildiğine göre o şöyle demiştir: Rasûlullah (s.a.v.) şöyle buyurmuştur: «Sizden hiçbiriniz, arzusu benim getirdiğime tâbi olmadıkça gerçek iman etmiş olamaz.»",
+      "hadithAr": "عَنْ أَبِي مُحَمَّدٍ عَبْدِ اللَّهِ بْنِ عَمْرِو بْنِ العَاصِ رَضِيَ اللَّهُ عَنْهُمَا، قَالَ: قَالَ رَسُولُ اللَّهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ: «لَا يُؤْمِنُ أَحَدُكُمْ حَتَّى يَكُونَ هَوَاهُ تَبَعًا لِمَا جِئْتُ بِهِ».",
+      "hadithIntroAr": "عَنْ أَبِي مُحَمَّدٍ عَبْدِ اللَّهِ بْنِ عَمْرِو بْنِ العَاصِ رَضِيَ اللَّهُ عَنْهُمَا، قَالَ: قَالَ رَسُولُ اللَّهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ:",
+      "attribution": "Hadisi Kitâbu'l-Hucce'de sahih bir senetle rivayet ettik",
+      "attributions": [
+        "Hadisi Kitâbu'l-Hucce'de sahih bir senetle rivayet ettik"
+      ],
+      "grade": "Nevevî şöyle demiştir: Sahih bir hadistir",
+      "explanation": "Bir kimsenin Rasûlullah (s.a.v.)'in getirdiği emirler, yasaklar ve diğer şeylere sevgiyle bağlı olmadıkça, yani emrettiğini sevmedikçe, yasakladığı şeyi de kerih görmedikçe, gerçek anlamda tam bir Mümin olamayacağını Nebî (s.a.v.) açıklamıştır.",
+      "categories": [
+        418,
+        100,
+        65,
+        3,
+        320,
+        269,
+        5
+      ],
+      "hints": [
+        "Hadis, şeriata teslimiyet ve itaat hususunda bir esastır.\r",
+        "İnsana şu uyarı yapılmaktadır: Kim akıl veya örf ile hükmeder ve Rasûlullah (s.a.v.)'in getirdiğinin önüne geçirerek aklı ve örfü üstün tutarsa, işte bunu yapan kimsenin imanı gitmiş olur.\r",
+        "\"Benim getirdiğime\" ifadesinden dolayı, her konuda şeriatı hakem kılmak (ölçü edinmek) vaciptir.\r",
+        "İman itaatler ile artar, günahlar ile azalır."
+      ]
+    },
+    {
+      "id": 66537,
+      "hadithIntro": "Abdullah b. Amr (r.a.)'dan rivayet edildiğine göre, o şöyle demiştir: Rasûlullah (s.a.v.) şöyle buyurmuştur:",
+      "title": "Dört özellik vardır ki, kimde bunlar bulunursa o kimse tam bir münafık olur. Kimde de bu özelliklerden biri bulunursa, onu terk edinceye kadar onda münafıklıktan bir özellik bulunmuş olur: Konuştuğunda yalan söyler, anlaşma yaptığında hıyanet eder, söz verdiğinde sözünde durmaz, tartıştığında haddi aşar (haksızlık eder)",
+      "hadith": "Abdullah b. Amr (r.a.)'dan rivayet edildiğine göre, o şöyle demiştir: Rasûlullah (s.a.v.) şöyle buyurmuştur: «Dört şey vardır ki, bunlar kimde bulunursa, o kimse tam bir münafıktır. Kimde bunlardan bir özellik bulunursa, onu bırakıncaya kadar kendisinde münafıklıktan bir haslet var demektir. Bunlar; konuştuğunda yalan söyler, söz verdiğinde sözünü tutmaz, tartıştığında haddi aşar, anlaşma yaptığında ihanet eder.»",
+      "hadithAr": "عَنْ عَبْدِ اللَّهِ بْنِ عَمْرٍو رضي الله عنهما قال: قال رَسولُ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ: «أَرْبَعٌ مَنْ كُنَّ فِيهِ كَانَ مُنَافِقًا، وَإِنْ كَانَتْ خَصْلَةٌ مِنْهُنَّ فِيهِ كَانَتْ فِيهِ خَصْلَةٌ مِنَ النِّفَاقِ حَتَّى يَدَعَهَا: مَنْ إِذَا حَدَّثَ كَذَبَ، وإِذَا وَعَدَ أَخْلَفَ، وإذَا خَاصَمَ فَجَرَ، وَإِذَا عَاهَدَ غَدَرَ».",
+      "hadithIntroAr": "عَنْ عَبْدِ اللَّهِ بْنِ عَمْرٍو رضي الله عنهما قال: قال رَسولُ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ:",
+      "attribution": "Buhârî ve Müslim rivayet etmiştir",
+      "attributions": [
+        "Buhârî ve Müslim rivayet etmiştir"
+      ],
+      "grade": "Sahih Hadis",
+      "explanation": "Peygamber (s.a.v.) bir Müslümanda bulunması halinde, münafıklara çok benzemesine sebep olacak dört özellikten sakındırmıştır. Bu, söz konusu özellikler kişide baskın bir şekilde yerleşmişse geçerlidir. Yoksa nadiren görülen kimse bu kapsama girmez. Bunlar şunlardır:\r\n\r\nBirincisi: Konuştuğunda, kasten yalan söylemesi ve sözünde doğru olmamasıdır.\r\n\r\nİkincisi: Bir antlaşma yaptığında ona vefa göstermemesi ve muhatabına hıyanet etmesidir.\r\n\r\nÜçüncüsü: Söz verdiğinde sözünde durmaması ve verdiği sözü bozmasıdır.\r\n\r\nDördüncüsü: Bir kimseyle tartışıp kavga ettiğinde, kavgası şiddetli olur, haktan sapar, onu çürütmek ve geçersiz kılmak için hileye başvurur, haksızlık eder ve yalan söyler.\r\n\r\nNifak, içten farklı olanı dışa vurmaktır. Bu anlam, bu özelliklere sahip kişide mevcuttur. Onun nifakı, kendisiyle konuşanlara, verilen sözlere, emanet edilenlere, tartıştıklarına ve yapılan ahitlere karşı olur; İslam’da açıkça nifak içinde olan ve küfrü gizleyip, İslam'ını gösteren bir münafık değildir. Kimde bu özelliklerden biri bulunursa, o kişide o özelliği terk edene kadar nifaktan bir alamet vardır.",
+      "categories": [
+        98,
+        65,
+        3,
+        318,
+        269,
+        5
+      ],
+      "hints": [
+        "Münafığın bazı alametlerini açıklamak, insanları korkutmak ve bu özelliklere düşmekten sakındırmak içindir.\r",
+        "Hadiste kastedilen, bu özelliklerin münafıklık özelliği olduğu ve bu özelliklere sahip olan kişinin bu özellikler bakımından münafıklara benzediği ve onların ahlakını taşıdığıdır; yani İslam’ı gösterip küfrü gizleyen bir münafık değildir. Hadis, söz konusu özelliklerin hakimiyetinde kalan, onları önemsemeyen ve hafife alan kimseler için geçerli olduğu da söylenmiştir. Zaten böyle olan kimse genellikle bozuk inanç sahibidir.\r",
+        "Gazalî şöyle demiştir: Dinin aslı üç şeyle sınırlıdır: Söz, amel ve niyet. Hadis; sözün yalanla, amelin hıyanetle, niyetin ise sözünde durmamakla dini açıdan bozulmaya yol açtığına dikkat çekmiştir. Çünkü verilen sözün yerine getirilmemesi, ancak kişinin söz verdiği anda kararlı olması durumunda nifak oluşturur; eğer kişi kararlıyken bir engel veya başka bir görüş ortaya çıkarsa, bundan nifak meydana gelmez.\r",
+        "İki tür nifak vardır: İtikadî nifak: Kişiyi imandan çıkaran nifaktır. Bu, İslâm’ı izhar edip, küfrü gizlemektir. Amelî nifak: Münafıkların ahlâklarında onlara benzemektir. Bu, kişiyi imandan çıkarmaz; ancak büyük günahlardan biridir.\r",
+        "İbn Hacer şöyle demiştir: Âlimler, ittifak etmişlerdir ki, kalbiyle ve diliyle tasdik eden bir kimse bu özellikleri (münafıkların sıfatlarını) işlese bile, hakkında küfür hükmü verilmez ve o, cehennemde ebedî kalacak münafık da değildir.\r",
+        "Nevevî şöyle demiştir: Bir grup âlim şöyle demiştir: Burada kastedilenler, Peygamber (s.a.v.) zamanında yaşayan münafıklardır. Onlar iman ettiklerini söylediler, fakat (dini) yalanladılar; dinleri konusunda kendilerine güvenildi, ama ihanet ettiler; din konusunda yardım edeceklerine ve destek vereceklerine dair söz verdiler ve sözlerinde durmadılar, husumetli oldukları kimselere ise haddi aşıp haksızlık ettiler."
+      ]
+    },
+    {
+      "id": 65109,
+      "hadithIntro": "Abdullah b. Amr (r.a.)'dan rivayet edildiğine göre, o şöyle demiştir: Rasûlullah (s.a.v.) şöyle buyurmuştur:",
+      "title": "Kim hiçbir şeyi şirk koşmadan Allah'ın huzuruna çıkarsa, O’nun nezdinde hiçbir günah o kimseye zarar vermez; kim de Allah'a bir şeyi ortak koşarak ölürse, Allah nezdinde hiçbir iyiliği o kimseye fayda vermez",
+      "hadith": "Abdullah b. Amr (r.a.)'dan rivayet edildiğine göre, o şöyle demiştir: Rasûlullah (s.a.v.) şöyle buyurmuştur: «Kim hiçbir şeyi şirk koşmadan Allah'ın huzuruna çıkarsa, O’nun nezdinde hiçbir günah o kimseye zarar vermez; kim de Allah'a bir şeyi ortak koşarak ölürse, Allah nezdinde hiçbir iyiliği o kimseye fayda vermez.»",
+      "hadithAr": "عَنْ عَبْدَ اللهِ بْنِ عَمْرٍو رَضيَ اللهُ عَنْهُمَا يَقُولُ: قَالَ رَسُولُ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ: «مَنْ لَقِيَ اللهَ لَا يُشْرِكُ بِهِ شَيْئًا لَمْ تَضُرَّهُ مَعَهُ خَطِيئَةٌ، وَمَنْ مَاتَ وَهُوَ يُشْرِكُ بِهِ لَمْ يَنْفَعْهُ مَعَهُ حَسَنَةٌ».",
+      "hadithIntroAr": "عَنْ عَبْدَ اللهِ بْنِ عَمْرٍو رَضيَ اللهُ عَنْهُمَا يَقُولُ: قَالَ رَسُولُ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ:",
+      "attribution": "Ahmed rivayet etmiştir",
+      "attributions": [
+        "Ahmed rivayet etmiştir"
+      ],
+      "grade": "Sahih Hadis",
+      "explanation": "Nebî (s.a.v.): Kim Allah'a ortak koşmadan, tevhid inancıyla Allah'ın huzuruna çıkarsa, cehennemde azap çekse bile cennet ehli arasında olduğunu, kim de Allah'a ortak koşarak ölürse, şirk koşmasıyla birlikte hiçbir iyiliğin ona fayda vermeyeceğini ve cennetin o kimseye haram kılındığını haber vermiştir.",
+      "categories": [
+        73,
+        59,
+        3,
+        271,
+        265,
+        5
+      ],
+      "hints": [
+        "Şirk koşmaya karşı uyarıda bulunulmakta ve bunun en büyük günah ve suçlardan biri olduğu, Allah'ın onu affetmediği belirtilmiştir.\r",
+        "Tevhidin fazileti ve azap çektikten sonra bile (şirk koşmayanların) cennete girebilme vesilesi olduğu belirtilmiştir.\r",
+        "Ölüm anına kadar tevhide bağlı kalmanın ve şirk koşmak gibi tevhide aykırı hiçbir şey yapmamanın önemi belirtilmiştir."
+      ]
+    },
+    {
+      "id": 66510,
+      "hadithIntro": "Ebû Sa’lebe el-Huşanî Cürsûm b. Nâşir (r.a.)'dan rivayet edildiğine göre, Rasûlullah (s.a.v.) şöyle buyurmuştur:",
+      "title": "Muhakkak yüce Allah birtakım farzları farz kılmıştır, onları zayi etmeyin. Birtakım hadler de tespit etmiştir, onları da aşmayın. Bazı şeyleri haram kılmıştır, onları çiğnemeyin. Bazı şeyler hakkında da unutmaktan dolayı değil de sizin için rahmet olsun diye susmuştur. Onları araştırıp durmayın",
+      "hadith": "Ebû Sa’lebe el-Huşanî Cürsûm b. Nâşir (r.a.)'dan rivayet edildiğine göre, Rasûlullah (s.a.v.) şöyle buyurmuştur: «Muhakkak yüce Allah birtakım farzları farz kılmıştır, onları zayi etmeyin. Birtakım hadler de tespit etmiştir, onları da aşmayın. Bazı şeyleri haram kılmıştır, onları çiğnemeyin. Bazı şeyler hakkında da unutmaktan dolayı değil de sizin için rahmet olsun diye susmuştur. Onları araştırıp durmayın.»",
+      "hadithAr": "عَنْ أَبِي ثَعْلَبَةَ الخُشَنِيِّ جُرْثُومِ بن نَاشِرٍ رَضِيَ اللَّهُ عَنْهُ عَنْ رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَال: «إِنَّ اللَّهَ فَرَضَ فَرَائِضَ فَلَا تُضَيِّعُوهَا، وَحَدَّ حُدُودًا فَلَا تَعْتَدُوهَا، وَحَرَّمَ أَشْيَاءَ فَلَا تَنْتَهِكُوهَا، وَسَكَتَ عَنْ أَشْيَاءَ رَحْمَةً لَكُمْ غَيْرَ نِسْيَانٍ فَلَا تَبْحَثُوا عَنْهَا».",
+      "hadithIntroAr": "عَنْ أَبِي ثَعْلَبَةَ الخُشَنِيِّ جُرْثُومِ بن نَاشِرٍ رَضِيَ اللَّهُ عَنْهُ عَنْ رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَال:",
+      "attribution": "Dârekutnî Süneni'nde ve başkaları da rivayet etmiştir",
+      "attributions": [
+        "Dârekutnî Süneni'nde ve başkaları da rivayet etmiştir"
+      ],
+      "grade": "Nevevî şöyle demiştir: Hasen bir hadistir",
+      "explanation": "Nebî (s.a.v.) şöyle buyurmuştur: Allah, bazı şeyleri vacip kılmış ve farzlar belirlemiştir. Onlara sarılın, terk ederek veya hafife alarak ihmalkâr davranmayın. Sizin için sınırlar ve engeller koymuştur; bunlar sizi hoşnut olmayacağı şeylerden alıkoyar. Öyleyse şeriatın emrettiğinin ötesine geçmeyin. Bazı şeyleri de haram kılmıştır, onlara yaklaşmayın ve onlarla meşgul olmayın. Bunların dışında kalan şeyleri ise rahmeti gereği (hakkında hüküm vermeyip) sükût etmiştir; bu durumda onlar asıl olan ibaha (mübah oluş) hükmü üzere kalır. Öyleyse onlar hakkında soruşturmayın.",
+      "categories": [
+        128,
+        4
+      ],
+      "hints": [
+        "Hadis, Allah'ın kanun koyucu olduğunu, dolayısıyla işlerin bütün noksanlıklardan münezzeh olan Allah'ın elinde olduğunu göstermektedir.\r",
+        "Hadis, şer‘î hükümlerin gerek bağlayıcılık gerekse mübah oluşla ilgili kaidelerini kapsamaktadır. Çünkü şer‘î hüküm ya hakkında sükût edilmiş ya da hakkında konuşulmuş (açık hüküm bildirilmiş) bir şeydir. Açık hüküm ise ya vacip veya mendup olan bir emir, yahut haram veya mekruh olan bir nehiy ya da mübah (serbest bırakılmış) bir şeydir.\r",
+        "Yüce Allah'ın hakkında sükût ettiği; ne farz kıldığı, ne sınır çizdiği, ne de yasakladığı şey helaldir.\r",
+        "Nebî (s.a.v.) sözlerini güzel bir üslupla açık ve net bir şekilde beyan etmiştir.\r",
+        "Allah Teâlâ''nın farz kıldıklarını yerine getirmenin gerekliliği ifade edilmiştir.\r",
+        "Allah Teâlâ'nın koyduğu sınırları aşmanın haram olduğu beyan edilmiştir."
+      ]
+    },
+    {
+      "id": 66519,
+      "hadithIntro": "Ebû Muhammed el-Hasen b. Ali b. Ebî Tâlib Rasûlullah (s.a.v.)'in çok sevdiği torunu şöyle demiştir: Rasûlullah (s.a.v.)'den şöyle buyurduğunu ezberledim:",
+      "title": "Sana şüphe veren şeyi bırak, şüphe vermeyene bak",
+      "hadith": "Ebû Muhammed el-Hasen b. Ali b. Ebî Tâlib Rasûlullah (s.a.v.)'in çok sevdiği torunu şöyle demiştir: Rasûlullah (s.a.v.)'den şöyle buyurduğunu ezberledim: «Sana şüphe veren şeyi bırak, şüphe vermeyene bak.»",
+      "hadithAr": "عَنْ أَبِي مُـحَمَّدٍ الحَسَنِ بْنِ عَلِيِّ بْنِ أَبِي طَالِبٍ - سِبْطِ رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ وَرَيْحَانَتِهِ-، قَالَ: حَفِظْتُ مِنْ رَسُولِ اللَّهِ \uF020صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ: «دَعْ مَا يَرِيبُك إلَى مَا لَا يَرِيبُكَ».",
+      "hadithIntroAr": "عَنْ أَبِي مُـحَمَّدٍ الحَسَنِ بْنِ عَلِيِّ بْنِ أَبِي طَالِبٍ - سِبْطِ رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ وَرَيْحَانَتِهِ-، قَالَ: حَفِظْتُ مِنْ رَسُولِ اللَّهِ \uF020صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ:",
+      "attribution": "Tirmizî ve Nesâî rivayet etmiştir",
+      "attributions": [
+        "Tirmizî ve Nesâî rivayet etmiştir"
+      ],
+      "grade": "Sahih Hadis",
+      "explanation": "Nebî (s.a.v.) söz ve amellerden haram mı helal mi olduğu konusunda şüphe duyduğun şeyi terk etmeyi, helal ve güzel olduğuna kesin olarak inandığın şeye de yönelmeyi emretmiştir.",
+      "categories": [
+        261,
+        132,
+        4
+      ],
+      "hints": [
+        "Müslüman, işlerini yakîn (kesin bilgi) üzerine kurmalı, şüpheli olanı terk etmeli ve dininde basiret sahibi olmalıdır.\r",
+        "Şüpheli şeylere düşmek sakındırılmıştır.\r",
+        "Eğer huzur ve gönül rahatlığı istiyorsan, şüpheli olanı bırak ve onu bir kenara at.\r",
+        "Allah'ın kullarına rahmeti, onlara gönül ve akıl huzuru veren şeyleri emretmesi ve onları kaygı ve şaşkınlık veren şeyleri yapmaktan nehyetmesidir."
+      ]
+    },
+    {
+      "id": 66521,
+      "hadithIntro": "Ebû Ya'lâ Şeddâd b. Evs (r.a.)'dan rivayet edildiğine göre, Rasûlullah (s.a.v.) şöyle buyurmuştur:",
+      "title": "Yüce Allah her şeyde ihsanı (güzel davranmayı) emretmiştir",
+      "hadith": "Ebû Ya'lâ Şeddâd b. Evs (r.a.)'dan rivayet edildiğine göre, Rasûlullah (s.a.v.) şöyle buyurmuştur: «Yüce Allah her şeyde ihsanı (güzel davranmayı) emretmiştir. Öldürürken (dahi) güzel bir şekilde öldürün! Hayvanı keserken de güzel bir şekilde kesin! Biriniz (hayvan keseceğinde) bıçağını bilesin ve hayvanını rahatlatsın!»",
+      "hadithAr": "عَنْ أَبِي يَعْلَى شَدَّادِ بْنِ أَوْسٍ رَضِيَ اللَّهُ عَنْهُ عَنْ رَسُولِ اللَّهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ قَالَ: «إِنَّ اللهَ كَتَبَ الْإِحْسَانَ عَلَى كُلِّ شَيْءٍ، فَإِذَا قَتَلْتُمْ فَأَحْسِنُوا القِتْلَةَ، وَإِذَا ذَبَحْتُمْ فَأَحْسِنُوا الذِّبْحَةَ، وَلْيُحِدَّ أَحَدُكُمْ شَفْرَتَهُ، وَلْيُرِحْ ذَبِيحَتَهُ».",
+      "hadithIntroAr": "عَنْ أَبِي يَعْلَى شَدَّادِ بْنِ أَوْسٍ رَضِيَ اللَّهُ عَنْهُ عَنْ رَسُولِ اللَّهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ قَالَ:",
+      "attribution": "Müslim rivayet etmiştir",
+      "attributions": [
+        "Müslim rivayet etmiştir"
+      ],
+      "grade": "Sahih Hadis",
+      "explanation": "Nebi (s.a.v.), Allah Teâlâ'nın bize her şeyde ihsanı emrettiğini haber vermiştir. İhsan; ibadette, iyilik yapmakta, canlılara eziyet etmemekte her daim Yüce Allah'ın gözetiminde olduğunu bilmektir.  Öldürmek ve hayvanı boğazlamak da bu ihsan kapsamındadır.\r\n\r\nKısas anında katilin öldürülmesindeki ihsan; öldürülen için en kolay, en hafif ve en hızlı yolu seçmektir.\r\n\r\nHayvanı boğazlama esnasındaki ihsan; bıçağı bileyerek kesilecek hayvana şefkat göstermektir. Hayvan bıçağa bakarken gözünün önünde bıçak bilenmez. Diğer hayvanların gözü önünde de hayvan boğazlanmaz.",
+      "categories": [
+        215,
+        126,
+        4,
+        282,
+        266,
+        5
+      ],
+      "hints": [
+        "Allah (c.c.)'nin yaratmış olduğu mahlukatına lütfu ve rahmeti ifade edilmiştir.\r",
+        "Öldürmede ve hayvan kesmedeki ihsan, bunun meşru ve uygun şekilde yapılmasıdır.\r",
+        "İslam dininin mükemmelliği ve her türlü hayrı içermesi ifade edilmiştir. Hayvanlara olan rahmet ve şefkat bunun bir örneğidir.\r",
+        "Bir insan öldürüldükten sonra organlarını kesmek yasaklanmıştır.\r",
+        "Hayvanlara eziyet veren her şey yasaklanmıştır."
+      ]
+    },
+    {
+      "id": 66526,
+      "hadithIntro": "Ebû Mâlik el-Hâris b. Âsım el-Eş'arî (r.a.)'dan rivayet edildiğine göre o şöyle demiştir: Rasûlullah (s.a.v.) şöyle buyurmuştur:",
+      "title": "Temizlik imanın yarısıdır. \"Elhamdülillah\" mizanı doldurur, “Subhânallâhi velhamdulillâh\" bu iki söz -ya da söz- ise yer ile gökler arasını doldurur",
+      "hadith": "Ebû Mâlik el-Hâris b. Âsım el-Eş'arî (r.a.)'dan rivayet edildiğine göre o şöyle demiştir: Rasûlullah (s.a.v.) şöyle buyurmuştur: «Temizlik imanın yarısıdır. \"Elhamdülillah\" mizanı doldurur, “Subhânallâhi velhamdulillâh\" bu iki söz -ya da söz- ise yer ile gökler arasını doldurur.  Namaz nurdur, sadaka burhandır, sabır aydınlıktır. Kur’an senin ya lehinde ya da aleyhinde delildir. Her insan sabaha çıkar; kimi nefsini azat eder (kurtarır), kimi de onu helake sürükler.»",
+      "hadithAr": "عَنْ أَبِي مَالِكٍ الحَارِثِ بْنِ عَاصِمٍ الأَشْعَرِيِّ رَضِيَ اللَّهُ عَنْهُ قَالَ: قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ: «الطُّهُورُ شَطْرُ الْإِيمَانِ، وَالْحَمْدُ لِلهِ تَمْلَأُ الْمِيزَانَ، وَسُبْحَانَ اللهِ وَالْحَمْدُ لِلهِ تَمْلَآنِ -أَوْ تَمْلَأُ- مَا بَيْنَ السَّمَاءِ وَالأَرْضِ، وَالصَّلَاةُ نُورٌ، وَالصَّدَقَةُ بُرْهَانٌ، وَالصَّبْرُ ضِيَاءٌ، وَالْقُرْآنُ حُجَّةٌ لَكَ أَوْ عَلَيْكَ، كُلُّ النَّاسِ يَغْدُو، فَبَايِعٌ نَفْسَهُ فَمُعْتِقُهَا أَوْ مُوبِقُهَا»",
+      "hadithIntroAr": "عَنْ أَبِي مَالِكٍ الحَارِثِ بْنِ عَاصِمٍ الأَشْعَرِيِّ رَضِيَ اللَّهُ عَنْهُ قَالَ: قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ:",
+      "attribution": "Müslim rivayet etmiştir",
+      "attributions": [
+        "Müslim rivayet etmiştir"
+      ],
+      "grade": "Sahih Hadis",
+      "explanation": "Nebi (s.a.v.) zahiri temizliğin abdest ve gusül ile olacağını ve bunun namazın şartı olduğunu haber vermiştir. \"Elhamdülillah mizanı doldurur.\" sözü, Allah Teâlâ'ya bir övgü ve senadır. O'nun kemal sıfatları ile vasfedilmesi kıyamet günü tartılacak ve ameller terazisini dolduracaktır. \"Subhânallâhi velhamdulillâh\" sözleri, Allah Teâlâ'nın bütün eksik ve noksanlıktan uzak olduğu ve O'nun celaline yakışan kâmil sıfatlara sahip olduğunu ifade eder. Bununla birlikte O'nun sevgisi ve tazim edilmesi yer ile gökler arasını doldurur. \"Namaz nurdur\" sözü kulun kalbinde, yüzünde, kabrinde ve tekrardan dirildiğinde nur olacağı ifade edilmiştir. \"Sadaka burhandır\" sözü Müminin imanının samimi olduğuna, bunun karşılığında verilecek olan vaade inanmadığı için ondan yüz çeviren münafıktan farklı olduğuna delildir. \"Sabır ışıktır\" sabır; nefsi tahammülsüzlük ve öfkeden alıkoymaktır. Bununla birlikte güneş ışığı gibi ısı ve yakıcılık getiren bir ışıktır. Çünkü sabretmek zordur ve nefisle mücadele edip arzuladığı şeylerden onu engellemek gerekir. Sabır sahibi olan kimse nur, hidayet ve hak üzere devam etmektedir. Allah'a itaatte sabır, haramlara düşmemekte sabır ve bu dünyadaki musibetlere ve çeşit çeşit zorluklara sabırdır. \"Kur'an lehine hüccettir\" sözü, onu okuduğunda ve onunla amel ettiğinde lehine hüccet olur. \"Aleyhine hüccettir\" sözü onu okumayı ve onunla amel etmeyi terk ettiğinde aleyhine hüccet olur. Sonra Nebi (s.a.v.) bütün insanların uykularından uyandığını ve çeşitli işlerde çalışmak için evlerinden çıkıp koşuşturduklarını haber vermiştir. Onlardan bazısı Allah'a itaat üzere hareket eder ve canını Cehennem'den azat eder. Bazıları da bu şekilde hareket etmeyerek günahlara dalar ve bunlarla helak olup Cehennem'e gider.",
+      "categories": [
+        300,
+        268,
+        5,
+        322,
+        269,
+        441,
+        437,
+        133,
+        121,
+        4
+      ],
+      "hints": [
+        "Temizlik iki çeşittir: Dış temizlik abdest ve gusül ile, iç temizlik ise tevhit, iman ve salih amel ile olur.\r",
+        "Bu dünyada ve kıyamet gününde kul için bir nur olduğu için namazı kılmanın önemi vurgulanmıştır.\r",
+        "Sadaka vermek imanın samimiyetine delildir.\r",
+        "Kur'an'ı tasdik edip onunla amel etmek çok önemlidir. Çünkü ya lehine ya da aleyhine hüccet olacaktır.\r",
+        "Nefis  itaatler ile meşgul edilmezse, o seni günahlarla meşgul eder.\r",
+        "Her insan çalışmak zorundadır. Ya itaatler ile kendini özgür bırakır ya da itaatsizlik ederek kendini helak eder.\r",
+        "Sabır, tahammül ve ecrini Allah'tan beklemeyi gerektirir ve sabırda meşakkat vardır."
+      ]
+    },
+    {
+      "id": 66531,
+      "hadithIntro": "Ebû Saîd Sa'd b. Mâlik b. Sinân el-Hudrî (r.a.)'dan rivayet edildiğine göre Rasûlullah (s.a.v.) şöyle buyurmuştur:",
+      "title": "Zarar vermek yoktur, zarara zararla karşılık vermek de yoktur",
+      "hadith": "Ebû Saîd Sa'd b. Mâlik b. Sinân el-Hudrî (r.a.)'dan rivayet edildiğine göre Rasûlullah (s.a.v.) şöyle buyurmuştur: «Zarar vermek yoktur, zarara zararla karşılık vermek de yoktur.»",
+      "hadithAr": "عَنْ أَبِي سَعِيدٍ سَعْدِ بْنِ مَالِكِ بْنِ سِنَانٍ الخُدْرِيّ رَضِيَ اللَّهُ عَنْهُ أَنَّ رَسُولَ اللَّهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ قَالَ: «لَا ضَرَرَ وَلَا ضِرَارَ».",
+      "hadithIntroAr": "عَنْ أَبِي سَعِيدٍ سَعْدِ بْنِ مَالِكِ بْنِ سِنَانٍ الخُدْرِيّ رَضِيَ اللَّهُ عَنْهُ أَنَّ رَسُولَ اللَّهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ قَالَ:",
+      "attribution": "Hadisi İbn Mâce, Dârekutnî ve diğerleri müsned olarak rivayet etmiştir",
+      "attributions": [
+        "Hadisi İbn Mâce, Dârekutnî ve diğerleri müsned olarak rivayet etmiştir"
+      ],
+      "grade": "Hasen hadis",
+      "explanation": "Nebî (s.a.v.) bir kimsenin çeşitleri ve tezahürleri ne olursa olsun her türlü zararı kendisinden ve başkalarından uzaklaştırması gerektiğini, dolayısıyla hiç kimsenin ne kendisine ne de başkasına zarar vermesinin caiz olmadığını açıklamıştır. Kişinin gördüğü kötülüğe, kötülükle karşılık vermesi caiz değildir. Haddin aşılmadığı kısas uygulanması haricinde zarar görenin zararı, kendisine kötülük yapana kötülük yaparak ortadan kaldırılmaz.",
+      "categories": [
+        250,
+        132,
+        4
+      ],
+      "hints": [
+        "Benzerinden daha fazlası ile karşılık vermek yasaklanmıştır.\r",
+        "Allah Teâlâ, kendilerine zarar verecek hiçbir şeyi kullarına emretmemiştir.\r",
+        "Hadis; sözle, fiille veya terk ederek zarar vermeyi yasaklayan bir esas hükmündedir.\r",
+        "Dini kural ve kaidelere göre zarar ortadan kaldırılır. Din, zarara uğramayı kabul etmez ve başkalarına zarar vermeyi de reddeder."
+      ]
+    },
+    {
+      "id": 66532,
+      "hadithIntro": "İbn Abbâs (r.a.)'dan rivayet edildiğine göre, Rasûlullah (s.a.v.) şöyle buyurmuştur:",
+      "title": "Eğer insanlar yalnızca iddialarıyla (delilsiz) haklı kabul edilselerdi, bazı kimseler başkalarının mallarını ve kanlarını (canlarını) talep ederdi. Ancak, delil getirmek iddia sahibine, yemin etmek ise inkâr eden kişiye aittir",
+      "hadith": "İbn Abbâs (r.a.)'dan rivayet edildiğine göre, Rasûlullah (s.a.v.) şöyle buyurmuştur: «Eğer insanlara sadece iddialarıyla (istedikleri) verilseydi, bazı kimseler başkalarının mallarını ve canlarını (haksız yere) talep ederlerdi. Ancak; delil getirmek iddia sahibine, yemin etmek ise inkâr eden kişiye aittir.»",
+      "hadithAr": "عَن ابنِ عباسٍ رضي الله عنهما أنَّ رسولَ اللهِ صلي الله عليه وسلم قال: «لَو يُعطَى النّاسُ بدَعواهُم لادَّعَى رِجالٌ أموالَ قَومٍ ودِماءَهُم، لَكِنَّ البَيِّنَةَ على المُدَّعِى، واليَمينَ على مَن أنكَرَ».",
+      "hadithIntroAr": "عَن ابنِ عباسٍ رضي الله عنهما أنَّ رسولَ اللهِ صلي الله عليه وسلم قال:",
+      "attribution": "Beyhakî ve diğerleri böyle rivayet etmiştir, bir kısmı da Sahîheynde'dir (Buhârî ve Müslim)",
+      "attributions": [
+        "Beyhakî ve diğerleri böyle rivayet etmiştir, bir kısmı da Sahîheynde'dir (Buhârî ve Müslim)"
+      ],
+      "grade": "Hasen hadis",
+      "explanation": "Peygamber Efendimiz (s.a.v.), insanların delil ve kanıt olmaksızın yalnızca iddialarıyla haklı sayılmalarının mümkün olmadığını açıklamıştır. Aksi takdirde, bazı kimseler başkalarının mallarını ve canlarını talep ederdi. Ancak iddia sahibinin, talebini destekleyen bir delil veya kanıt sunması gerekir. Eğer delili yoksa, dava davalıya arz edilir. Davalı bu iddiayı inkâr ederse, yemin eder ve sorumluluktan kurtulur.",
+      "categories": [
+        235,
+        129,
+        4
+      ],
+      "hints": [
+        "İbn Dakîki'l-Îd şöyle demiştir: “Bu hadis, hükümlerin temel ilkelerinden biridir ve anlaşmazlık ve davalarda en önemli başvuru kaynağıdır.”\r",
+        "Şeriat, insanların mallarını ve canlarını haksızlıktan korumak için gelmiştir.\r",
+        "Hakim, bilgisine göre karar vermez, delillere dayanır.\r",
+        "Delilden yoksun her iddia reddedilir; bu, haklar ve muameleler konularında olduğu gibi iman ve ilim meselelerinde de geçerlidir."
+      ]
+    },
+    {
+      "id": 66536,
+      "hadithIntro": "Ebû Burde’nin, babası Ebû Mûsâ el-Eşarî (r.a.)'dan rivayet ettiğine göre:",
+      "title": "Sarhoşluk verici her şey haramdır.",
+      "hadith": "Ebû Burde’nin, babası Ebû Mûsâ el-Eşarî (r.a.)'dan rivayet ettiğine göre: “Nebi (s.a.v.), Ebû Mûsâ el-Eş‘arî’yi Yemen’e (vali olarak) göndermişti. Ebû Mûsâ el-Eş‘arî orada yapılan bazı içecekler hakkında sordu. Rasûlullah (s.a.v.) «Bunlar nelerdir?» diye sordu. Ebû Mûsâ: ‘(Biri) el-bit‘ ve (diğeri) el-mizr’dir’ dedi. Ebû Burde’ye «‘el-bit‘» nedir?’ diye sorulduğunda, ‘Bal şarabıdır’ dedi. ‘Mizr ise arpa şarabıdır.’ Bunun üzerine Peygamber (s.a.v.) şöyle buyurdu: \"Her sarhoş edici şey haramdır.” Buhârî rivayet etmiştir. Müslim de rivayet etmiş ve lafzı şöyledir: Rasûlullah (s.a.v.) beni ve Muâz'ı Yemen'e gönderdi. Ben: Ey Allah'ın Rasûlü! Bizim memleketimizde arpadan yapılan mizr denilen bir içecek ve baldan yapılan bit' denilen bir içecek vardır, dedim. Rasûlullah (s.a.v.) şöyle buyurdu: «Her sarhoş edici şey haramdır.» Müslim’in bir rivayetinde ise (şöyle geçmektedir): «Namazdan alıkoyarak sarhoşluk veren her şey haramdır.» Onun başka bir rivayetinde ise şöyle gelmiştir: Rasûlullah’a veciz konuşma bir konuda en son sözü söyleme özelliği verilmiştir ve o, şöyle buyurmuştur: «Ben, namazdan alıkoyan ve sarhoşluk veren her türlü içkiyi yasaklıyorum.»",
+      "hadithAr": "عَنْ أَبِي بُرْدَةَ، عَنْ أَبِيهِ أَبِي مُوسَى الأَشْعَريِّ رَضِيَ اللَّهُ عَنْهُ: أَنَّ النَّبِيَّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ بَعَثَهُ إِلَى اليَمَنِ، فَسَأَلَهُ عَنْ أَشْرِبَةٍ تُصْنَعُ بِهَا، فَقَالَ: وَمَا هِيَ؟، قَالَ: «البِتْعُ وَالمِزْرُ»، فَقِيلَ لِأَبِي بُرْدَةَ: مَا البِتْعُ؟ قَالَ: نَبِيذُ العَسَلِ، وَالمِزْرُ: نَبِيذُ الشَّعِيرِ، فَقَالَ: «كُلُّ مُسْكِرٍ حَرَامٌ» خرجه البخاري.\nوَخَرَّجَهُ مُسْلِمٌ وَلَفْظُهُ: قَالَ: بَعَثَنِي رَسُولُ اَلله أَنَا وَمُعَاذٌ إِلَى اَليَمَنِ، فَقُلْتُ: يَا رَسُولُ اَللَّهِ! إِنَّ شَرَابًا يُصْنَعُ بِأَرْضِنَا يُقَال لَهُ: المِزَرُ مِنَ الشَّعِيرِ، وَشَرَابٌ يُقَالُ لَهُ: البِتْعُ مِنَ العَسَلِ، فَقَالَ: «كُلُّ مُسْكِرٍ حَرَامٌ». \nوَفِي رِوَايَةٍ لِمُسْلِمٍ: «فَقَالَ: كُلُّ مَا أَسْكَرَ عَنِ الصَّلَاةِ فَهُوَ حَرَامٌ». \nوَفِي رِوَايَةٍ لَهُ: «وَكَانَ رَسُولُ الله قَدْ أُعْطِيَ جَوَامِعَ الكَلِمِ بِخَوَاتِمِهِ، فَقَالَ: أَنْهَى عَنْ كُلِّ مُسْكِرٍ أَسْكَرَ عَنْ الصَّلَاةِ».",
+      "hadithIntroAr": "عَنْ أَبِي بُرْدَةَ، عَنْ أَبِيهِ أَبِي مُوسَى الأَشْعَريِّ رَضِيَ اللَّهُ عَنْهُ:",
+      "attribution": "Buhârî ve Müslim rivayet etmiştir",
+      "attributions": [
+        "Buhârî ve Müslim rivayet etmiştir"
+      ],
+      "grade": "Sahih Hadis",
+      "explanation": "“Ebû Mûsâ el-Eş‘arî (Allah ondan razı olsun), Peygamber’in ((s.a.v.)) onu Yemen’e gönderdiğini ve orada yapılan bazı içeceklerin haram olup olmadığını sorduğunu rivayet eder. Peygamber (s.a.s.) de bu içecekler hakkında bilgi aldı.”\n\nEbû Mûsâ el-Eş'arî (r.a.) Nebî (s.a.v.) onu ​​Yemen'e gönderdiğini ve orada yapılan bazı içeceklerin haram olup olmadığını sorduğunu haber vermiştir. Bunun üzerine Nebî (s.a.v.) de bu içecekler hakkında daha fazla bilgi almak istemiştir. Ebû Mûsâ (r.a.) şöyle dedi: Bunlar; “Bit’” yani bal şarabı ve “mizr” yani arpa şarabıdır. Kendisine veciz konuşma özelliği verilen Nebî (s.a.v.) şöyle buyurmuştur: «Sarhoşluk veren herşey haramdır.»",
+      "categories": [
+        218,
+        126,
+        4
+      ],
+      "hints": [
+        "Nebîz: Su içine hurma, bal, arpa vb. katılarak tatlı bir lezzet ve aroma kazandırılan bir içecektir. Daha sonra fermente olabilir ve sarhoş edici olabilir.\r",
+        "Hadis; şarap, esrar ve benzeri her türlü sarhoş edici maddenin haram kılınmasına dair bir esas hükmündedir.\r",
+        "Müslümanın ihtiyacı olan şeyleri sormanın önemi ifade edilmiştir.\r",
+        "İlk olarak içkinin haram kılınması, namaz vakti geldiğinde olmuştur. Çünkü bazı Muhacirler namaz kıldığında okuduklarını karıştırmışlardı; bunun üzerine Allah Teâlâ şöyle buyurmuştur:  {Ey iman edenler! Sarhoş iken, ne dediğinizi bilinceye kadar namaza yaklaşmayın.} [Nisâ Suresi: 43.] Rasûlullah’ın münadisi şöyle seslenirdi: \"Sarhoş olan kimse namaza yaklaşmasın.\" Sonra Allah, onu kesin bir dille yasakladı ve şöyle buyurdu: {Ey iman edenler! Şüphesiz içki, kumar, dikili taşlar ve fal okları ancak şeytan işi birer pisliktir. Bunlardan kaçının ki kurtuluşa eresiniz. (90) Şeytan, içki ve kumar yoluyla ancak aranıza düşmanlık ve kin sokmak; sizi, Allah'ı anmaktan ve namazdan alıkoymak ister. Artık (bunlardan) vazgeçiyor musunuz?} [Mâide Suresi: 90-91. Ayetler].\r",
+        "Allah Teâlâ, içkinin büyük zarar ve fitneye sebep olmasından dolayı onu haram kılmıştır.\r",
+        "Haram kılınmasındaki sebep, sarhoş edici bir özelliğin var olmasıdır. Nebîz sarhoş edici ise haramdır, sarhoş edici değilse helaldir."
+      ]
+    },
+    {
+      "id": 66163,
+      "hadithIntro": "Ebû Hureyre (r.a.)'tan rivayet edildiğine göre Nebî (s.a.v.) şöyle buyurmuştur:",
+      "title": "Allah Teâlâ şöyle buyurmuştur",
+      "hadith": "Ebû Hureyre (r.a.)'tan rivayet edildiğine göre Nebî (s.a.v.) şöyle buyurmuştur: «Allah Teâlâ şöyle buyurmuştur: Kıyamet gününde karşısına bir hasım olarak dikileceğim üç çeşit insan vardır: Benim ismimi kullanarak söz verip sözünde durmayan kimse, hür bir insanı köle diye satıp parasını yiyen kimse ve bir işçiyi istihdam edip işini yaptırdığı halde ücretini vermeyen kimse.»",
+      "hadithAr": "عَنْ أَبِي هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ عَنِ النَّبِيِّ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ قَالَ: «قَالَ اللَّهُ تَعَالَى: ثَلاَثَةٌ أَنَا خَصْمُهُمْ يَوْمَ القِيَامَةِ: رَجُلٌ أَعْطَى بِي ثُمَّ غَدَرَ، وَرَجُلٌ بَاعَ حُرًّا فَأَكَلَ ثَمَنَهُ، وَرَجُلٌ اسْتَأْجَرَ أَجِيرًا فَاسْتَوْفَى مِنْهُ وَلَمْ يُعْطِهِ أَجْرَهُ».",
+      "hadithIntroAr": "عَنْ أَبِي هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ عَنِ النَّبِيِّ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ قَالَ:",
+      "attribution": "Buhârî rivayet etmiştir",
+      "attributions": [
+        "Buhârî rivayet etmiştir"
+      ],
+      "grade": "Sahih Hadis",
+      "explanation": "Nebî (s.a.v.) Allah Teâlâ'nın şöyle buyurduğunu haber vermiştir: Kıyamet günü üç tür insan vardır ki, onlara hasım olacağım. Kime hasım olursam, onu yeneceğim ve ona üstün geleceğim: Birincisi: Allah adına yemin eden, anlaşma yapan, sonra da onu bozan ve ihanet eden kimse. İkinci olarak: Özgür bir insanı köle olarak satan, onu sattıktan sonra elde ettiği parayı harcayan ve köle olarak sattıktan sonra o parayı kullanan kimse. Üçüncüsü: Bir işçiyi bir iş için işe alan, ondan işin tüm faydasını alan ancak işin bedelini ödemeyen kimse.",
+      "categories": [
+        155,
+        122,
+        4
+      ],
+      "hints": [
+        "Bu hadis, Nebî (s.a.v.)'in Rabbinden rivayet ettiği hadislerdendir. Kutsî hadis ya da ilahi hadis olarak isimlendirilir. Lafzı ve manası Yüce Allah'a aittir. Ancak Kur'an-ı Kerim'i diğerlerinden ayıran; okunmasının ibadet olması, okumadan önce abdest alınması. Kur'an'daki meydan okuma, mucizelik vb. özellikler kutsî hadiste yoktur.\r",
+        "Sindî şöyle demiştir: Şöyle denilmiştir: Üçünün zikredilmesinin amacı, bu üç sınıf insanı belirtmek değildir. Çünkü Allah Teâlâ bütün zalimlerin hasmıdır. Öyle ki; bu üç sınıf insana aşırı hasım olduğunu vurgulamaktır.\r",
+        "İbn el-Cevzî şöyle demiştir: Özgür insan Allah'ın kuludur; dolayısıyla ona karşı suç işleyen kimsenin düşmanı, efendisi olan Allah'tır.\r",
+        "Hattabî şöyle demiştir: Özgür bir insanı köleleştirmek iki şekilde olur: Ya onu özgür bırakıp sonra bunu gizlemek veya inkâr etmekle ya da onu özgür bıraktıktan sonra zorla çalıştırmakla. Birincisi daha ciddidir. Ben diyorum ki: Söz konusu hadis daha ciddidir; çünkü özgür bırakmayı gizlemenin veya inkâr etmenin yanı sıra, onu satıp bedelini yemeyi de içerir. Bu nedenle, ona karşı olan tehdit daha ağırdır."
+      ]
+    },
+    {
+      "id": 66214,
+      "hadithIntro": "Ömer b. el-Hattâb (r.a.)'tan rivayet edildiğine göre:",
+      "title": "Ona lanet etmeyin; çünkü Allah'a yemin ederim ki, o Allah'ı ve Rasûlünü sever",
+      "hadith": "Ömer b. el-Hattâb (r.a.)'tan rivayet edildiğine göre: Nebî (s.a.v.) zamanında Abdullah adında bir adam vardı ve ona eşek lakabı takılmıştı. Bu adam, Rasûlullah (s.a.v.)'i güldürürdü. Nebî (s.a.v.) onu içki içtiği için kırbaçla cezalandırmıştı. Bir gün bu adam huzuruna getirildi ve Nebî (s.a.v.) onun kırbaç vurularak cezalandırılmasını emretti. Halktan bir adam, “Ey Allah'ım! Ona lanet et! Ne sıklıkla buraya getiriliyor!” dedi. Nebî (s.a.v.) şöyle buyurdu: «Ona lanet etmeyin; çünkü Allah'a yemin ederim ki, o Allah'ı ve Rasûlünü sever.»",
+      "hadithAr": "عَنْ عُمَرَ بْنِ الخَطَّابِ رَضِيَ اللَّهُ عَنْهُ: أَنَّ رَجُلًا عَلَى عَهْدِ النَّبِيِّ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ كَانَ اسْمُهُ عَبْدَ اللَّهِ، وَكَانَ يُلَقَّبُ حِمَارًا، وَكَانَ يُضْحِكُ رَسُولَ اللَّهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ، وَكَانَ النَّبِيُّ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ قَدْ جَلَدَهُ فِي الشَّرَابِ، فَأُتِيَ بِهِ يَوْمًا فَأَمَرَ بِهِ فَجُلِدَ، فَقَالَ رَجُلٌ مِنَ القَوْمِ: اللَّهُمَّ الْعَنْهُ، مَا أَكْثَرَ مَا يُؤْتَى بِهِ؟ فَقَالَ النَّبِيُّ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ: «لاَ تَلْعَنُوهُ، فَوَاللَّهِ مَا عَلِمْتُ أَنَّهُ يُحِبُّ اللَّهَ وَرَسُولَهُ».",
+      "hadithIntroAr": "عَنْ عُمَرَ بْنِ الخَطَّابِ رَضِيَ اللَّهُ عَنْهُ:",
+      "attribution": "Buhârî rivayet etmiştir",
+      "attributions": [
+        "Buhârî rivayet etmiştir"
+      ],
+      "grade": "Sahih Hadis",
+      "explanation": "Nebî (s.a.v.) zamanında, eşek lakaplı Abdullah adında bir adam vardı. Bu adam, Nebî (s.a.v.)'i bazı sözleriyle güldürürdü. Nebî (s.a.v.) alkol içtiği için onu kırbaçlatmıştı. Bir gün alkol aldıktan sonra getirildi ve Nebî (s.a.v.) onun kırbaçlanmasını emretti. Orada bulunanlardan biri ona lanet okuyarak şöyle dedi: \"Allah ona lanet etsin, buraya ne sıklıkla şarap içmiş halde getiriliyor?!\" Bunun üzerine Nebî (s.a.v.) şöyle buyurdu: \"Onun Allah'ın rahmetinden uzaklaştırılması için dua etmeyin, çünkü Allah'a yemin ederim ki, onun hakkında Allah'ı ve Rasûlünü sevmesinden başka bir şey bilmiyorum.",
+      "categories": [
+        226,
+        128,
+        4,
+        283,
+        266,
+        5,
+        287,
+        267
+      ],
+      "hints": [
+        "Haram bir fiili işlemek ile bunu işleyenin kalbinde Allah'a ve Rasûlüne sevgi beslemesi arasında bir çelişki yoktur; zira Nebî (s.a.v.) bize, bahsi geçen kişinin yaptığı şeye rağmen Allah'ı ve Rasûlünü sevdiğini bildirmiştir.\r",
+        "Büyük günah işleyen kimse, ısrarla o günahı işlemeye devam ederken ölürse, o Allah'ın takdirine kalmıştır. Allah dilerse onu affeder, dilerse de azap eder. İslam ehli arasında hiç kimse sonsuza dek cehennemde kalmaz.\r",
+        "İçki içen belirli bir kimseye lanet okumak hoş değildir. Çünkü lanetin gerçekleşmesine engel olan bir şey olabilir. Belli bir kişiye lanet okumak ve ona beddua etmek, onun davranışında ısrar etmesine veya tövbesinin kabul edileceğinden umudunu kesmesine neden olabilir.\r",
+        "Bu özelliğe sahip olan belli bir şahsa değil genel lanet okumak caizdir."
+      ]
+    },
+    {
+      "id": 66252,
+      "hadithIntro": "Ebu'd-Derdâ (r.a.)'tan rivayet edildiğine göre o şöyle demiştir: Rasûlullah (s.a.v.) şöyle buyurmuştur:",
+      "title": "Size oruç, namaz ve zekâttan daha hayırlı bir şey söylemeyeyim mi?",
+      "hadith": "Ebu'd-Derdâ (r.a.)'tan rivayet edildiğine göre o şöyle demiştir: Rasûlullah (s.a.v.) şöyle buyurmuştur: «Size oruç, namaz ve zekâttan daha hayırlı bir şey söylemeyeyim mi?» Dediler ki: Evet. Nebî -aleyhisselam- dedi ki: «İnsanlar arasında sulh olsun; çünkü insanlar arasındaki anlaşmazlık her şeyi yok eder».",
+      "hadithAr": "عَنْ أَبِي الدَّرْدَاءِ رَضِيَ اللَّهُ عَنْهُ قَالَ: قَالَ رَسُولُ اللهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ: «أَلاَ أُخْبِرُكُمْ بِأَفْضَلَ مِنْ دَرَجَةِ الصِّيَامِ وَالصَّلاَةِ وَالصَّدَقَةِ؟» قَالُوا: بَلَى، قَالَ: «صَلاَحُ ذَاتِ البَيْنِ، فَإِنَّ فَسَادَ ذَاتِ البَيْنِ هِيَ الحَالِقَةُ».",
+      "hadithIntroAr": "عَنْ أَبِي الدَّرْدَاءِ رَضِيَ اللَّهُ عَنْهُ قَالَ: قَالَ رَسُولُ اللهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ:",
+      "attribution": "Ebû Dâvûd ve Tirmizî rivayet etmiştir",
+      "attributions": [
+        "Ebû Dâvûd ve Tirmizî rivayet etmiştir"
+      ],
+      "grade": "Sahih Hadis",
+      "explanation": "Nebî (s.a.v.) sahabelerine şöyle sordu: \"Size, sık sık nafile oruç tutmanın, nafile namaz kılmanın ve sadaka vermenin sevabından daha hayırlı olanı söyleyeyim mi?\" Sahabeler: \"Evet,\" dediler. Nebî -aleyhisselam- şöyle buyurdu: Anlaşmazlık yaşayan taraflar arasını ıslah etme, anlaşmazlığın insanlar arasında bölünmeye, yabancılaşmaya, nefrete ve uzaklaşmaya yol açtığı durumlarda gereklidir; çünkü aralarındaki ilişkilerin bozulmasından kaynaklanan nefret, tıpkı bir usturanın kılları yok etmesi gibi, dini ve dünyayı yok edebilecek ve ortadan kaldırabilecek bir özelliktir.",
+      "categories": [
+        204,
+        124,
+        4,
+        314,
+        269,
+        5
+      ],
+      "hints": [
+        "Nebî (s.a.v.)'in doğru yolu gösterme metodu, sahabelere soru sormak ve onların cevabı öğrenme isteğini uyandırmaktı.\r",
+        "Tîbî şöyle demiştir: İki kişi arasını bulmayı teşvik etmek ve onu bozmaktan kaçınmak gerekir. Çünkü uzlaştırma, Allah'ın ipine sımsıkı tutunmanın ve Müslümanlar arasında bölünmenin önüne geçmenin bir vesilesidir. İlişkilerin bozulması ise dinde bir gedik açma anlamına gelir. Kim ıslah etmekle meşgul olur ve fesadı ortadan kaldırmayı üstlenirse, kendi işleriyle meşgul olan oruçlu kişiden daha yüksek bir mertebeye ulaşır."
+      ]
+    },
+    {
+      "id": 66511,
+      "hadithIntro": "Müminlerin Emiri Ebû Hafs Ömer İbnu'l-Hattâb (r.a.)'dan rivayet edildiğine göre, o şöyle demiştir: Rasûlullah (s.a.v.)'i şöyle buyururken işittim:",
+      "title": "Ameller ancak niyetlere göredir. Herkes için ancak niyet ettiği şey vardır",
+      "hadith": "Müminlerin Emiri Ebû Hafs Ömer İbnu'l-Hattâb (r.a.)'dan rivayet edildiğine göre, o şöyle demiştir: Rasûlullah (s.a.v.)'i şöyle buyururken işittim: «Ameller ancak niyetlere göredir. Herkes için ancak niyet ettiği şey vardır.  Kimin hicreti Allah'a ve Rasûlüne ise, onun hicreti Allah'a ve Rasûlünedir. Kim de elde edeceği bir dünyalığa veya evleneceği bir kadına kavuşmak için hicret etmişse, onun hicreti de hicret ettiği şeyedir.»",
+      "hadithAr": "عَنْ أَمِيرِ المُؤْمِنِينَ أَبِي حَفْصٍ عُمَرَ بْنِ الخَطَّابِ رضي الله عنه قَالَ: سَمِعْتُ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ يَقُولُ: «إنَّمَا الأَعْمَالُ بِالنِّيَّاتِ، وَإِنَّمَا لِكُلِّ امْرِئٍ مَا نَوَى، فَمَنْ كَانَتْ هِجْرَتُهُ إلَى اللَّهِ وَرَسُولِهِ فَهِجْرَتُهُ إلَى اللَّهِ وَرَسُولِهِ، وَمَنْ كَانَتْ هِجْرَتُهُ لِدُنْيَا يُصِيبُهَا أَوْ امْرَأَةٍ يَنْكِحُهَا فَهِجْرَتُهُ إلَى مَا هَاجَرَ إلَيْهِ».",
+      "hadithIntroAr": "عَنْ أَمِيرِ المُؤْمِنِينَ أَبِي حَفْصٍ عُمَرَ بْنِ الخَطَّابِ رضي الله عنه قَالَ: سَمِعْتُ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ يَقُولُ:",
+      "attribution": "Muhaddislerin iki imamı Ebû Abdullah Muhammed b. İsmail b. İbrahim b. el-Muğîre b. Berdizbeh el-Buhârî ve Ebû'l-Hüseyn Müslim b. el-Haccâc b. Müslim el-Kuşeyrî en-Nîsâbûrî, bunu -telif edilmiş kitapla",
+      "attributions": [
+        "Muhaddislerin iki imamı Ebû Abdullah Muhammed b. İsmail b. İbrahim b. el-Muğîre b. Berdizbeh el-Buhârî ve Ebû'l-Hüseyn Müslim b. el-Haccâc b. Müslim el-Kuşeyrî en-Nîsâbûrî, bunu -telif edilmiş kitapla"
+      ],
+      "grade": "Sahih Hadis",
+      "explanation": "Nebi (s.a.v.) her amelin niyetlere göre olduğunu haber vermiştir. Bu hüküm bütün ibadet ve muamelatta geçerlidir. Bir kimse yaptığı amelde bir menfaat bekliyorsa, sadece istediği şeyi elde eder, bir sevap kazanmaz. Bir kimse de ameli ile Allah Teâlâ'ya yakınlaşmayı kastederse, yeme-içme gibi gündelik hayatta yaptığı bir iş bile olsa amelinin sevabına ve ecrine nail olur.\r\n\r\nSonra Nebi (s.a.v.) yapılan amellerin görünüş olarak benzer olmasına rağmen niyetin ameller üzerindeki tesirini göstermek için bir misal vermiştir. Kim hicret etmek ister ve Rabbinin rızasını kazanmak için vatanını terk ederse, onun hicreti makbul ve meşru bir hicrettir ve bu niyetindeki ihlasından dolayı ona sevap verilir. Kim de hicret etmekle; mal, itibar, ticaret veya eş gibi dünyevî bir menfati elde etmeye niyet ederse, bu durumda o hicretten ancak niyet ettiği şeyi alır, sevap ve ecirden bir şey elde edemez.",
+      "categories": [
+        314,
+        269,
+        5
+      ],
+      "hints": [
+        "İhlaslı olmak teşvik edilmiştir. Zira Allah Teâlâ rızası için yapılan amelden başkasını kabul etmez.\r",
+        "Allah (c.c.)'ye yaklaştıran amelleri âdet olarak yapan kimse, Allah'a yakınlaşmayı kastetmedikçe kendisine bir sevap verilmez.",
+        "Niyet, ibadetlerin birbirinden ayırt edilmesini sağladığı gibi, ibadetlerle âdetlerin birbirinden ayrılmasını da sağlar."
+      ]
+    },
+    {
+      "id": 66515,
+      "hadithIntro": "Ebû Abdullah Nu'mân b. Beşîr (r.a.)'dan rivayet edildiğine göre o şöyle demiştir: Ben Rasûlullah (s.a.v.)'i şöyle buyururken işittim:",
+      "title": "Helal olan şeyler belli, haram olan şeyler de bellidir",
+      "hadith": "Ebû Abdullah Nu'mân b. Beşîr (r.a.)'dan rivayet edildiğine göre o şöyle demiştir: Ben Rasûlullah (s.a.v.)'i şöyle buyururken işittim: «Helal olan şeyler belli, haram olan şeyler de bellidir. Bu ikisinin arasında, halkın birçoğunun helal mi, haram mı olduğunu bilmediği şüpheli konular vardır. Şüpheli konulardan sakınanlar, dinini ve ırzını korumuş olur. Şüpheli konulardan sakınmayanlar ise gitgide harama dalar. Tıpkı sürüsünü başkasına ait bir arazinin etrafında otlatan çoban gibi ki, onun bu araziye girme tehlikesi vardır. Dikkat edin! Her hükümdarın girilmesi yasak bir arazisi vardır. Unutmayın ki, Allah’ın yasak arazisi de haram kıldığı şeylerdir. Şunu iyi bilin ki, insan vücudunda küçücük bir et parçası vardır. Eğer bu et parçası iyi olursa, bütün vücut iyi olur. Eğer o bozulursa, bütün vücut bozulur. İşte bu et parçası kalptir.»",
+      "hadithAr": "عَنْ أَبِي عَبْدِ اللَّهِ النُّعْمَانِ بْنِ بَشِيرٍ رَضِيَ اللَّهُ عَنْهُ، قَالَ: سَمِعْتُ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّم يَقُولُ: «إنَّ الحَلَالَ بَيِّنٌ، وَإِنَّ الحَرَامَ بَيِّنٌ، وَبَيْنَهُمَا مُشْتَبِهَاتٌ لَا يَعْلَمُهُنَّ كَثِيرٌ مِنَ النَّاسِ، فَمَنْ اتَّقَى الشُّبُهَاتِ اسْتَبْرَأَ لِدِينِهِ وَعِرْضِهِ، وَمَنْ وَقَعَ فِي الشُّبُهَاتِ وَقَعَ فِي الحَرَامِ، كَالرَّاعِي يَرْعَى حَوْلَ الحِمَى يُوشِكُ أَنْ يَرْتَعَ فِيهِ، أَلَا وَإِنَّ لِكُلِّ مَلِكٍ حِمًى، أَلَّا وَإِنَّ حِمَى اللَّهِ مَحَارِمُهُ، أَلَّا وَإِنَّ فِي الجَسَدِ مُضْغَةً إذَا صَلَحَتْ صَلَحَ الجَسَدُ كُلُّهُ، وَإذَا فَسَدَتْ فَسَدَ الجَسَدُ كُلُّهُ، أَلَا وَهِيَ القَلْبُ».",
+      "hadithIntroAr": "عَنْ أَبِي عَبْدِ اللَّهِ النُّعْمَانِ بْنِ بَشِيرٍ رَضِيَ اللَّهُ عَنْهُ، قَالَ: سَمِعْتُ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّم يَقُولُ:",
+      "attribution": "Buhârî ve Müslim rivayet etmiştir",
+      "attributions": [
+        "Buhârî ve Müslim rivayet etmiştir"
+      ],
+      "grade": "Sahih Hadis",
+      "explanation": "Nebi (s.a.v.) varlıklar hakkında genel bir kuralı açıklamış ve dinde de bunun üç kısma ayrıldığını haber vermiştir: Açık olan helaller, açık olan haramlar, hüküm olarak helal ve haramlığı açık olmayan şüpheli şeylerdir. İnsanların çoğu bunun hükmünü bilmez.\r\n\r\nKim bu şüpheli şeyleri terk ederse, harama düşmekten uzak olacağı için dini selamette olur. Bu şüpheli şeyleri yapmadığı için insanların kınamasından da ırzı selamette olur. Kim de bu şüpheli şeylerden kaçınmaz ise, ya kendisini haramı işlemeye maruz kalır ya da insanlar onun ırzı hakkında konuşur. Rasûlullah (s.a.v.) şüpheli şeylere dikkat etmeyen kimseyi arazisinin etrafını çevirmiş kişinin yakınlarında sürüsünü otlatan çobana benzetmiştir. Bu çobanın sürüsü o araziye yakın olduğu için orada otlayabilir. Şüpheli şeyleri yapan kişinin de durumu böyledir. Harama yaklaştığı için o haramı işlemesi uzak değildir. Daha sonra Nebi (s.a.v.) insan vücudunda küçücük bir et parçası (kalp) olduğunu haber vermiştir. Kalp iyi olursa bütün vücut da iyi olur, eğer kalp bozulursa bütün vücut da bozulur.",
+      "categories": [
+        280,
+        265,
+        5,
+        322,
+        269
+      ],
+      "hints": [
+        "Hadis, şüpheden uzak durmak için bir esas hükmündedir.\r",
+        "Hükmü belli olmayan şüpheli şeyleri terk etmek teşvik edilmiştir."
+      ]
+    },
+    {
+      "id": 66520,
+      "hadithIntro": "Rasûlullah (s.a.v.)'in hizmetçisi Ebû Hamza Enes b. Mâlik (r.a.)'dan rivayet edildiğine göre, Nebî (s.a.v.) şöyle buyurmuştur:",
+      "title": "Sizden biriniz kendisi için istediği şeyi din kardeşi için de istemedikçe (kâmil manada) iman etmiş olmaz",
+      "hadith": "Rasûlullah (s.a.v.)'in hizmetçisi Ebû Hamza Enes b. Mâlik (r.a.)'dan rivayet edildiğine göre, Nebî (s.a.v.) şöyle buyurmuştur: «Sizden biriniz kendisi için istediği şeyi din kardeşi için de istemedikçe (kâmil manada) iman etmiş olmaz.»",
+      "hadithAr": "عَنْ أَبِي حَمْزَةَ أَنَسِ بْنِ مَالِكٍ رَضِيَ اللَّهُ عَنْهُ -خَادِمِ رَسُولِ اللَّهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ- عَنْ النَّبِيِّ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ قَالَ: «لاَ يُؤْمِنُ أَحَدُكُمْ، حَتَّى يُحِبَّ لِأَخِيهِ مَا يُحِبُّ لِنَفْسِهِ»",
+      "hadithIntroAr": "عَنْ أَبِي حَمْزَةَ أَنَسِ بْنِ مَالِكٍ رَضِيَ اللَّهُ عَنْهُ -خَادِمِ رَسُولِ اللَّهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ- عَنْ النَّبِيِّ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ قَالَ:",
+      "attribution": "Muttefekun aleyh",
+      "attributions": [
+        "Muttefekun aleyh"
+      ],
+      "grade": "Sahih Hadis",
+      "explanation": "Peygamber Efendimiz (s.a.v.) bir Müslümanın, din ve dünya işlerinde itaat ve iyiliklerden kendisi için sevdiği şeyleri kardeşi için de sevmedikçe, kendisi için hoşlanmadığı şeylerden kardeşi için de hoşlanmadıkça tam imana sahip  olamayacağını haber vermiştir. Bir Müslüman, kardeşinin dininde bir eksiklik görürse, onu ıslah etmek için çaba gösterir, onda bir hayır görürse onu destekler ve ona yardım eder. Dini ve dünyevi konularda kardeşine nasihat eder.",
+      "categories": [
+        282,
+        266,
+        5
+      ],
+      "hints": [
+        "Bir kimsenin, kendisi için sevdiği şeyi kardeşi için de sevmesinin farz oluşu ifade edilmiştir. Çünkü kardeşi için sevmediğinde imanın nefyedilmesi, bunun farz olduğuna delalet eder.\r",
+        "Allah için kardeşlik, soy kardeşliğinden daha üstündür. Bundan dolayı bu kardeşliğin hakkı daha önce gelir.\r",
+        "Hile yapmak, gıybet etmek, haset etmek; Müslümanın canına, malına, namusuna düşmanca göz dikmek gibi bu sevgiye aykırı her türlü söz ve eylem haramdır.\r",
+        "Sevgiyi fiile dökmeyi teşvik eden \"Kardeşi için\" gibi bazı kelimeler kullanılmıştır.\r",
+        "Kirmânî -rahimehullah- şöyle demiştir: “Kişinin, kendisi için hoşlanmadığı bir kötülüğü kardeşi için de istememesi imanın bir parçasıdır. Ancak bunu açıkça belirtmemiştir; çünkü bir şeyi sevmek, onun zıddını sevmemeyi gerektirir. Bu nedenle, bunu açıkça ifade etmeye gerek duymamıştır.”"
+      ]
+    },
+    {
+      "id": 66523,
+      "hadithIntro": "Ebû Mesûd Ukbe b. Amr el-Ensârî el-Bedrî (r.a.)’dan rivayet edildiğine göre o şöyle demiştir: Rasûlullah (s.a.v.) şöyle buyurmuştur:",
+      "title": "İnsanların ilk nübüvvetten beri (bütün peygamberlerden) duyduğu sözlerden biri; utanmazsan dilediğini yap.» sözüdür",
+      "hadith": "Ebû Mesûd Ukbe b. Amr el-Ensârî el-Bedrî (r.a.)’dan rivayet edildiğine göre o şöyle demiştir: Rasûlullah (s.a.v.) şöyle buyurmuştur: «İnsanların ilk nübüvvetten beri (bütün peygamberlerden) duyduğu sözlerden biri; utanmazsan dilediğini yap.» sözüdür.",
+      "hadithAr": "عَنْ أَبِي مَسْعُودٍ عُقْبَةَ بْنِ عَمْرٍو الأَنْصَارِيِّ البَدْرِيِّ رَضِيَ اللَّهُ عَنْهُ قَالَ: قَالَ رَسُولُ اللَّهِ: «إِنَّ مِمَّا أَدْرَكَ النَّاسُ مِنْ كَلاَمِ النُّبُوَّةِ الأُولَى: إِذَا لَمْ تَسْتَحْيِ فَاصْنَعْ مَا شِئْتَ».",
+      "hadithIntroAr": "عَنْ أَبِي مَسْعُودٍ عُقْبَةَ بْنِ عَمْرٍو الأَنْصَارِيِّ البَدْرِيِّ رَضِيَ اللَّهُ عَنْهُ قَالَ: قَالَ رَسُولُ اللَّهِ:",
+      "attribution": "Buhârî rivayet etmiştir",
+      "attributions": [
+        "Buhârî rivayet etmiştir"
+      ],
+      "grade": "Sahih Hadis",
+      "explanation": "Peygamber (s.a.v.) haber vermiştir ki, önceki peygamberlerden gelen ve onların vasiyetleri arasında yer alan, insanların da nesiller boyunca birbirlerine aktarıp miras olarak devrettikleri şeylerden biri şudur: “Ne yapmak istediğine bak! Eğer o şeyden utanılmayacaksa yap, eğer utanılacak bir şeyse onu bırak.” Kötülük yapmaya engel olan hayâdır. Hayâ sahibi olmayan kişi, her türlü ahlaksızlık ve çirkin davranışa hırsla dalar.",
+      "categories": [
+        282,
+        266,
+        5
+      ],
+      "hints": [
+        "Hayâ, güzel ahlâkın aslıdır.\r",
+        "Hayâ, peygamberler -aleyhimessalâtu vesselâm-'ın özelliklerinden ve bu onlardan aktarılan şeylerdendir.\r",
+        "Hayâ, Müslümanı güzelleştiren ve süsleyen şeyleri yaptıran, çirkin ve rezil olan şeyleri terk ettiren duygudur.\r",
+        "Nevevî şöyle demiştir: “Buradaki emir kipi, mübahlık ifade eder. Yani bir şey yapmak istediğinde, eğer onu yaptığında Allah’tan ve insanlardan utanmayacağın bir şey ise onu yap, değilse yapma. İslam’ın temeli de bunun üzerine kuruludur. Bunun izahı şudur: Emredilen şeyler, yani farz ve menduplar terk edilince utanılır; yasaklanan şeyler, yani haram ve mekruhlar ise yapıldığında utanılır. Mübah olan şeylerde ise hem yapmakta hem de terk etmekte hayâ edilmesi câizdir. Dolayısıyla hadis beş hükmü (farz, haram, mendup, mekruh, mübah) kapsamaktadır. Bir başka görüşe göre ise bu emir, tehdit anlamındadır. Yani Senden hayâ kaldırılmışsa dilediğini yap; çünkü Allah seni onun karşılığında hesaba çekecektir. Bir diğer görüşe göre ise emir, haber anlamındadır: Kimde hayâ yoksa dilediğini yapar."
+      ]
+    },
+    {
+      "id": 66538,
+      "hadithIntro": "Ömer b. Hattâb (r.a.)'dan rivayet edildiğine göre, Nebî (s.a.v.) şöyle buyurmuştur:",
+      "title": "Eğer Allah’a hakkıyla tevekkül etseydiniz, O sabah aç çıkıp akşam tok dönen kuşları rızıklandırdığı gibi sizi de rızıklandırırdı",
+      "hadith": "Ömer b. Hattâb (r.a.)'dan rivayet edildiğine göre, Nebî (s.a.v.) şöyle buyurmuştur: «Eğer Allah’a hakkıyla tevekkül etseydiniz, O sabah aç çıkıp akşam tok dönen kuşları rızıklandırdığı gibi sizi de rızıklandırırdı.»",
+      "hadithAr": "عَنْ عُمَرَ بْنِ الخَطَّابِ رَضِيَ اللَّهُ عَنْهُ عَنِ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَالَ: «لَوْ أَنَّكُمْ كُنْتُمْ تَوَكَّلُونَ عَلَى اللهِ حَقَّ تَوَكُّلِهِ لَرَزَقَكُمْ كَمَا يَرْزَقُ الطَّيْرَ تَغْدُو خِمَاصًا وَتَرُوحُ بِطَانًا».",
+      "hadithIntroAr": "عَنْ عُمَرَ بْنِ الخَطَّابِ رَضِيَ اللَّهُ عَنْهُ عَنِ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَالَ:",
+      "attribution": "İmam Ahmed, Tirmizî, Nesâî, İbn Mâce, İbn Hibbân (Sahîh'inde) ve Hâkim rivayet etmiştir",
+      "attributions": [
+        "İmam Ahmed, Tirmizî, Nesâî, İbn Mâce, İbn Hibbân (Sahîh'inde) ve Hâkim rivayet etmiştir"
+      ],
+      "grade": "Sahih Hadis",
+      "explanation": "Nebi (s.a.v.) din ve dünya işlerinde faydalı şeyleri elde etmek ve zarar veren şeyleri def etmek için Yüce Allah'a itimat edip güvenmeyi teşvik etmiştir. Yüce Allah'a hakiki manada tevekkül edip faydalı şeyleri elde etmek ve zarar veren şeyleri def etmek için sebepleri yerine getirmeliyiz. Bunu ne zaman yaparsak, Allah Teâlâ; sabah yuvasından aç bir şekilde çıkıp, karnı tok bir şekilde akşam yuvasına dönen kuşları rızıklandırdığı gibi bizi de rızıklandırır. Tembellik etmeden ve tevekkül ediyormuş gibi yapmadan kuşun yuvadan çıkıp rızkını araması sebepleri yerine getirmektir.",
+      "categories": [
+        280,
+        265,
+        5
+      ],
+      "hints": [
+        "Tevekkül etmenin fazileti ifade edilmiştir. Rızkı elde etmenin en büyük sebeplerinden birisidir.\r",
+        "Tevekkül etmek sebepleri yerine getirmeye aykırı değildir. Çünkü gerçek tevekkül, rızkı elde etmek için sabah gidip akşam dönmeye tezat değildir.\r",
+        "İslam dini kalp amellerine özen göstermektedir. Çünkü tevekkül kalp amellerindendir.\r",
+        "Sadece sebepleri yerine getirmek dindarlıktaki bir eksikliktir, sebepleri terk etmek ise akıldaki bir noksanlıktır."
+      ]
+    },
+    {
+      "id": 66540,
+      "hadithIntro": "Nevvâs b. Sem'ân el-Ensârî (r.a.)'dan rivayet edildiğine göre Nebî (s.a.v.) şöyle buyurmuştur:",
+      "title": "Birr: Güzel ahlaktır. Günah, nefsinde tereddüt yaşayıp, sıkıldığın ve insanların bilmesinden hoşlanmadığın şeydir",
+      "hadith": "Nevvâs b. Sem'ân el-Ensârî (r.a.)'dan rivayet edildiğine göre Nebî (s.a.v.) şöyle buyurmuştur: «Birr: Güzel ahlaktır. Günah, nefsinde tereddüt yaşayıp, sıkıldığın ve insanların bilmesinden hoşlanmadığın şeydir.» Vâbisa b. Ma'bed (r.a.)’dan şöyle dediği rivayet edilmiştir: Rasûlullah (s.a.v.)’e geldim, bana «İyilik ve günah hakkında soru sormak için mi geldin?» diye buyurdu. “Evet” dedim. Bunun üzerine şöyle buyurdu: «Kalbine sor. Birr: İyilik, nefsinin ve kalbinin huzur bulduğu şeydir. Günah ise, nefsinde tereddüt yaşayıp, sıkıldığın şeydir; insanlar sana fetva verse veya seni onaylasa bile.»",
+      "hadithAr": "عَنِ النَّوَّاسِ بْنِ سِمْعَانَ رَضِيَ اللهُ عَنْهُ عَنِ النَّبِيِّ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ قَالَ: «البِرُّ: حُسْنُ الخُلُقِ، وَالإِثْمُ مَا حَاكَ فِي صَدْرِكَ، وَكَرِهْتَ أَنْ يَطَّلِعَ عَلَيْهِ النَّاسُ».   \nوَعَنْ وَابِصَةَ بْنِ مَعْبَدٍ رَضِيَ اللَّهُ عَنْهُ قَالَ: أَتَيْتُ رَسُولَ اللَّهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ فَقَالَ: «جِئْتَ تَسْأَلُ عَنِ البِرِّ وَالإِثْمِ»، قُلْتُ: نَعَمْ، قَالَ: «اسْتَفْتِ قَلْبَكَ، البِرُّ: مَا اطْمَأَنَّتْ إلَيْهِ النَّفْسُ، وَاطْمَأَنَّ إلَيْهِ القَلْبُ، وَالإِثْمُ: مَا حَاكَ فِي نَفْسِكَ وَتَرَدَّدَ فِي الصَّدْرِ، وَإِنْ أَفْتَاكَ النَّاسُ وَأَفْتَوْكَ».",
+      "hadithIntroAr": "عَنِ النَّوَّاسِ بْنِ سِمْعَانَ رَضِيَ اللهُ عَنْهُ عَنِ النَّبِيِّ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ قَالَ:",
+      "attribution": "Birinci Hadisi; Müslim rivayet etmiştir. İkinci Hadisi; Ahmed ve Dârimî rivayet etmiştir",
+      "attributions": [
+        "Birinci Hadisi; Müslim rivayet etmiştir. İkinci Hadisi; Ahmed ve Dârimî rivayet etmiştir"
+      ],
+      "grade": "Sahih Hadis",
+      "explanation": "Nebî (s.a.v.) iyilik ve günah hakkında şöyle buyurmuştur: Salih amellerin en güzeli, takva ile Allah’a karşı güzel ahlak, eziyete katlanmak, öfkeden kaçınmak, gülümsemek, güzel söz söylemek, akrabalık bağlarını gözetmek, itaat etmek, nezaket göstermek, iyilik yapmak, güzel geçinmek ve iyi arkadaşlık etmektir. Birr/ iyilik kalbin ve nefesin huzur bulduğu şeydir. Günah ise, vicdanı rahatsız eden şüpheli işler ve kalbin kabul etmediği tereddütlerdir. Kalpte, onun bir günah olabileceğine dair bir kuşku ve korku meydana gelir. Ayrıca seçkin, fazilet sahibi kişilere çirkin görüneceği için açığa çıkmasını istemediğin şeydir. Çünkü nefis tabiatı gereği, insanların kendi iyiliğini görmesini sever. Eğer bir amelinin insanlar tarafından görülmesini istemiyorsan, bu onun hayır değil, günah olduğunu gösterir. Eğer insanlar sana fetva verse bile, kalbinde şüphe işareti devam ettiği sürece onların fetvasını alma; çünkü fetva, şüpheyi ortadan kaldırmaz, hele ki fetva sahibi bilgisiz ise. Ancak fetva, şer’î bir delile dayanıyorsa, fetva soran kişi ona başvurmakla yükümlüdür; kalbi tam olarak kabullenemese bile.",
+      "categories": [
+        282,
+        266,
+        5,
+        314,
+        269
+      ],
+      "hints": [
+        "Hadis, güzel ahlakı teşvik etmiştir. Çünkü güzel ahlak, iyiliğin en önemli özelliklerinden biridir.\r",
+        "Hak ve batıl, Mümin için karışmaz; hakkı, kalbindeki nurla tanır ve batıldan uzak durur, onu reddeder.\r",
+        "Günahın alametlerinden biri, kalbin huzursuz ve çalkantılı olması, ayrıca insanların bunu görmesini istememektir.\r",
+        "Sindî şöyle demiştir: \"Bu (hadis), insanların hangi tarafın doğru olduğu hususunda kesin bilgiye sahip olmadıkları şüpheli konularla ilgilidir. Aksi takdirde şeriatta bir şey emredilmiş aksini gösteren bir delil açıkça bulunmuyorsa bu iyilik kapsamına girer. Yasaklanan şey de aynı böyledir, o da günah/kötülük kapsamına girer. Bu gibi durumlarda kalbe danışmaya veya onun huzur bulmasına gerek yoktur.\"\r",
+        "Hadiste bahsedilen kimseler, temiz bir fıtrat üzere olan kimselerdir; yoksa, hevâ sahibi, marufu tanımayan, münkerden sakındırmayan kalbi altüst olmuş kimseler değildir.\r",
+        "Et-Tîbî şöyle demiştir: Denilmiştir ki; hadiste geçen ‘birr’ (iyilik) çeşitli anlamlarla açıklanmıştır. Bir yerde, nefse huzur veren ve kalbin yatıştığı şey olarak tefsir edilmiştir; başka bir yerde iman olarak; başka bir yerde seni Allah’a yaklaştıran şey olarak; burada ise güzel ahlâk olarak açıklanmıştır. Güzel ahlâk ise; eziyete katlanmak, öfkeye hakim olmak, güler yüzlü ve sözlü olmak şeklinde tarif edilmiştir. Bütün bu anlamlar, birbirine yakın anlamlardır."
+      ]
+    },
+    {
+      "id": 66541,
+      "hadithIntro": "Abdullah b. Busr –(r.a.)-’dan merfû olarak rivayet edildiğine göre, bir adam Nebî (s.a.v.)'in yanına geldi: \"Ey Allah’ın Rasûlü! İslam'ın ibadetleri bana ağır geldi. Devamlı yapabileceğim bir şey ver ki ona sarılayım.\" dedi. Bunun üzerine Nebî (s.a.v.) şöyle buyurdu:",
+      "title": "Dilinin daima Allah’ı zikretmekle ıslak tut",
+      "hadith": "Abdullah b. Busr –(r.a.)-’dan merfû olarak rivayet edildiğine göre, bir adam Nebî (s.a.v.)'in yanına geldi: \"Ey Allah’ın Rasûlü! İslam'ın ibadetleri bana ağır geldi. Devamlı yapabileceğim bir şey ver ki ona sarılayım.\" dedi. Bunun üzerine Nebî (s.a.v.) şöyle buyurdu: «Dilinin daima Allah’ı zikretmekle ıslak tut.» Başka bir rivayette: Muâz b. Cebel (r.a.)'dan aktarıldığına göre: Rasûlullah (s.a.v.)'den en son ayrıldığımda ona: \"Hangi amel daha üstün ve Allah'a daha yakındır?\"  diye sormak oldu. Rasûlullah (s.a.v.) şöyle buyurdu: «Dilin, Allah (c.c.)'nin zikriyle ıslak olduğu halde ölmendir.»",
+      "hadithAr": "عَنْ عَبْدِ اللَّهِ بْنِ بُسْرٍ رَضِيَ اللَّهِ عَنْهُ قَالَ: أَتَى النَّبِيَّ رَجُلٌ، فَقَالَ: يَا رَسُولَ اللَّهِ! إِنَّ شَرَائِعَ الإِسْلَامِ قَدْ كَثُرَتْ عَلَيْنَا، فَبَابٌ نَتَمَسَّكُ بِهِ جَامِعٌ؟ قَالَ: «لاَ يَزَالُ لِسَانُكَ رَطْبًا مِنْ ذِكْرِ اللَّهِ». \nوفي رواية: مِنْ حَدِيثِ مُعَاذِ بْنِ جَبَلٍ رَضِيَ اللَّهُ عَنْهُ: آخِرُ مَا فَارَقْتُ عَلَيْهِ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ أَنْ قُلْتُ: أَيُّ الأَعْمَالِ خَيْرٌ وَأَقْرَبُ إِلَى اللَّهِ؟ قَالَ: «أَنْ تَمُوتَ وَلِسَانُكَ رَطْبٌ مِنْ ذِكْرِ اللَّهِ عَزَّ وَجَلَّ».",
+      "hadithIntroAr": "عَنْ عَبْدِ اللَّهِ بْنِ بُسْرٍ رَضِيَ اللَّهِ عَنْهُ قَالَ: أَتَى النَّبِيَّ رَجُلٌ، فَقَالَ: يَا رَسُولَ اللَّهِ! إِنَّ شَرَائِعَ الإِسْلَامِ قَدْ كَثُرَتْ عَلَيْنَا، فَبَابٌ نَتَمَسَّكُ بِهِ جَامِعٌ؟ قَالَ:",
+      "attribution": "Ahmed, Tirmizî, İbn Mâce ve İbn Hibbân rivayet etmiştir",
+      "attributions": [
+        "Ahmed, Tirmizî, İbn Mâce ve İbn Hibbân rivayet etmiştir"
+      ],
+      "grade": "Sahih Hadis",
+      "explanation": "Bir adam, Peygamber (s.a.v.)'e nafile ibadetlerin çoğaldığını, bunları yapamayacak kadar zayıf kaldığını hususunda şikâyet etti. Sonra Peygamber (s.a.v.)'den kendisine büyük sevap kazandıran, kolay bir amel gösterip ona sarılabileceği bir yol tavsiye etmesini istedi.\r\n\r\nBunun üzerine Peygamber (s.a.v.) ona, dilinin her zaman Allah Teâlâ’yı zikretmekle canlı ve hareketli olmasını tavsiye etti. Yani her vakit ve her durumda tesbih, tahmid, istiğfar, dua ve benzeri zikirlerle meşgul olmasını öğütledi.",
+      "categories": [
+        278,
+        265,
+        5
+      ],
+      "hints": [
+        "Sürekli olarak Allah Teâlâ'yı zikretmenin fazileti ifade edilmiştir.\r",
+        "Allah'ın büyük lütuflarından biri de sevap kazanılacak yolları kolaylaştırmasıdır.\r",
+        "Kulların, hayır ve iyilik kapılarından elde ettikleri pay bakımından birbirlerinden üstün olmaları ifade edilmiştir.\r",
+        "Allah’ı dil ile çokça zikretmek – tesbih, tahmid, tehlil, tekbir ve benzeri zikirlerle – ve bunun kalbin tasdikiyle birlikte olması, pek çok nafile ibadetin yerini tutar.\r",
+        "Peygamber (s.a.v.) sordukları soruları dikkate alarak, soru soran her bir kimsenin kendisine uygun olan cevabı vermiştir."
+      ]
+    },
+    {
+      "id": 66254,
+      "hadithIntro": "Ebû Hureyre (r.a.)'tan rivayet edildiğine göre, Rasûlullah (s.a.v.) oturan bazı kişilerin yanına gelerek şöyle buyurmuştur:",
+      "title": "Sizin hanginizin hayırlı, hanginizin şerli olduğunu size bildireyim mi?” dedi",
+      "hadith": "Ebû Hureyre (r.a.)'tan rivayet edildiğine göre, Rasûlullah (s.a.v.) oturan bazı kişilerin yanına gelerek şöyle buyurmuştur: «Sizin hanginizin hayırlı, hanginizin şerli olduğunu size bildireyim mi?” dedi. Orada bulunanlar sustular. (Bunun üzerinde Rasûlullah sorusunu) üç kere tekrarladı. Sonra bir adam dedi ki: Evet, ey Allah’ın Rasûlü, bize aranızda en hayırlı olanı ve en kötü olanı söyleyin. Buyurdu ki: «En hayırlınız, kendisinden hayır beklenilen ve kötülüğünden emin olunandır; en şerliniz ise kendisinden hayır beklenmeyen ve kötülüğünden de emin olunmayandır.»",
+      "hadithAr": "عَنْ أَبِي هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ أَنَّ رَسُولَ اللهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ وَقَفَ عَلَى نَاسٍ جُلُوسٍ، فَقَالَ: «أَلاَ أُخْبِرُكُمْ بِخَيْرِكُمْ مِنْ شَرِّكُمْ؟» قَالَ: فَسَكَتُوا، فَقَالَ ذَلِكَ ثَلاَثَ مَرَّاتٍ، فَقَالَ رَجُلٌ: بَلَى يَا رَسُولَ اللهِ، أَخْبِرْنَا بِخَيْرِنَا مِنْ شَرِّنَا، قَالَ: «خَيْرُكُمْ مَنْ يُرْجَى خَيْرُهُ وَيُؤْمَنُ شَرُّهُ، وَشَرُّكُمْ مَنْ لاَ يُرْجَى خَيْرُهُ وَلاَ يُؤْمَنُ شَرُّهُ».",
+      "hadithIntroAr": "عَنْ أَبِي هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ أَنَّ رَسُولَ اللهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ وَقَفَ عَلَى نَاسٍ جُلُوسٍ، فَقَالَ:",
+      "attribution": "Tirmizî rivayet etmiştir",
+      "attributions": [
+        "Tirmizî rivayet etmiştir"
+      ],
+      "grade": "Sahih Hadis",
+      "explanation": "Nebî (s.a.v.) oturan bazı sahabelerinin yanına giderek, Size en hayırlınızı ve en kötünüzü söylemeyeyim mi? diye sordu. Sahabeler, aralarında iyi ve kötü olanların ayırt edilmesinden ve kötülerin (hayırlı olmayan iş yapanların) ortaya çıkmasından korktukları için konuşmadılar ve cevap vermediler. Nebî (s.a.v.) onlara bu soruyu üç defa tekrarladı ve içlerinden biri şöyle cevap verdi: Evet, ey Allah'ın Rasûlü, bize aramızda en iyi ve en kötü olanın kim olduğunu söyle. Nebî (s.a.v.) onlara şöyle buyurdu: Sizin en hayırlınız, iyiliği, şefkati ve doğruluğu beklenen ve umulan, şerrinden emin olunan, haksızlık yapmasından, kötülüğünden ve zulmünden korkulmayan kimsedir. Sizin en kötünüz ise, iyiliği, şefkati ve doğruluğu umulmayan ve beklenmeyen, haksızlık yapmasından, kötülüğünden ve zulmünden korkulan kimsedir.",
+      "categories": [
+        282,
+        266,
+        5
+      ],
+      "hints": [
+        "En hayırlı ve en şerli insanların kim olduğu hakkında bir açıklama.\r",
+        "\r",
+        "İnsanların kendi aralarında güzel ahlaka sahip olmaları ve birbirlerine karşı iyi davranışta bulunmaları teşvik edilmiş, haksızlık, kötülük ve düşmanlık yapmaya karşı uyarıda bulunulmuştur."
+      ]
+    },
+    {
+      "id": 66255,
+      "hadithIntro": "Ebû Hureyre (r.a.)'ın Nebî (s.a.v.)'den rivayet ettiğine göre o şöyle buyurmuştur:",
+      "title": "Kim insanlara teşekkür etmez ise, Allah'a da şükretmez",
+      "hadith": "Ebû Hureyre (r.a.)'ın Nebî (s.a.v.)'den rivayet ettiğine göre o şöyle buyurmuştur: «Kim insanlara teşekkür etmez ise, Allah'a da şükretmez»",
+      "hadithAr": "عَنْ أَبِي هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ عَنِ النَّبِيِّ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ قَالَ: «لَا يَشْكُرُ اللَّهَ مَنْ لَا يَشْكُرُ النَّاسَ»",
+      "hadithIntroAr": "عَنْ أَبِي هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ عَنِ النَّبِيِّ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ قَالَ:",
+      "attribution": "Ebû Dâvûd, Tirmizî ve Ahmed rivayet etmiştir",
+      "attributions": [
+        "Ebû Dâvûd, Tirmizî ve Ahmed rivayet etmiştir"
+      ],
+      "grade": "Sahih Hadis",
+      "explanation": "Nebî (s.a.v.) kendisine yapılan iyilik ve cömertlik için insanlara teşekkür etmeyen kimse, genellikle Allah'a da şükretmeyeceğini bildirmiştir. Çünkü bu iki durum birbiriyle bağlantılıdır; zira insanların yaptığı iyiliklere karşı nankörlük eden ve onlara teşekkür etmeyen kimse, Allah'ın nimetlerine karşı da nankörlük etme ve O'na şükretmeme alışkanlığına sahip olur.",
+      "categories": [
+        282,
+        266,
+        5
+      ],
+      "hints": [
+        "İnsanlara iyilikleri için teşekkür etmenin önemi.\r",
+        "Gerçek nimet veren Allah Teâlâ'dır ve yaratılmışlar Allah Teâlâ'nın dilediği kimse için sunduğu vesilelerdir. Bu nedenle, insanlara teşekkür etmek, Allah Teâlâ'ya şükretmenin bir parçasıdır.\r",
+        "Yaptıkları iyilikler için insanlara teşekkür etmek, mükemmel bir ahlakın göstergesidir."
+      ]
+    },
+    {
+      "id": 66516,
+      "hadithIntro": "Ebû Rukayye Temîm b. Evs ed-Dârî (r.a.)'dan rivayet edildiğine göre Nebî (s.a.v.) şöyle buyurmuştur:",
+      "title": "Din samimiyettir",
+      "hadith": "Ebû Rukayye Temîm b. Evs ed-Dârî (r.a.)'dan rivayet edildiğine göre Nebî (s.a.v.) şöyle buyurmuştur: «Din samimiyettir.» Biz kendisine: Kime karşı? diye sorduk. Peygamber Efendimiz: «Allah'a, kitabına, Rasûlüne, Müminlerin yöneticileri ve tüm Müslümanlara.» diye buyurdu.",
+      "hadithAr": "عَنْ أَبِي رُقَيَّةَ تَمِيمِ بْنِ أَوْسٍ الدَّارِيِّ رَضِيَ اللَّهُ عَنْهُ أَنَّ النَّبِيَّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَالَ: «الدِّينُ النَّصِيحَةُ» قُلْنَا: لِمَنْ؟ قَالَ: «لِلهِ وَلِكِتَابِهِ وَلِرَسُولِهِ وَلِأَئِمَّةِ الْمُسْلِمِينَ وَعَامَّتِهِمْ».",
+      "hadithIntroAr": "عَنْ أَبِي رُقَيَّةَ تَمِيمِ بْنِ أَوْسٍ الدَّارِيِّ رَضِيَ اللَّهُ عَنْهُ أَنَّ النَّبِيَّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَالَ:",
+      "attribution": "Müslim rivayet etmiştir",
+      "attributions": [
+        "Müslim rivayet etmiştir"
+      ],
+      "grade": "Sahih Hadis",
+      "explanation": "Nebî (s.a.v.) dinin ihlas ve doğruluk üzerine inşa edildiğini, Yüce Allah'ın farz kıldığı şekilde tam, eksiksiz ve aldatma olmadan yerine getirilmesi gerektiğini haber vermiştir. Nebî (s.a.v.)'e samimiyet kim içindir? diye sorulduğunda şöyle cevap vermiştir: Birincisi: Allah Subhânehû ve Teâlâ'ya Karşı Samimiyet: Ameller ihlasla sadece O'na yapılır ve O'na hiçbir şey ortak koşulmaz. O'nun rubûbiyetine, ulûhiyetine, isim ve sıfatlarına iman eder, emrini yüceltir ve O'na iman etmeye davet ederiz. İkincisi: Yüce Allah'ın Kitabı Kur'an-ı Kerim'e Karşı Samimiyet: Onun; Allah'ın kelamı, kitapların sonuncusu, kendinden önceki bütün dinlerin hükmünü ortadan kaldırdığına iman ederiz. Onu hakkıyla okur, muhkem ayetleri ile amel eder ve müteşabih ayetlerinden selamette kalır, Kur'an ayetlerini tahrif edenlerin şüphelerinden sakınır, verdiği öğütleri dikkate alır, Kur'an ilimlerini yayar ve insanları ona davet ederiz. Üçüncüsü: Allah'ın Rasûlü Muhammed (s.a.v.)'e Karşı Samimiyet: Onun son peygamber olduğuna iman ederiz, getirdiklerini tasdik ederiz, emrettiklerini yapar, yasakladıklarından kaçınırız. Yüce Allah'a yalnızca onun öğrettikleri ile ibadet ederiz. Onun hakkını tazim eder, ona hürmet eder, davetini yayar, şeriatını insanlara aktarır ve ona atılan bütün iftiraları reddederiz. Dördüncüsü: Müslümanların Yöneticilerine Karşı Samimiyet: Hak üzere olduklarında onlara yardımcı olur, yönetim meselesinde onlarla tartışmayız. Allah'a itaat olan her meselede onlara itaat ederiz. Beşincisi: Müslümanlara Karşı Samimiyet: Onlara iyilik ve ihsanda bulunur ve davet ederiz, onlara eziyet etmekten sakınır, onlar için hayrı isteriz, takva ve iyilik üzerine onlarla yardımlaşırız.",
+      "categories": [
+        352,
+        327,
+        6
+      ],
+      "hints": [
+        "Herkese karşı samimiyet emredilmiştir.\r",
+        "Dinde samimiyetin yeri ifade edilmiştir.\r",
+        "Din; itikat, söz ve ameli kapsar.\r",
+        "Nasihat edilecek kişiyi aldatmayı terk etmek ve onun hayrını istemek samimiyettir.\r",
+        "Rasûlullah (s.a.v.)'in öğretim metodunun güzelliği ifade edilmiştir. Bir şeyden genel olarak bahsetmiş sonra da onu detaylandırmıştır.\r",
+        "Öncelik sırasına göre başlamak gerekir. Bundan dolayı Nebi (s.a.v.) önce Allah'a karşı samimiyeti sonra kitabına karşı samimiyeti sonra Rasûlüne karşı samimiyeti sonra Müslümanların yöneticilerine karşı samimiyeti son olarak bütün Müslümanlara karşı olan samimiyeti zikretmiştir."
+      ]
+    },
+    {
+      "id": 66527,
+      "hadithIntro": "Ebû Hureyre (r.a.)'dan rivayet edildiğine göre Rasûlullah (s.a.v.) şöyle buyurmuştur:",
+      "title": "İnsanın her bir eklemi adına sadaka vermesi gerekir",
+      "hadith": "Ebû Hureyre (r.a.)'dan rivayet edildiğine göre Rasûlullah (s.a.v.) şöyle buyurmuştur: «İnsanın her bir eklemi için sadaka gerekir:  Güneşin doğduğu her gün iki kişinin arasını bulman, (haklarında adaletle hükmetmen) bir sadakadır. Bir kimseye bineğine binerken yardımcı olman veya yükünü hayvanına yüklemesine yardım etmen bir sadakadır. Güzel bir söz söylemek sadakadır. Namaza giderken attığın her adıma bir sadaka sevabı vardır. Gelip geçenleri rahatsız eden bir şeyi yoldan alıp kaldırman bir sadakadır.»",
+      "hadithAr": "عَنْ أَبِي هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ قَالَ: قَالَ رَسُولُ اللَّهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ: «كُلُّ سُلَامَى مِنَ النَّاسِ عَلَيْهِ صَدَقَةٌ، كُلَّ يَوْمٍ تَطْلُعُ فِيهِ الشَّمْسُ تَعْدِلُ بَيْنَ الِاثْنَيْنِ صَدَقَةٌ، وَتُعِينُ الرَّجُلَ فِي دَابَّتِهِ فَتَحْمِلُهُ عَلَيْهَا أَوْ تَرْفَعُ لَهُ عَلَيْهَا مَتَاعَهُ صَدَقَةٌ، وَالكَلِمَةُ الطَّيِّبَةُ صَدَقَةٌ، وَكُلُّ خُطْوَةٍ تَمْشِيهَا إِلَى الصَّلَاةِ صَدَقَةٌ، وَتُمِيطُ الأَذَى عَنِ الطَّرِيقِ صَدَقَةٌ».",
+      "hadithIntroAr": "عَنْ أَبِي هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ قَالَ: قَالَ رَسُولُ اللَّهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ:",
+      "attribution": "Buhârî ve Müslim rivayet etmiştir",
+      "attributions": [
+        "Buhârî ve Müslim rivayet etmiştir"
+      ],
+      "grade": "Sahih Hadis",
+      "explanation": "Peygamber Efendimiz (s.a.v.) her mükellef Müslümanın, Allah Teâlâ'ya kendisine bahşetmiş olduğu sağlık ve afiyet nimetine şükretmek için, vücudundaki her bir eklem sayısınca her gün gönüllü olarak sadaka vermesi gerektiğini beyan etmiştir. Bu sadaka, kişinin ellerini açıp kapayabilmesi için eklemlerle donatılmış olmasına şükrün bir ifadesidir. Bu sadaka her zaman maddi bir şey vermekle olmaz; tüm hayır işlerini kapsar. Örneğin, iki kişi arasını düzeltmek ve onları barıştırmak bir sadakadır. Yine yardıma muhtaç bir kimsenin bineğine binmesine yardım etmek veya yükünü kaldırmak da sadakadır. Zikretmek, dua etmek, selam vermek gibi güzel söz sadakadır. Namaza doğru attığın her adım bir sadakadır. Yoldan insanlara zarar verecek bir engeli kaldırmak da bir sadakadır.",
+      "categories": [
+        338,
+        325,
+        6
+      ],
+      "hints": [
+        "İnsan kemiklerinin yapısı ve bütünlüğü, Allah Teâlâ'nın insana bahşettiği en büyük nimetlerinden biridir. Dolayısıyla bu nimetin şükrünü yerine getirmek adına her bir kemik için sadaka verilmesi gerekir.\r",
+        "Bu nimetlerin devamlılığı için her gün şükür etmeyi yenilemek teşvik edilmiştir.\r",
+        "Her gün nafile ibadetlere ve sadaka vermeye devam etmek teşvik edilmiştir.\r",
+        "İnsanlar arasını ıslah etmenin fazileti ifade edilmiştir.\r",
+        "Bir adamın din kardeşine yardım etmesi teşvik edilmiştir. Çünkü kardeşine yaptığı yardım sadakadır.\r",
+        "Cemaatle kılınan namazlara katılmak, camiye yürüyerek gitmek ve bu şekilde camileri canlı tutmak teşvik edilmiştir.\r",
+        "Müslümanların yollarına zarar verecek veya onlara eziyet edecek şeylerden kaçınarak yollarına saygı göstermek gerekir."
+      ]
+    },
+    {
+      "id": 66272,
+      "hadithIntro": "Ebû Hureyre (r.a.)'tan rivayet edildiğine göre o şöyle demiştir: \"Ey Allah'ın Rasûlü, müşriklere beddua edeyim mi.\" O da şöyle buyurmuştur:",
+      "title": "Ben lanetçi olarak gönderilmedim! Ben ancak ve ancak rahmet olarak gönderildim!",
+      "hadith": "Ebû Hureyre (r.a.)'tan rivayet edildiğine göre o şöyle demiştir: \"Ey Allah'ın Rasûlü, müşriklere beddua edeyim mi.\" O da şöyle buyurmuştur: «Ben lanetçi olarak gönderilmedim! Ben ancak ve ancak rahmet olarak gönderildim!»",
+      "hadithAr": "عَنْ أَبِي هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ قَالَ: قِيلَ: يَا رَسُولَ اللهِ ادْعُ عَلَى المُشْرِكِينَ قَالَ: «إِنِّي لَمْ أُبْعَثْ لَعَّانًا، وَإِنَّمَا بُعِثْتُ رَحْمَةً».",
+      "hadithIntroAr": "عَنْ أَبِي هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ قَالَ: قِيلَ: يَا رَسُولَ اللهِ ادْعُ عَلَى المُشْرِكِينَ قَالَ:",
+      "attribution": "Müslim rivayet etmiştir",
+      "attributions": [
+        "Müslim rivayet etmiştir"
+      ],
+      "grade": "Sahih Hadis",
+      "explanation": "Nebî (s.a.v.)'den müşriklere lanet okuması istendiğinde şöyle buyurmuştur: Ben Allah tarafından, insanları Allah'ın rahmetinden uzaklaştırmak ve iyilikten mahrum bırakmak, lanet okumak ve onlara beddua etmek için gönderilmedim. Ben bunun için gönderilmedim, aksine genel olarak insanlar için, özel olarak da Müminler için iyilik ve rahmet vesilesi olmak üzere gönderildim.",
+      "categories": [
+        647,
+        406,
+        367,
+        7
+      ],
+      "hints": [
+        "Nebî (s.a.v.)'in ahlakının mükemmelliğini göstermektedir.\r",
+        "\r",
+        "Lanet etmeyi yasaklıyor.\r",
+        "İnsanlara karşı şefkat duygusunu teşvik ediyor."
+      ]
+    },
+    {
+      "id": 66304,
+      "hadithIntro": "Ebû Seleme b. Abdurrahman'dan rivayet edildiğine göre, Câbir b. Abdullah el-Ensârî (r.a.) şöyle demiştir: Vahiy dönemi hakkında rivayet ederken şöyle söylemiştir:",
+      "title": "Yürürken gökten bir ses duydum. Gözlerimi kaldırdım ve Hira’da bana gelen meleği",
+      "hadith": "Ebû Seleme b. Abdurrahman'dan rivayet edildiğine göre, Câbir b. Abdullah el-Ensârî (r.a.) şöyle demiştir: Vahiy dönemi hakkında rivayet ederken şöyle söylemiştir: «Yürürken gökten bir ses duydum. Gözlerimi kaldırdım ve Hira’da bana gelen meleği gök ile yer arasında bir sandalyede otururken gördüm. Ondan çok korktum, bu yüzden geri döndüm ve Beni örtün! dedim. Bunun üzerine Allah Teâlâ şu ayeti indirdi: {Ey örtünmüş olan! Kalk ve uyar!} [Müddessir: 2] ve ardından şu ayeti indirdi: {Her türlü pislikten uzak dur!} [Müddessir: 5]. Sonra vahiy daha da şiddetlendi ve devam etti.»",
+      "hadithAr": "عَنْ أبي سَلَمَةَ بْنِ عَبْدِ الرَّحْمَنِ أَنَّ جَابِرَ بْنَ عَبْدِ اللَّهِ الأَنْصَارِيِّ رَضِيَ اللَّهُ عَنْهُمَا قَالَ: وَهُوَ يُحَدِّثُ عَنْ فَتْرَةِ الوَحْيِ، فَقَالَ فِي حَدِيثِهِ: «بَيْنَا أَنَا أَمْشِي إِذْ سَمِعْتُ صَوْتًا مِنَ السَّمَاءِ، فَرَفَعْتُ بَصَرِي، فَإِذَا المَلَكُ الَّذِي جَاءَنِي بِحِرَاءٍ جَالِسٌ عَلَى كُرْسِيٍّ بَيْنَ السَّمَاءِ وَالأَرْضِ، فَرُعِبْتُ مِنْهُ، فَرَجَعْتُ فَقُلْتُ: زَمِّلُونِي، فَأَنْزَلَ اللَّهُ تَعَالَى: {يَا أَيُّهَا المُدَّثِّرُ1 قُمْ فَأَنْذِرْ} [المدثر: 2] إِلَى قَوْلِهِ {وَالرُّجْزَ فَاهْجُرْ} [المدثر: 5]. فَحَمِيَ الوَحْيُ وَتَتَابَعَ».",
+      "hadithIntroAr": "عَنْ أبي سَلَمَةَ بْنِ عَبْدِ الرَّحْمَنِ أَنَّ جَابِرَ بْنَ عَبْدِ اللَّهِ الأَنْصَارِيِّ رَضِيَ اللَّهُ عَنْهُمَا قَالَ: وَهُوَ يُحَدِّثُ عَنْ فَتْرَةِ الوَحْيِ، فَقَالَ فِي حَدِيثِهِ:",
+      "attribution": "Muttefekun aleyh",
+      "attributions": [
+        "Muttefekun aleyh"
+      ],
+      "grade": "Sahih Hadis",
+      "explanation": "Nebî (s.a.v.) peygamber olarak gönderildiği dönemin başlangıcında vahyin kesilmesi ve inmesinin engellenmesi hakkında konuşurken şöyle buyurmuştur: Mekke sokaklarında yürürken gökten bir ses işittim. Gözlerimi kaldırdım ve Hira mağarasında daha önce bana gelen Cebrâîl isimli meleği gök ile yer arasında bir sandalyede otururken gördüm. Ondan çok korktum ve dehşete düştüm. Ailemin yanına döndüm ve Beni bir örtüye sarın dedim. Sonra Allah Teâlâ şu ayeti indirdi: {Ey örtüsüne bürünen!} {Kalk} ayağa! davet et {ve uyar} ve risaletine (peygamberliğine) inanmayanları uyar! {Rabbinin} ibadet edilecek ilahının {büyüklüğünü dile getir} O'na hamdet ve O'nu yücelt. {Elbiselerini} Giysilerini {temizle} onları necasetten arındır; {pisliği} putperestliğin iğrençliğini {terk et} ve ondan uzaklaş. Bundan sonra vahiy daha da güçlendi ve çoğaldı.",
+      "categories": [
+        389,
+        367,
+        7
+      ],
+      "hints": [
+        "Nebî (s.a.v.)'e gelen vahiy, Allah (c.c.)'nin şu sözlerinin vahyedilmesinden sonra kısa bir süre kesintiye uğradı: {Oku}.\r",
+        "İnsanın, yaşadığı zorluklar geçtikten sonra, Allah Teâlâ'ya şükretmesini ifade etmek amacıyla bunlardan bahsetmesi caizdir.\r",
+        "İlk inen {Yaratan Rabbinin adıyla oku} ayetten sonra (bir ara vahiy inmedi) sonra Allah Teâlâ'nın şu sözü indi: {Ey örtüsüne bürünen!}.\r",
+        "Allah Subhânehû ve Teâlâ Peygamberi (s.a.v.)'e bu dünyadan ayrılana kadar sürekli olarak vahiy indirerek ona lütfunu ihsan etmiştir.\r",
+        "İnsanları Allah Teâlâ'ya etmek, yüz çevirenleri uyarmak ve itaat edenlere müjde vermek önemli bir gerekliliktir.\r",
+        "Namaz için elbiselerin temizlenmesi farzdır ve buna delil olarak Allah Teâlâ'nın şu sözünü göstermişlerdir: {Ve elbiseni tertemiz tut}.\r",
+        "Meleklere ve Allah'ın onlara verdiği görevlere ve diğer şeylere iman etmek farzdır."
       ]
     }
   ]
