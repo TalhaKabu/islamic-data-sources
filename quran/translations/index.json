@@ -1,0 +1,62 @@
+{
+  "version": "1.0.0",
+  "updatedAt": "2026-11-19T15:36:45.0378903+00:00",
+  "contentHash": "6c5a956d5cba08e541ff8f956783d363a1911be0e722a16f8141aae3cb9d9c85",
+  "translations": [
+    {
+      "id": "tr_diyanet",
+      "language": "tr",
+      "title": "Diyanet İşleri Başkanlığı Meali",
+      "description": "T.C. Diyanet İşleri Başkanlığı Kur'an-ı Kerim meali ve sure bilgileri.",
+      "source": "diyanet",
+      "sourceVersion": "0.0.6",
+      "direction": "ltr",
+      "isDefaultForLanguage": true,
+      "version": "1.0.0",
+      "contentHash": "082f1921fc9703611c825c7b8e9d4e3408dd7de839ba09b2d40eb13c87f7d67b",
+      "file": "translations/tr_diyanet.json"
+    },
+    {
+      "id": "turkish_shaban",
+      "language": "tr",
+      "title": "Şaban Piriş Meali",
+      "description": "Translated by Shaaban British, developed under the supervision of Rowad Translation Center. The original translation is available for expressing opinion, evaluation, and continuous development.",
+      "source": "quranenc",
+      "sourceVersion": "1.1.0",
+      "lastUpdate": 1577307600,
+      "direction": "ltr",
+      "isDefaultForLanguage": false,
+      "version": "1.0.0",
+      "contentHash": "388d39908fd34469743001093416f0f6b6f9ee09904e4fe5947652d3ff86bb02",
+      "file": "translations/turkish_shaban.json"
+    },
+    {
+      "id": "english_saheeh",
+      "language": "en",
+      "title": "Saheeh International",
+      "description": "Issued by Noor International Center.",
+      "source": "quranenc",
+      "sourceVersion": "1.1.2",
+      "lastUpdate": 1750772247,
+      "direction": "ltr",
+      "isDefaultForLanguage": true,
+      "version": "1.0.0",
+      "contentHash": "0cd5ef1524f6eb1b39144bf65fbfd704e8389296a10ed586b17aa58bd5e7950d",
+      "file": "translations/english_saheeh.json"
+    },
+    {
+      "id": "english_rwwad",
+      "language": "en",
+      "title": "Rowwad Translation Center",
+      "description": "Translated by the team of the Rowwad Translation Center, in cooperation with the Rabwah Dawah Association, the Islamic Content Service Association in Languages, and the IslamHouse.com website.",
+      "source": "quranenc",
+      "sourceVersion": "1.0.21",
+      "lastUpdate": 1794213356,
+      "direction": "ltr",
+      "isDefaultForLanguage": false,
+      "version": "1.0.0",
+      "contentHash": "10591f6e20b4feebe3d2d928652230e3b8d26a205f87676c80b5ea0aeccc81ed",
+      "file": "translations/english_rwwad.json"
+    }
+  ]
+}
