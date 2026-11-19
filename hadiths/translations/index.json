@@ -1,0 +1,35 @@
+{
+  "version": "1.0.0",
+  "updatedAt": "2026-11-19T16:04:00.147258+00:00",
+  "contentHash": "cad90ab9f0858c27ddd8dae5f5c8c685d829737f2d199eab42ab4c2ad99a6508",
+  "translations": [
+    {
+      "id": "tr",
+      "language": "tr",
+      "title": "Türkçe (HadeethEnc)",
+      "description": "HadeethEnc Türkçe hadis veri seti, şerhler ve kategoriler.",
+      "source": "hadeethenc",
+      "direction": "ltr",
+      "isDefaultForLanguage": true,
+      "categoryCount": 433,
+      "hadithCount": 2150,
+      "version": "1.0.0",
+      "contentHash": "507cc9bbc60c001601c365042d54a2b4c737ca918ece430b15bd53237b9ded84",
+      "file": "translations/tr.json"
+    },
+    {
+      "id": "en",
+      "language": "en",
+      "title": "English (HadeethEnc)",
+      "description": "HadeethEnc English hadith dataset, explanations, and categories.",
+      "source": "hadeethenc",
+      "direction": "ltr",
+      "isDefaultForLanguage": true,
+      "categoryCount": 452,
+      "hadithCount": 2328,
+      "version": "1.0.0",
+      "contentHash": "91f8cbfae9cdb4ba1ceeb4ea085c715beddb0ae29ef85047542fe25991018722",
+      "file": "translations/en.json"
+    }
+  ]
+}
